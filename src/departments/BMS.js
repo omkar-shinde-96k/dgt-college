@@ -127,7 +127,7 @@ function BMS() {
                                 <div class="about_img"><img src="../images/t-staff/tamsil.jpg" alt="" />
                                     <h5>Asst.Prof.Snehal Ghone<br /><span>Management</span></h5>
                                     <div class="about_opa">
-                                        <p>Management</p>
+                                        <p>Lecturer</p>
                                     </div>
                                 </div>
                             </div>
