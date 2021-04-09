@@ -74,86 +74,197 @@ function BMS() {
                     </div>
                 </div>
             </div>
-            {/* {{!-- syllybus end --}} */}
-
-
+            {/* {{!-- syllybus end --}} */} 
             <div class="secoundnav">
-
-                {/* {{!-- our skilled teachers --}} */}
-
-                <div class="team-w3l" id="team">
-                    <div class="container">
-                        <h3 class="w3l-title">Our Skilled Lecturers</h3>
-                        <div class="w3layouts_header">
-                            <p><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
-                        </div>
-                        <div class="team-w3l-grid">
-                            <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                                <div class="about_img"><img src="../images/t-staff/tamsil.jpg" alt="" />
-                                    <h5>Asst. Prof. Shahajahan Tamseel<br /><span>HOD in Management</span></h5>
-                                    <div class="about_opa">
-                                        <p> HOD in Management</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                                <div class="about_img"><img src="../images/t-staff/tamsil.jpg" alt="" />
-                                    <h5>Asst. Prof. Pooja Sakhare<br /><span> ManagementC</span></h5>
-                                    <div class="about_opa">
-                                        <p>Management</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                                <div class="about_img"><img src="../images/t-staff/tamsil.jpg" alt="" />
-                                    <h5>Asst. Prof. Nigar Dhansay<br /><span>Management</span></h5>
-                                    <div class="about_opa">
-                                        <p>ManagementC</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="clearfix"></div>
-                        </div>
-                        <div class="team-w3l-grid grid-2-team">
-                            <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                                <div class="about_img"><img src="../images/t-staff/tamsil.jpg" alt="" />
-                                    <h5>Asst.Prof.Sushmita Mhamunkar <br /><span>Management</span></h5>
-                                    <div class="about_opa">
-                                        <p>Management</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                                <div class="about_img"><img src="../images/t-staff/tamsil.jpg" alt="" />
-                                    <h5>Asst.Prof.Snehal Ghone<br /><span>Management</span></h5>
-                                    <div class="about_opa">
-                                        <p>Lecturer</p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="clearfix"></div>
-                        </div>
+ 
+                 {/* {{!-- our skilled teachers --}} */}
+                
+        <div class="team-w3l" id="team">
+          <div class="container">
+            <h3 class="w3l-title">Our Skilled Lecturers</h3>
+            <div class="w3layouts_header">
+              <p><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
+            </div>
+            <div class="team-w3l-grid">
+            <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
+                <div class="about_img"><img src="images/t-staff/tamsil.jpg" alt=""></img>
+                    <h5> <span  style={{fontSize:"20px"}}>Asst.Prof. Shahajahan Tamseel </span>  <span> HOD in Management</span></h5>
+                    <div class="about_opa">
+                        <p>HOD in Management</p>
                     </div>
                 </div>
-                {/* {{!-- our skilled teachers end --}} */}
+              </div>
+
+              <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
+                <div class="about_img"><img src="images/t-staff/danish.jpg" alt=""></img>
+                    <h5> <span>Asst. Prof. Pooja Sakhare</span>  <span> Lecturar</span></h5>
+                    <div class="about_opa">
+                        <p>Lecturar</p>
+                    </div>
+                </div>
+              </div>
+
+              <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
+                <div class="about_img"><img src="images/t-staff/sushmita.jpg" alt=""></img>
+                    <h5> <span>Asst. Prof. Nigar Dhansay</span>  <span> Lecturar</span></h5>
+                    <div class="about_opa">
+                        <p>Lecturar</p>
+                    </div>
+                </div>
+              </div>
+ 
+              <div class="clearfix"></div>
+            </div>
+            <div class="team-w3l-grid grid-2-team">
+            <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
+                <div class="about_img"><img src="images/t-staff/sushmita.jpg" alt=""></img>
+                    <h5> <span  style={{fontSize:"20px"}}>Asst.Prof.Sushmita Mhamunkar</span>  <span> Lecturar</span></h5>
+                    <div class="about_opa">
+                        <p>Lecturar</p>
+                    </div>
+                </div>
+              </div>
+              <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
+                <div class="about_img"><img src="images/t-staff/snehal.jpg"  ></img>
+                    <h5> <span>Asst.Prof.Snehal Ghone</span> <span> Lecturar</span></h5>
+                    <div class="about_opa">
+                        <p>Lecturar</p>
+                    </div>
+                </div>
+              </div>
+              <div class="clearfix"></div>
+            </div>
+          </div>
+        </div>
+
+        {/* {{!-- our skilled teachers end --}} */}
+
 
                 <h1 class="event-heading" align="center"><a>Events Of BMS Department</a> </h1> <br />
                 <br />
 
                 <div class="events">
-                    <h3 class="events-title" align="center"> <span> evemtName </span>- eventDate </h3> <br />
-                    <p class="events-details"> eventDescription </p>
+                    <h3 class="events-title" align="center"> <span> Visit to Ellora Caves </span>- 08-02-2020 </h3> <br />
+             
                     <br />
-                    <div class="row md-2 events-img">
-
-                        <a class="col-sm-12 col-lg-6" href="../documents/it/event/.jpg"><img
-                            src="../documents/it/event/.jpg" /></a>
-
-                        <a class="col-sm-12 col-lg-6" href="../documents/it/event/.jpg"><img
-                            src="../documents/it/event/.jpg" /></a>
+                    <div class="row events-imdg"> 
+                        <a width="100%" href="../documents/bms/events/ellora.jpg"><img
+                            src="../documents/bms/events/ellora.jpg"  width="100%"/></a> 
                     </div>
                 </div>
+
+                <div class="events">
+                    <h3 class="events-title" align="center"> <span> Visit to Ajanta Caves  </span>- 07-02-2020 </h3> <br />
+ 
+                    <br />
+                    <div class="row events-imdg"> 
+                        <a width="100%" href="../documents/bms/events/ajanta.jpg"><img
+                            src="../documents/bms/events/ajanta.jpg"  width="100%"/></a> 
+                    </div>
+                </div>
+
+                <div class="events">
+                    <h3 class="events-title" align="center"> <span> Visit to Handcraft Silk Factory, Aurangabad  </span>- 08-02-2020 </h3> <br />
+                    
+                    <br />
+                    <div class="row events-imdg"> 
+                        <a width="100%" href="../documents/bms/events/Silk-Factory.jpg"><img
+                            src="../documents/bms/events/Silk-Factory.jpg"  width="100%"/></a> 
+                    </div>
+                </div>
+
+                <div class="events">
+                    <h3 class="events-title" align="center"> <span> Indian Culture Representation   </span>- 27-01-2019 </h3> <br />
+                    <p class="events-details"> eventDescription </p>
+                    <br />
+                    <div class="row events-imdg"> 
+                        <a width="100%" href="../documents/bms/event/Culture.jpg"><img
+                            src="../documents/bms/events/Culture.jpg"  width="100%"/></a> 
+                    </div>
+                </div>
+
+
+                <div class="events">
+                    <h3 class="events-title" align="center"> <span> TYBMS hattrick batch 100 percent 18-2-19 </span>- 2019 </h3> <br />
+      
+                    <br />
+                    <div class="row events-imdg"> 
+                        <a width="100%" href="../documents/bms/events/100-2019.jpg"><img
+                            src="../documents/bms/events/100-2019.jpg"  width="100%"/></a> 
+                    </div>
+                </div>
+
+               
+               <div class="events">
+                    <h3 class="events-title" align="center"> <span> 3rd 100 Percent Result Celebration</span>-  24-02-2019  </h3> <br />
+       
+                    <br />
+                    <div class="row events-imdg"> 
+                        <a width="100%" href="../documents/bms/events/3rd100.jpg"><img
+                            src="../documents/bms/events/3rd100.jpg"  width="100%"/></a> 
+                    </div>
+                </div>
+
+                <div class="events">
+                    <h3 class="events-title" align="center"> <span> Degree Distribution  </span>- 08-01-2018 </h3> <br />
+ 
+                    <br />
+                    <div class="row events-imdg"> 
+                        <a width="100%" href="../documents/bms/events/degree18.jpg"><img
+                            src="../documents/bms/events/degree18.jpg"   width="100%"/></a> 
+                    </div>
+                </div>
+                <div class="events">
+                    <h3 class="events-title" align="center"> <span> First 100 Percent Result Celebration </span>- 22-02-2018  </h3> <br />
+                   
+                    <br />
+                    <div class="row events-imdg"> 
+                        <a width="100%" href="../documents/bms/events/100-2018.jpg"><img
+                            src="../documents/bms/events/100-2018.jpg"  width="100%"/></a> 
+                    </div>
+                </div>
+
+                <div class="events">
+                    <h3 class="events-title" align="center"> <span> Students Performance </span>-  26-01-2018 </h3> <br />
+ 
+                    <br />
+                    <div class="row events-imdg"> 
+                        <a width="100%" href="../documents/bms/events/Students Performance 26-1-18.jpg"><img
+                            src="../documents/bms/events/Students Performance 26-1-18.jpg" width="100%" /></a> 
+                    </div>
+                </div>
+
+                <div class="events">
+                    <h3 class="events-title" align="center"> <span> farewell party  </span>- 2017-2018 </h3> <br />
+                    <p class="events-details"> eventDescription </p>
+                    <br />
+                    <div class="row events-imdg"> 
+                        <a width="100%" href="../documents/bms/events/farewell party 2017-2018.jpg"><img
+                            src="../documents/bms/events/farewell party 2017-2018.jpg"  width="100%"/></a> 
+                    </div>
+                </div>
+
+                <div class="events">
+                    <h3 class="events-title" align="center"> <span> Visit to Oldage home Borewadi  </span>- 01-10-2016 </h3> <br />
+ 
+                    <br />
+                    <div class="row events-imdg"> 
+                        <a width="100%" href="../documents/bms/events/Visit to Oldage home Borewadi 01-10-2016.jpg"><img
+                            src="../documents/bms/events/Visit to Oldage home Borewadi 01-10-2016.jpg"  width="100%" /></a> 
+                    </div>
+                </div>
+
+                <div class="events">
+                    <h3 class="events-title" align="center"> <span> Visit </span>-  3-9-16 </h3> <br />
+                    <p class="events-details">  Visit To Yusuf Maher Ally Centre Pancel </p>
+                    <br />
+                    <div class="row events-imdg"> 
+                        <a width="100%" href="../documents/bms/events/Visit To Yusuf Maher Ally Centre Pancel 3-9-16.jpg"><img
+                            src="../documents/bms/events/Visit To Yusuf Maher Ally Centre Pancel 3-9-16.jpg" width="100%"/></a> 
+                    </div>
+                </div>
+
+
             </div>
             {/* secound nav end  */}
             <Footer />
