@@ -6,7 +6,7 @@ function About() {
             <div class="container">
                 <h3 class="w3l-title">
                     <x-sign class="style5">
-                        About Us
+                        -About Us-
 				    </x-sign>
                 </h3>
 
