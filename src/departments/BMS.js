@@ -101,7 +101,7 @@ function BMS() {
                     <div class="about_opa">
                         <p>Lecturar</p>
                     </div>
-                </div>
+                </div>   
               </div>
 
               <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
