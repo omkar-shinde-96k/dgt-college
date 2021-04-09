@@ -154,8 +154,6 @@ function BMS() {
                             src="../documents/it/event/.jpg" /></a>
                     </div>
                 </div>
-
-
             </div>
             {/* secound nav end  */}
             <Footer />
