@@ -117,6 +117,7 @@ Prof. Amrin Ibrahim Adkar HOD of Commerce Department. She has 8 years of teachin
                     </div>
                 </div>
               </div>
+              
               <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
                 <div class="about_img"><img src="images/t-staff/ansari.jpg" alt=""></img>
                     <h5> <span>Prof. Sumaiya Ansari</span>  <span> Lecturar</span></h5>

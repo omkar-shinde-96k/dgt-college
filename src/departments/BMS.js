@@ -96,7 +96,7 @@ function BMS() {
               </div>
 
               <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                <div class="about_img"><img src="images/t-staff/danish.jpg" alt=""></img>
+                <div class="about_img"><img src="images/t-staff/Pooja Sakhre.jpg" alt=""></img>
                     <h5> <span>Asst. Prof. Pooja Sakhare</span>  <span> Lecturar</span></h5>
                     <div class="about_opa">
                         <p>Lecturar</p>
@@ -105,7 +105,7 @@ function BMS() {
               </div>
 
               <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                <div class="about_img"><img src="images/t-staff/sushmita.jpg" alt=""></img>
+                <div class="about_img"><img src="images/t-staff/Nigar Dhansay.jpg" alt=""></img>
                     <h5> <span>Asst. Prof. Nigar Dhansay</span>  <span> Lecturar</span></h5>
                     <div class="about_opa">
                         <p>Lecturar</p>
@@ -138,7 +138,6 @@ function BMS() {
         </div>
 
         {/* {{!-- our skilled teachers end --}} */}
-
 
                 <h1 class="event-heading" align="center"><a>Events Of BMS Department</a> </h1> <br />
                 <br />

@@ -43,6 +43,31 @@ function Navbar() {
                                 <ul class="nav navbar-nav myDropdown " >
 
                                     <li class=" "> <NavLink to="/">Home</NavLink> </li>
+                                   
+                              
+
+
+
+                                    <li class="dropdown">
+                                        <a class="dropbtn">About &nbsp;
+                                            <i class="fa fa-caret-down"></i>
+                                        </a>
+                                        <div class="dropdown-content">
+                                            <NavLink to="/chemistry">About Sanstha</NavLink>
+                                            <NavLink to="/bscit">Founder of MSPM</NavLink>
+                                            <NavLink to="/BMS">Governing Body of MSPM</NavLink>
+                                            <NavLink to="/Bcom">About College</NavLink>
+                                            <NavLink to="/history">Founder of College</NavLink> 
+                                            <NavLink to="/hindi">President Of MSPM</NavLink>
+                                            <NavLink to="/Geography">College Principal</NavLink> 
+                                            <NavLink to="/Geography">College CDC</NavLink>
+                                            <NavLink to="/Geography">vision , mission Goals and Objective</NavLink>
+                                            <NavLink to="/Geography">College Team/Teaching Non Teaching</NavLink>
+                                            <NavLink to="/Geography"> college facilities  </NavLink>
+                                            <NavLink to="/Geography"> college Commitiee </NavLink>
+                                            
+                                        </div>
+                                    </li>
 
                                     <li class="dropdown">
                                         <a class="dropbtn">Courses &nbsp;
