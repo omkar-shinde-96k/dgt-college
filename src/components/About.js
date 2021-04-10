@@ -3,6 +3,44 @@ function About() {
 
     return (
         <>
+            <div class="container-fluid">
+                <h3 class="w3l-title">
+                    <x-sign class="style5">
+                        Principal message 
+				    </x-sign>
+                </h3>
+
+                <div class="w3layouts_header">
+                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
+                </div>
+
+                <div class="col-md-3 w3l_about_bottom_left"  > 
+                            <div class="team-w3l-grid" style={{border:"1px solid black"}}>
+                                <div class="  about-poleft t1">
+                                    <div class="about_img"><img src="images/t-staff/khamkar.jpg" height="100%" alt="" />
+                                        <h5 style={{lineHeight:"20px"}}> <span style={{fontSize:"20px",marginTop:"10px"}}>Dr. B.M Khamkar </span><span style={{fontSize:"15px"}}>Principal</span></h5>
+                                        <div class="about_opa">
+                                            <p >Principal</p>
+                                        </div>
+                                    </div>
+                                </div> 
+                                <div class="clearfix"></div>
+                            </div>  
+                </div>
+
+                <div class="col-md-9 wthree-about-grids" style={{ padding: "0px 0px 0px 20px" }}>
+ 
+                    <p> Man is not born, man is made. Making of the man is education. Higher education is third level education. Higher education is higher making of the man. Mangaon Shikshan Prasarak Mandal, Mangaon and its President Adv. Rajivji Sable laid a foundation stone of higher education in Mangaon on 1993. It is that time known as Arts’ Senior College. Later It is named as D.G.Tatkare College on 10th January 2010. At present the college caters Arts, Science, Commerce, Information Technology(IT) and Management  Course. The college is affiliated to University of Mumbai.  
+                    The college putting every effort to provide value based, quality based and activity oriented education. The qualified teaching staff and academic syllabus of University of Mumbai provides quality based education. National Social Services and Life Long Learning and extension like activities are for value based education. The Sport activity, Practicals, Computer courses, Vermicomposting, Dance & Drama like cultural activities orient the activity based education to students.
+                Nurturing the students to create a competent role models for the society by college organize essay, elocution, debate like activities. Seminars, Presentation, Viva-voce as regular part of higher education makes the student resourceful for facing the challenges of ever changing society. Malhar and Anand-Tarang are the great events to infuse versatility in the personality of the students. College honoured over one thousand trophies, mementoes to students ranked in academic and co- curricular activities. It motivates the Students to undertake responsibility connected to the chosen field. College organized four national seminars in Arts, Science, Commerce, IT, Management and Library sciences, students presented over hundred research papers in National Seminar. Research-innovation like activities offer intellectually stimulating environment in the campus.</p>
+ 
+                </div>
+
+                <div class="clearfix"> </div>
+            </div>
+<br></br>
+<hr></hr>
+<br></br>
             <div class="container">
                 <h3 class="w3l-title">
                     <x-sign class="style5">
@@ -44,7 +82,7 @@ function About() {
 
 
 
-<br></br><br></br><br></br>
+<br/><br/><br/><br/>
 
 
 

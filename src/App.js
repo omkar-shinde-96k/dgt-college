@@ -34,10 +34,10 @@ import Library from './academics/Library';
 import Office from './academics/Office';
 import Termwise from './academics/Termwise';
 
-
 import Timetable from './other-compo/Timetable';
 import Vangmay from './other-compo/Vangmay';
 import Naac from './other-compo/Naac';
+import Nss from './other-compo/Nss';
 
 function Home() {
   return (
@@ -82,6 +82,7 @@ function App() {
         <Route path='/time-table' component={Timetable} />
         <Route path='/marathi-vangmay' component={Vangmay} />
         <Route path='/naac' component={Naac} />
+        <Route path='/nss' component={Nss} />
 
 
 

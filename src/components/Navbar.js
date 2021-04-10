@@ -53,6 +53,7 @@ function Navbar() {
                                             <i class="fa fa-caret-down"></i>
                                         </a>
                                         <div class="dropdown-content">
+
                                             <NavLink to="/chemistry">About Sanstha</NavLink>
                                             <NavLink to="/bscit">Founder of MSPM</NavLink>
                                             <NavLink to="/BMS">Governing Body of MSPM</NavLink>
@@ -74,14 +75,30 @@ function Navbar() {
                                             <i class="fa fa-caret-down"></i>
                                         </a>
                                         <div class="dropdown-content">
-                                            <NavLink to="/chemistry">Bsc Chemistry</NavLink>
+
+
+                                            <NavLink to="/chemistry">BA &nbsp;
+                                            <i class="fa fa-caret-down"></i>
+                                                <ul class="subdrop">
+                                                    <li>
+                                                    <NavLink to="/history">History</NavLink>
+                                                    </li>
+                                                    <li>
+                                                    <NavLink to="/marathi">Marathi</NavLink>
+                                                    </li>
+                                                    <li>
+                                                    <NavLink to="/hindi">Hindi</NavLink>
+                                                    </li>
+                                                    <li>
+                                                    <NavLink to="/Geography">Geography</NavLink>
+                                                    </li>
+                                                    
+                                                </ul>
+                                            </NavLink>
+                                            <NavLink to="/chemistry">BSc (Chemistry)</NavLink>
                                             <NavLink to="/bscit">Bsc IT</NavLink>
                                             <NavLink to="/BMS">B.M.S</NavLink>
-                                            <NavLink to="/Bcom">B.com</NavLink>
-                                            <NavLink to="/history">History</NavLink>
-                                            <NavLink to="/marathi">Marathi</NavLink>
-                                            <NavLink to="/hindi">Hindi</NavLink>
-                                            <NavLink to="/Geography">Geography</NavLink>
+                                            <NavLink to="/Bcom">B.com</NavLink> 
                                         </div>
                                     </li>
 
@@ -167,11 +184,9 @@ function Navbar() {
                                         </div>
                                     </li>
 
-                                    <li><NavLink to="/time-table">College Timetable</NavLink></li>
+                                    <li><NavLink to="/time-table">Timetable</NavLink></li>
 
                                     <li><NavLink to="/time-table">CGRC Committee</NavLink></li>
-
-
 
                                     <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
                                     </ul>

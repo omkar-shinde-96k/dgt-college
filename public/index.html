@@ -66,7 +66,13 @@
 
   <script src="push.min.js"></script>
   <script src="serviceWorker.min.js"></script>
+<!-- nss -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+<!-- nss -->
   <style>
     .dropdown {
       /* float: left; */
@@ -135,6 +141,23 @@
     });
   </script>
 
+
+<!-- nss  -->
+<script>
+  $(document).ready(function () {
+      $(".nav-tabs a").click(function () {
+          $(this).tab('show');
+      });
+      $('.nav-tabs a').on('shown.bs.tab', function (event) {
+          var x = $(event.target).text();         // active tab
+          var y = $(event.relatedTarget).text();  // previous tab
+          $(".act span").text(x);
+          $(".prev span").text(y);
+      });
+  });
+</script>
+
+<!-- nss -->
 
 </head>
 

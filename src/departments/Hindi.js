@@ -8,10 +8,7 @@ function Hindi() {
 
             <div class="container-fluid">
                 <div class="row">
-                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-xs-12   ">
-
-
-                      
+                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-xs-12   "> 
                             <div class="team-w3l-grid" style={{border:"1px solid black"}}>
                                 <div class="  about-poleft t1">
                                     <div class="about_img"><img src="images/t-staff/Pandey.jpg" height="100%" alt="" />
@@ -22,10 +19,7 @@ function Hindi() {
                                     </div>
                                 </div> 
                                 <div class="clearfix"></div>
-                            </div>
-                    
-
-
+                            </div> 
                     </div>
 
 
