@@ -84,10 +84,7 @@ function App() {
         <Route path='/naac' component={Naac} />
         <Route path='/nss' component={Nss} />
 
-
-
-
-
+ 
       </Router>
     </>
   );

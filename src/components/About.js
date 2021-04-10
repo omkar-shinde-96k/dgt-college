@@ -3,7 +3,7 @@ function About() {
 
     return (
         <>
-            <div class="container-fluid">
+            <div class="container-fluid" data-aos="fade-right" data-aos-offset="200">
                 <h3 class="w3l-title">
                     <x-sign class="style5">
                         Principal message 
@@ -41,7 +41,7 @@ function About() {
 <br></br>
 <hr></hr>
 <br></br>
-            <div class="container">
+            <div class="container" data-aos="fade-left">
                 <h3 class="w3l-title">
                     <x-sign class="style5">
                         -About Us-
@@ -79,16 +79,14 @@ function About() {
                 <div class="clearfix"> </div>
             </div>
 
-
-
+ 
 
 <br/><br/><br/><br/>
 
-
-
+ 
 
             <div class="stats" id="stats">
-			<div class="container">
+			<div class="container" data-aos="zoom-in">
 				<div class="stats-info">
 					<div class="col-md-3 col-xs-3 stats-grid slideanim">
 						<i class="fa fa-users" aria-hidden="true"></i>

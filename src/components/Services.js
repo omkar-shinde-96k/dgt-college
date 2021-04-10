@@ -2,7 +2,7 @@ function Services() {
     return (
         <>
             <br></br><br></br>
-            <div class="container">
+            <div class="container" >
                 <div class="row">
                     <h3 class="w3l-title">
                         <x-sign class="style8">
@@ -12,7 +12,7 @@ function Services() {
                 </div>
                 <br></br>
                 <div class="row">
-                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" data-aos="fade-right">
                         <h2 align="center">library</h2>
                         <div class="w3layouts_header">
                             <p ><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
@@ -25,7 +25,7 @@ function Services() {
                         </div>
                     </div>
 
-                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" data-aos="zoom-in">
                         <h2 align="center">library</h2>
                         <div class="w3layouts_header">
                             <p ><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
@@ -38,7 +38,7 @@ function Services() {
                         </div>
                     </div>
 
-                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" data-aos="fade-left">
                         <h2 align="center">library</h2>
                         <div class="w3layouts_header">
                             <p ><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
@@ -55,7 +55,7 @@ function Services() {
                 <br></br><br></br>
 
                 <div class="row">
-                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" data-aos="fade-right">
                         <h2 align="center">library</h2>
                         <div class="w3layouts_header">
                             <p ><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
@@ -68,7 +68,7 @@ function Services() {
                         </div>
                     </div>
 
-                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" data-aos="zoom-in">
                         <h2 align="center">library</h2>
                         <div class="w3layouts_header">
                             <p ><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
@@ -81,7 +81,7 @@ function Services() {
                         </div>
                     </div>
 
-                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" data-aos="fade-left">
                         <h2 align="center">library</h2>
                         <div class="w3layouts_header">
                             <p ><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
