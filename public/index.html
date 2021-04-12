@@ -64,21 +64,17 @@
 
   <script src="push.min.js"></script>
   <script src="serviceWorker.min.js"></script>
-<!-- nss -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <!-- nss -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
+  <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 
- <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
-
- 
-<!-- nss -->
+  <!-- nss -->
   <style>
     .dropdown {
-      /* float: left; */
-      /* overflow: hidden; */
       overflow: visible;
     }
 
@@ -143,27 +139,23 @@
     });
   </script>
 
+  <!-- nss  -->
 
-<!-- nss  -->
-<script>
-  $(document).ready(function () {
+  <script>
+    $(document).ready(function () {
       $(".nav-tabs a").click(function () {
-          $(this).tab('show');
+        $(this).tab('show');
       });
       $('.nav-tabs a').on('shown.bs.tab', function (event) {
-          var x = $(event.target).text();         // active tab
-          var y = $(event.relatedTarget).text();  // previous tab
-          $(".act span").text(x);
-          $(".prev span").text(y);
+        var x = $(event.target).text();         // active tab
+        var y = $(event.relatedTarget).text();  // previous tab
+        $(".act span").text(x);
+        $(".prev span").text(y);
       });
-  });
-</script>
+    });
+  </script>
 
-
- 
-  
-
-<!-- nss -->
+  <!-- nss -->
 
 </head>
 

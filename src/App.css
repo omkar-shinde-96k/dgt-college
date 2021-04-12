@@ -2402,17 +2402,17 @@ text-align:center;
 
 	.Drawer{
 		position:absolute;
-		top:-5000px; 
-		width: 100%;
+		right:-2000px; 
+		width: 80%;
 		min-height: 900px;
 		background-color: rgb(255, 255, 255);
 		z-index: 3322;
 		color:white;  
 		border: 1px solid black;
-		transition: 1s;
+		transition: 0.5s;
 	}
 
 	.shows{
 		position:absolute;
-		top:50px; 
+		right:0px; 
 	}

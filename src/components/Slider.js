@@ -3,7 +3,6 @@ function Slider() {
   return (
     <>
      
-
      <div class="container-fluid" style={{margin:"0", padding:"0"}}> 
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
     {/* <!-- Indicators --> */}
