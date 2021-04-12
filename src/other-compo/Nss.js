@@ -201,17 +201,11 @@ function Nss() {
 
             {/* {{!-- **************************************************************** --}} */}
 
-            {/* <div id="menu3" class="tab-pane fade"> 
-                <p>
-                    <iframe src="../documents/nss/wowslider.html" style={{width:"100%" , height:"720px" , maxWidth:"100%" , overflow:"hidden" , border:"none", padding:"0",margin:"0 auto", display:"block" marginheight="0" marginwidth="0"></iframe>
-                    <br/>
- </b> NSS Song <b> &nbsp; <br/><audio controls>
-                        <source src="horse.ogg" type="audio/ogg">
-                        <source src="../documents/nss/song.mp3" title="nss song" type="audio/mpeg">
-                        Your browser does not support the audio element.
-                    </audio>
-                </p>
-            </div> */}
+            <div id="menu3" class="tab-pane fade"> 
+
+                    <iframe src="../documents/nss/wowslider.html" style={{width:"100%" , height:"720px" , maxWidth:"100%" , overflow:"hidden" , border:"none", padding:"0",margin:"0 auto", display:"block", marginheight:"0", marginwidth:"0"}}/> 
+                   
+            </div>  
 
             {/* {{!-- **************************************************************** --}} */}
 

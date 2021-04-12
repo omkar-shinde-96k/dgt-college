@@ -39,6 +39,9 @@ import Vangmay from './other-compo/Vangmay';
 import Naac from './other-compo/Naac';
 import Nss from './other-compo/Nss';
 
+
+import Error from './components/Error';
+
 function Home() {
   return (
     <>
@@ -55,11 +58,12 @@ function Home() {
 function App() {
   return (
     <>
-      <Drawer />
+
 
       <Router>
+        <Drawer />
         <Navbar />
-
+<Switch>
         <Route exact path='/' component={Home} />
         <Route path='/bscit' component={Bscit} />
         <Route path='/chemistry' component={Chemistry} />
@@ -83,8 +87,10 @@ function App() {
         <Route path='/marathi-vangmay' component={Vangmay} />
         <Route path='/naac' component={Naac} />
         <Route path='/nss' component={Nss} />
-
  
+        <Route  component={Error} />
+        </Switch>
+
       </Router>
     </>
   );

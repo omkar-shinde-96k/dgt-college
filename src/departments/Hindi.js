@@ -21,9 +21,7 @@ function Hindi() {
                                 <div class="clearfix"></div>
                             </div> 
                     </div>
-
-
-
+ 
                     <div class="col-xl-9 col-lg-9 col-md-4 col-sm-6 col-xs-12 p-5 ">
 
                         <div class="col-10 hod" style={{ marginTop: "15px" }}>

@@ -1,22 +1,14 @@
 // import '../App.css';
-import {
-    BrowserRouter as Router,
-    Switch,
-    Route,
-    Link,
-    NavLink
-} from "react-router-dom";
+import { Link, NavLink , Route, Switch } from "react-router-dom";
 
 function Drawer() {
     return (
         <>
-
-            <div id="appnav" class="Drawer">
-                <Router>
-                    <Switch>
+            <div id="appnav" class="Drawer"> 
+                  {/* <Switch> */}
                         <ul class="nav navbar-nav myDropdown " >
 
-                            <li class=" "> <NavLink to="/">Home</NavLink> </li>
+                            {/* <li class=" "> <NavLink exact to="/">Home</NavLink> </li> */}
                             <br></br>
 
                             <li class="dropdown">
@@ -24,22 +16,22 @@ function Drawer() {
                               < i class="fa fa-caret-down"></i>
                                 </a>
                                 <div class="dropdown-content">
-                                    {/* <NavLink className="remove" to="/chemistry">Bsc Chemistry</NavLink>
+                                    <NavLink className="remove" to="/chemistry">Bsc Chemistry</NavLink>
                                     <NavLink className="remove" to="/bscit">Bsc IT</NavLink>
                                     <NavLink className="remove" to="/BMS">B.M.S</NavLink>
                                     <NavLink className="remove" to="/Bcom">B.com</NavLink>
                                     <NavLink className="remove" to="/history">History</NavLink>
                                     <NavLink className="remove" to="/marathi">Marathi</NavLink>
                                     <NavLink className="remove" to="/hindi">Hindi</NavLink>
-                                    <NavLink className="remove" to="/Geography">Geography</NavLink> */}
+                                    <NavLink className="remove" to="/Geography">Geography</NavLink>
 
-                                    <a href="/chemistry" className="remove" >chemistry</a>
+                                    {/* <a href="/chemistry" className="remove" >chemistry</a>
                                     <a href="/bscit" className="remove" >Bsc IT</a>
                                     <a href="/BMS" className="remove" >B.M.S</a>
                                     <a href="/Bcom" className="remove" >History</a>
                                     <a href="/marathi" className="remove" >Marathi</a>
                                     <a href="/marathi" className="remove" >Hindi</a>
-                                    <a href="/Geography" className="remove" >Geography</a>
+                                    <a href="/Geography" className="remove" >Geography</a> */}
 
                                 </div>
                             </li>className="remove"
@@ -135,9 +127,8 @@ function Drawer() {
 
 
                         </ul>
-
-                    </Switch>
-                </Router>
+                    {/* </Switch> */}
+ 
             </div>
 
         </>

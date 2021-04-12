@@ -183,8 +183,8 @@ function Team() {
                         </div>
                         <div class="clearfix"> </div>
                     </div>
-                </div>
-            </div>
+                </div> 
+            </div>   
             <div id="map" style={{ marginBottom: "50px" }} data-aos="zoom-in-down"> <iframe
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.897115125738!2d73.28359431436465!3d18.227612582826495!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be82ffcafffffff%3A0x78fa283c8804283c!2sD.%20G.%20Tatkare%20Mahavidyalay!5e1!3m2!1sen!2sde!4v1598778705863!5m2!1sen!2sde"
                 width="100%" height="500" frameborder="0" allowfullscreen="true"
