@@ -85,9 +85,9 @@ function App() {
 
         <Route path='/time-table' component={Timetable} />
         <Route path='/marathi-vangmay' component={Vangmay} />
-        <Route path='/naac' component={Naac} />
-        <Route path='/nss' component={Nss} />
- 
+        <Route path='/naac' component={Naac}/>
+        <Route path='/nss' component={Nss}/>
+
         <Route  component={Error} />
         </Switch>
 
