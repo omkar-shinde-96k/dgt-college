@@ -120,60 +120,44 @@ div#bs-example-navbar-collapse-1 {
     margin-top: .3em;
     padding-left: 4em;
 }
-  
-
-#namastey-btn{  
-  		padding: 8px 20px;
-  		background: rgb(255, 255, 255); 
-        color:red;
-        display: grid;
-        place-items: center;
-        font-size: 1.5rem;
-        text-decoration: none;
-        color:rgb(0, 60, 255);
-        position: relative;
-        overflow: hidden;
-  		border:none;
-        box-shadow: 0px 0px 5px  rgb(153, 28, 255), 4px 4px 10px  rgb(255, 255, 255);
-  		text-shadow: 2px 2px 2px rgb(0, 166, 255);
-        font-weight: bold;
-        transform: skew(-20deg);
-        transition: all 0.6s;
-  		margin:20px;
-    }
-    #namastey-btn:hover{
-        background-color: rgb(255, 255, 255);
-        border:1px solid rgb(74, 10, 202);
-        box-shadow: 4px 4px 5px white,0px 0px 50px white , 0px 0px 10px white;
-        text-shadow: 2px 2px 2px rgb(0, 166, 255);
-    }
-    #namastey-btn::before{
-        content: "";
-        position:absolute;
-        width: 100%;
-        height: 30%;
-        top:0;
-        background-color: rgb(43, 55, 226);
-        transform: translateX(-70%) rotate(45deg);
-        transition: all 0.6s;
-    }
-    #namastey-btn:hover::before{
-        transform: translateX(50%) rotate(45deg);
-        
-    }
-    #namastey-btn::after{
-        content:" ";
-        position:absolute;
-        width: 100%;
-        height: 30%;
-        top:0;
-        background-color:  rgb(43, 55, 226);
-        transform: translateX(48%) rotate(45deg);
-        transition: all 0.6s;
-    }
-   #namastey-btn:hover::after{
-        transform: translateX(-72%) rotate(45deg);           
-    }
+   
+.mybtn{
+	width: auto;
+	height: 40px;
+	background-color:transparent;
+	border:1px solid rgb(47, 0, 255);
+	color:red;
+	display: grid;
+	place-items: center; 
+	text-decoration: none;
+	color:blue;
+	position: relative;
+	overflow: hidden; 
+	border-radius: 3px;
+	font-weight: bold; 
+	transition: all 0.6s;
+	padding: 0 20px;
+	outline: none;
+  }
+  .mybtn:hover{ 
+	color:orange; 
+	transform: scale(1.1);
+  }
+  .mybtn::before{
+	content: "";
+	position:absolute;
+	width: 100%;
+	height: 30%;
+	top:0;
+	background-color: blue;
+	transform: translateX(-47%) rotate(140deg);
+	transition: all 0.6s;
+  }
+  .mybtn:hover::before{
+	transform: translateX(70%) rotate(135deg);
+	
+  }
+   
 
 @media(max-width: 860px) {
   #namastey h1 {
@@ -794,19 +778,13 @@ h3.w3l-title {
     margin: 0 0 1em;
     color: #ffb71c;
 }
-a.trend-w3l {
+/* a.trend-w3l {
   	font-weight: bold;	
 	padding: 10px 20px;
 	background: transparent;
-	color: rgb(255, 255, 255);
-	border: 1px solid rgb(68, 0, 255);
-	transform: skew(-15deg);
-	box-shadow: 
-						0px 0px 4px blue,5px 5px 3px blue,
-						5px 5px 4px blue,5px 5px 4px blue;
+	color: rgb(255, 255, 255); 
 	overflow: hidden !important;
-	color: black;
-						
+	color: black; 
     transition: 0.5s all;
     -webkit-transition: 0.5s all;
     -moz-transition: 0.5s all;
@@ -822,10 +800,7 @@ a.trend-w3l:hover {
 	-o-transition: 0.5s all;
 	-ms-transition: 0.5s all;
 	transform: skew(-20deg);
-	box-shadow: 
-			0px 0px 6px blue,5px 5px 5px blue,
-			5px 5px 6px blue,5px 5px 8px blue;
-}
+} */
 .modal-body img {
     width: 100%;
 }
@@ -873,7 +848,30 @@ h4.stats-info {
 	margin-top: 20px;
 }
 /*-- //Stats Section --*/
-/*-- services --*/  
+
+/*-- services / facility --*/  
+.facility , .sub-facility{
+	border-radius: 5px;
+}
+.sub-facility{
+	margin: 10px;
+}
+ .Facility-row .facility .sub-facility{
+	box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.487),3px 3px 6px rgba(0, 0, 0, 0.419);
+	padding: 7px;
+	transition: 0.5s;
+ } 
+
+ .sub-facility:hover{
+	 transform: scale(1.05);
+ }
+ 
+
+/*-- services/facility end --*/  
+
+
+
+
 .services, .team-w3l, .contact{
 	padding:5em 0;
 }
@@ -1458,16 +1456,11 @@ text-align:center;
 		top: 13%;
 		right: -3%;
 	}
-	.wthree-about-grids h4 {
-		font-size: 3.5em;
-	}
-	a.trend-w3l {
+	 
+	/* a.trend-w3l {
 		padding: 7px 15px;
-	}
-	.wthree-about-grids {
-		/* padding: 8.5em 5em 0; */
-		  padding:  0px;
-	}
+	} */
+	 
 	.stats h4 {
 		letter-spacing: 1px;
 	}
@@ -1567,9 +1560,7 @@ text-align:center;
 		top: 12%;
 		right: 16%;
 	}
-	/* .wthree-about-grids {
-		padding: 7.5em 5em 0;
-	} */
+ 
 	.about-top {
 		padding: 3em 0 4em;
 	}
@@ -1794,10 +1785,7 @@ text-align:center;
 		top: 13%;
 		right: 9%;
 	}
-	/* .wthree-about-grids h4 {
-		font-size: 3.2em;
-		letter-spacing: 0px;
-	} */
+ 
 	.stats h4 {
 		font-size: 15px;
 	}
@@ -1915,15 +1903,11 @@ text-align:center;
 		top: 12%;
 		right: 1%;
 	}
-	/* .wthree-about-grids {
-		padding: 6.5em 5em 0;
-	} */
+ 
 	.about-top {
 		padding: 3em 0 3em;
 	}
-	/* .wthree-about-grids h4 {
-		margin: 0 0 .8em;
-	} */
+	 
 	.w3layouts_header p {
 		margin: 0px !important;
 	}
@@ -2041,12 +2025,7 @@ text-align:center;
 		width: 89%;
 		top: 15%;
 	}
-	/* .wthree-about-grids h4 {
-		font-size: 3em;
-	}
-	.wthree-about-grids {
-		padding: 5em 5em 0;
-	} */
+	 
 	.stats-grid.slideanim {
 		float: left;
 		width: 50%;
@@ -2128,9 +2107,7 @@ text-align:center;
 	.w3layouts_header_right input[type="submit"] {
 		background-position: 4px 4px;
 	}
-	/* .wthree-about-grids {
-		padding: 4em 4em 0;
-	} */
+ 
 	.services-grid h5 {
 		left: 16%;
 		top: 42%;
@@ -2185,9 +2162,7 @@ text-align:center;
 	.w3layouts_header_right {
 		width: 80%;
 	}
-	/* .wthree-about-grids {
-		padding: 4em 3em 0;
-	} */
+ 
 	.about_opa {
 		padding: 60px 50px 0;
 	}
@@ -2258,15 +2233,7 @@ text-align:center;
 	.w3layouts_header p:after {
 		right: 29%;
 	}
-	/* .wthree-about-grids h4 {
-		font-size: 2.5em;
-	} */
-	a.trend-w3l {
-		font-size: .8em;
-	}
-	/* .wthree-about-grids {
-		padding: 4em 2em 0;
-	} */
+	 
 	.stats h4 {
 		font-size: 15px;
 		letter-spacing: 0px;

@@ -2,7 +2,7 @@ function Services() {
     return (
         <>
             <br></br><br></br>
-            <div class="container" >
+            <div class="container-fluid" >
                 <div class="row">
                     <h3 class="w3l-title">
                         <x-sign class="style8">
@@ -11,8 +11,9 @@ function Services() {
                     </h3>
                 </div>
                 <br></br>
-                <div class="row">
-                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" data-aos="fade-right">
+                <div class="Facility-row row">
+                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" data-aos="fade-right">
+                        <div className="sub-facility">
                         <h2 align="center">library</h2>
                         <div class="w3layouts_header">
                             <p ><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
@@ -20,12 +21,14 @@ function Services() {
                         <p>
                             lorem epsun lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr
                         </p>
-                        <div style={{ display: "flex", justifyContent: "center" }}>
-                            <button id="namastey-btn" data-toggle="modal" data-target="#facilitymodal">Learn More</button>
+                        <div style={{ display: "flex", justifyContent: "center" ,margin:"20px 0" }}>
+                            <button className="mybtn" id="mybtn" data-toggle="modal" data-target="#facilitymodal">Learn More</button>
                         </div>
+                      </div>  
                     </div>
 
-                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" data-aos="zoom-in">
+                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" data-aos="zoom-in">
+                        <div className="sub-facility">
                         <h2 align="center">library</h2>
                         <div class="w3layouts_header">
                             <p ><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
@@ -33,12 +36,15 @@ function Services() {
                         <p>
                             lorem epsun lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr
                         </p>
-                        <div style={{ display: "flex", justifyContent: "center" }}>
-                            <button id="namastey-btn">Learn More</button>
+                        <div style={{ display: "flex", justifyContent: "center" ,margin:"20px 0" }}>
+                            <button className="mybtn" id="mybtn">Learn More</button>
+
                         </div>
+                      </div>  
                     </div>
 
-                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" data-aos="fade-left">
+                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" data-aos="fade-left">
+                        <div className="sub-facility">
                         <h2 align="center">library</h2>
                         <div class="w3layouts_header">
                             <p ><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
@@ -46,16 +52,19 @@ function Services() {
                         <p>
                             lorem epsun lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr
                         </p>
-                        <div style={{ display: "flex", justifyContent: "center" }}>
-                            <button id="namastey-btn">Learn More</button>
+                        <div style={{ display: "flex", justifyContent: "center" ,margin:"20px 0" }}>
+                            <button className="mybtn" id="mybtn">Learn More</button>
+
                         </div>
+                      </div>  
                     </div>
                 </div>
 
                 <br></br><br></br>
 
-                <div class="row">
-                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" data-aos="fade-right">
+                <div class="Facility-row row">
+                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" data-aos="fade-right">
+                        <div className="sub-facility">
                         <h2 align="center">library</h2>
                         <div class="w3layouts_header">
                             <p ><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
@@ -63,12 +72,14 @@ function Services() {
                         <p>
                             lorem epsun lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr
                         </p>
-                        <div style={{ display: "flex", justifyContent: "center" }}>
-                            <button id="namastey-btn" data-toggle="modal" data-target="#facilitymodal">Learn More</button>
+                        <div style={{ display: "flex", justifyContent: "center" ,margin:"20px 0" }}>
+                            <button className="mybtn" id="mybtn" data-toggle="modal" data-target="#facilitymodal">Learn More</button>
                         </div>
+                      </div>  
                     </div>
 
-                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" data-aos="zoom-in">
+                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" data-aos="zoom-in">
+                        <div className="sub-facility">
                         <h2 align="center">library</h2>
                         <div class="w3layouts_header">
                             <p ><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
@@ -76,12 +87,15 @@ function Services() {
                         <p>
                             lorem epsun lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr
                         </p>
-                        <div style={{ display: "flex", justifyContent: "center" }}>
-                            <button id="namastey-btn">Learn More</button>
+                        <div style={{ display: "flex", justifyContent: "center" ,margin:"20px 0" }}>
+                            <button className="mybtn" id="mybtn">Learn More</button>
+
                         </div>
+                      </div>  
                     </div>
 
-                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" data-aos="fade-left">
+                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" data-aos="fade-left">
+                        <div className="sub-facility">
                         <h2 align="center">library</h2>
                         <div class="w3layouts_header">
                             <p ><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
@@ -89,9 +103,11 @@ function Services() {
                         <p>
                             lorem epsun lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr
                         </p>
-                        <div style={{ display: "flex", justifyContent: "center" }}>
-                            <button id="namastey-btn">Learn More</button>
+                        <div style={{ display: "flex", justifyContent: "center" ,margin:"20px 0" }}>
+                            <button className="mybtn" id="mybtn">Learn More</button>
+
                         </div>
+                      </div>  
                     </div>
                 </div>
             </div>
@@ -121,8 +137,10 @@ function Services() {
 							hic a sapiente delectus in auctor sapien.</p>
 
                             <div style={{ width: "50%" }}>
-                                <a href="#" class="trend-w3l" data-toggle="modal" data-target="#facilitymodal" id="namastey-btn" > Read More </a>
+                                <a href="#" class="trend-w3l" data-toggle="modal" data-target="#facilitymodal" className="mybtn" id="mybtn" > Read More </a>
+
                             </div>
+                      </div>      
                         </div>
                     </div> */}
                     {/* model 1 end */}

@@ -53,7 +53,7 @@ function Footer() {
                                 <h4>Contact Us</h4>
                                 <ul>
                                     <li><i class="fa fa-envelope-o" aria-hidden="true"></i><a
-                                        href="mailto:mspmmangaonseniorcollege@gmail.com"> mspmmangaonseniorcollege@gmail.com </a></li>
+                                        href="mailto:mspmmangaonseniorcollege@gmail.com"> gmail </a></li>
                                     <li><i class="fa fa-phone" aria-hidden="true"></i>02140-263928</li>
                                     <li><i class="fa fa-fax" aria-hidden="true"></i><a href="http://mangaonseniorcollege.com"> mangaonseniorcollege.com</a></li>
                                 </ul>
