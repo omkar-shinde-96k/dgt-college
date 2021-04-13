@@ -55,7 +55,7 @@ function Footer() {
                                     <li><i class="fa fa-envelope-o" aria-hidden="true"></i><a
                                         href="mailto:mspmmangaonseniorcollege@gmail.com"> gmail </a></li>
                                     <li><i class="fa fa-phone" aria-hidden="true"></i>02140-263928</li>
-                                    <li><i class="fa fa-fax" aria-hidden="true"></i><a href="http://mangaonseniorcollege.com"> mangaonseniorcollege.com</a></li>
+                                    <li><i class="fa fa-fax" aria-hidden="true"></i><a href="http://mangaonseniorcollege.com">  .com</a></li>
                                 </ul>
                             </div>
                             <div class="clearfix"> </div>
@@ -63,7 +63,7 @@ function Footer() {
                     </div>
                 </div>
                 <div class="w3layouts_copy_right">
-                    <div class="container">
+                    <div class="container-fluid">
                         <p>© 2021 DGTC. All rights reserved | Design by <a href="http://instagram.com/learn_web_development"><b>@learn_web_development</b></a></p>
                     </div>
                 </div>

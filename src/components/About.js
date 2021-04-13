@@ -44,10 +44,8 @@ function About() {
             <hr></hr>
             <br></br>
             <div class="container" >
-                <h3 class="w3l-title">
-                    <x-sign class="style5">
-                        -About Us-
-				    </x-sign>
+                <h3 class="w3l-title"> 
+                        -About Us- 
                 </h3>
 
                 <div class="w3layouts_header">
@@ -57,12 +55,10 @@ function About() {
                 <div class="col-md-6 w3l_about_bottom_left"  >
                     <div class="video-grid-single-page-agileits">
                         <div data-video="kmKlYMBiwXk" allowfullscreen id="video"> <img
-                            src="images/clg-front-view/dgtc3.png" alt="" class="img-responsive"
+                            src="images/clg-front-view/4.jpg" alt="" class="img-responsive"
                             style={{ width: "100%", height: "100%" }} /> </div>
                     </div>
-                    <div class="w3l_about_bottom_left_video">
-                        <h4> </h4>
-                    </div>
+                     
                 </div>
 
                 <div class="col-md-5 " style={{ padding: "35px 0px 0px 20px" }}>
@@ -87,7 +83,7 @@ function About() {
 
 
 
-            <div class="stats" id="stats">
+            {/* <div class="stats" id="stats">
                 <div class="container"  >
                     <div class="stats-info">
                         <div class="col-md-3 col-xs-3 stats-grid slideanim">
@@ -121,7 +117,7 @@ function About() {
                         <div class="clearfix"></div>
                     </div>
                 </div>
-            </div>
+            </div> */}
         </>
     );
 }

@@ -21,22 +21,25 @@ function Team() {
                                 </div>
                             </div>
                         </div>
+
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1" data-aos="zoom-in">
                             <div class="about_img"><img src="images/t-staff/acharya.jpg" alt=""></img>
-                                <h5> <span>Dr.Acharya R.M.</span>  <span> Principal</span></h5>
+                                <h5> <span>Dr.Acharya R.M.</span>  <span> Dr.Acharya R.M. </span></h5>
                                 <div class="about_opa">
-                                    <p>Principal</p>
+                                    <p>Dr.Acharya R.M.</p>
                                 </div>
                             </div>
                         </div>
+
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1" data-aos="zoom-in">
                             <div class="about_img"><img src="images/t-staff/TSLokhande.jpg" alt=""></img>
-                                <h5> <span>Dr.B.M Khamkar </span>  <span> Principal</span></h5>
+                                <h5> <span>Prof.Lokhande T.S.</span>  <span> Lecturer </span></h5>
                                 <div class="about_opa">
-                                    <p>Principal</p>
+                                    <p> Lecturer </p>
                                 </div>
                             </div>
                         </div>
+
                         <div class="clearfix"></div>
                     </div>
 
@@ -45,25 +48,27 @@ function Team() {
                     <div class="team-w3l-grid">
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1" data-aos="zoom-in">
                             <div class="about_img"><img src="images/t-staff/Singare.jpg" alt=""></img>
-                                <h5> <span>Dr.B.M Khamkar </span>  <span> Principal</span></h5>
+                                <h5> <span>Prof. Singare </span>  <span> Lecturer</span></h5>
                                 <div class="about_opa">
-                                    <p>Principal</p>
+                                    <p>Lecturer</p>
                                 </div>
                             </div>
                         </div>
+
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1" data-aos="zoom-in">
                             <div class="about_img"><img src="images/t-staff/sangita.jpg" alt=""></img>
-                                <h5> <span>Dr.Acharya R.M.</span>  <span> Principal</span></h5>
+                                <h5> <span>Prof. Sangita Utekare</span>  <span> Lecturer</span></h5>
                                 <div class="about_opa">
-                                    <p>Principal</p>
+                                    <p>Lecturer</p>
                                 </div>
                             </div>
                         </div>
+
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1" data-aos="zoom-in">
                             <div class="about_img"><img src="images/t-staff/Bhanu.jpg" alt=""></img>
-                                <h5> <span>Dr.Acharya R.M.</span>  <span> Principal</span></h5>
+                                <h5> <span>Prof.Bhanuprasad vishwakarma</span>  <span> Lecturer</span></h5>
                                 <div class="about_opa">
-                                    <p>Principal</p>
+                                    <p>Lecturer</p>
                                 </div>
                             </div>
                         </div>
@@ -75,25 +80,25 @@ function Team() {
                     <div class="team-w3l-grid">
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1" data-aos="zoom-in">
                             <div class="about_img"><img src="images/t-staff/mehreen.jpg" alt=""></img>
-                                <h5> <span>Dr.B.M Khamkar </span>  <span> Principal</span></h5>
+                                <h5> <span>Prof. Mehreen </span>  <span> Lecturer</span></h5>
                                 <div class="about_opa">
-                                    <p>Principal</p>
+                                    <p>Lecturer</p>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1" data-aos="zoom-in">
                             <div class="about_img"><img src="images/t-staff/amrin.jpg" alt=""></img>
-                                <h5> <span>Dr.Acharya R.M.</span>  <span> Principal</span></h5>
+                                <h5> <span>Prof. Amrin</span>  <span> Lecturer</span></h5>
                                 <div class="about_opa">
-                                    <p>Principal</p>
+                                    <p>Lecturer</p>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1" data-aos="zoom-in">
                             <div class="about_img"><img src="images/t-staff/tamsil.jpg" alt=""></img>
-                                <h5> <span>Dr.B.M Khamkar </span>  <span> Principal</span></h5>
+                                <h5> <span>Prof. Tamsil </span>  <span> Lecturer</span></h5>
                                 <div class="about_opa">
-                                    <p>Principal</p>
+                                    <p>Lecturer</p>
                                 </div>
                             </div>
                         </div>
@@ -105,44 +110,37 @@ function Team() {
                     <div class="team-w3l-grid">
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1" data-aos="zoom-in">
                             <div class="about_img"><img src="images/t-staff/Pandey.jpg" alt=""></img>
-                                <h5> <span>Dr.B.M Khamkar </span>  <span> Principal</span></h5>
+                                <h5> <span>Prof. Pandey  </span>  <span> Lecturer</span></h5>
                                 <div class="about_opa">
-                                    <p>Principal</p>
+                                    <p>Lecturer</p>
+                                </div>
+                            </div>
+                        </div>
+                        {/* <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1" data-aos="zoom-in">
+                            <div class="about_img"><img src="images/t-staff/Pandey.jpg" alt=""></img>
+                                <h5> <span>Dr.Acharya R.M.</span>  <span> Lecturer</span></h5>
+                                <div class="about_opa">
+                                    <p>Lecturer</p>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1" data-aos="zoom-in">
                             <div class="about_img"><img src="images/t-staff/Pandey.jpg" alt=""></img>
-                                <h5> <span>Dr.Acharya R.M.</span>  <span> Principal</span></h5>
+                                <h5> <span>Dr.B.M Khamkar </span>  <span> Lecturer</span></h5>
                                 <div class="about_opa">
-                                    <p>Principal</p>
+                                    <p>Lecturer</p>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1" data-aos="zoom-in">
-                            <div class="about_img"><img src="images/t-staff/Pandey.jpg" alt=""></img>
-                                <h5> <span>Dr.B.M Khamkar </span>  <span> Principal</span></h5>
-                                <div class="about_opa">
-                                    <p>Principal</p>
-                                </div>
-                            </div>
-                        </div>
+                        </div> */}
                         <div class="clearfix"></div>
                     </div>
 
                 </div>
             </div>
-
-
-
-
+ <br/>
             <div id="mail" class="contact">
                 <div class="container">
-                    <h3 class="w3l-title">
-                        <x-sign class="style8">
-                            Mail Us
-					</x-sign>
-                    </h3>
+                    <h3 class="w3l-title"> Mail Us </h3>
                     <div class="w3layouts_header">
                         <p><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
                     </div>
@@ -174,7 +172,7 @@ function Team() {
                             </div>
                             <div class="agile_contact_grid_right agileits_w3layouts_right1">
                                 <h4>Email</h4>
-                                <p><a href="mailto:mvflex.com1@gmail.com">mspmmangaonseniorcollege@gmail.com</a>
+                                <p><a href="mailto:mvflex.com1@gmail.com">mail</a>
                                     <span><a href="mailto:mvflex.com1@gmail.com">02140-263928
 									</a></span>
                                 </p>
@@ -185,7 +183,8 @@ function Team() {
                     </div>
                 </div> 
             </div>   
-            <div id="map" style={{ marginBottom: "50px" }} data-aos="zoom-in-down"> <iframe
+            <br/>
+            <div class="container" id="map" style={{ marginBottom: "50px" }} data-aos="zoom-in-down"> <iframe
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.897115125738!2d73.28359431436465!3d18.227612582826495!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be82ffcafffffff%3A0x78fa283c8804283c!2sD.%20G.%20Tatkare%20Mahavidyalay!5e1!3m2!1sen!2sde!4v1598778705863!5m2!1sen!2sde"
                 width="100%" height="500" frameborder="0" allowfullscreen="true"
                 aria-hidden="false" tabindex="0"></iframe> </div>

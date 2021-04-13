@@ -4,22 +4,17 @@ function Services() {
             <br></br><br></br>
             <div class="container-fluid" >
                 <div class="row">
-                    <h3 class="w3l-title">
-                        <x-sign class="style8">
-                            Our Facilities
-					    </x-sign>
-                    </h3>
+                    <h3 class="w3l-title">  Our Facilities </h3>
                 </div>
                 <br></br>
                 <div class="Facility-row row">
-                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" data-aos="fade-right">
+                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" >
                         <div className="sub-facility">
                         <h2 align="center">library</h2>
                         <div class="w3layouts_header">
                             <p ><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
                         </div>
-                        <p>
-                            lorem epsun lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr
+                        <p> lorem epsun lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr
                         </p>
                         <div style={{ display: "flex", justifyContent: "center" ,margin:"20px 0" }}>
                             <button className="mybtn" id="mybtn" data-toggle="modal" data-target="#facilitymodal">Learn More</button>
@@ -27,7 +22,7 @@ function Services() {
                       </div>  
                     </div>
 
-                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" data-aos="zoom-in">
+                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" >
                         <div className="sub-facility">
                         <h2 align="center">library</h2>
                         <div class="w3layouts_header">
@@ -43,7 +38,7 @@ function Services() {
                       </div>  
                     </div>
 
-                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" data-aos="fade-left">
+                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" >
                         <div className="sub-facility">
                         <h2 align="center">library</h2>
                         <div class="w3layouts_header">
@@ -63,14 +58,13 @@ function Services() {
                 <br></br><br></br>
 
                 <div class="Facility-row row">
-                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" data-aos="fade-right">
+                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" >
                         <div className="sub-facility">
                         <h2 align="center">library</h2>
                         <div class="w3layouts_header">
                             <p ><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
                         </div>
-                        <p>
-                            lorem epsun lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr
+                        <p> lorem epsun lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr
                         </p>
                         <div style={{ display: "flex", justifyContent: "center" ,margin:"20px 0" }}>
                             <button className="mybtn" id="mybtn" data-toggle="modal" data-target="#facilitymodal">Learn More</button>
@@ -78,7 +72,7 @@ function Services() {
                       </div>  
                     </div>
 
-                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" data-aos="zoom-in">
+                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12">
                         <div className="sub-facility">
                         <h2 align="center">library</h2>
                         <div class="w3layouts_header">
@@ -94,28 +88,22 @@ function Services() {
                       </div>  
                     </div>
 
-                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" data-aos="fade-left">
+                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" >
                         <div className="sub-facility">
                         <h2 align="center">library</h2>
                         <div class="w3layouts_header">
                             <p ><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
                         </div>
-                        <p>
-                            lorem epsun lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr
+                        <p> lorem epsun lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr  lorem epsun dummy textr
                         </p>
                         <div style={{ display: "flex", justifyContent: "center" ,margin:"20px 0" }}>
-                            <button className="mybtn" id="mybtn">Learn More</button>
-
+                            <button className="mybtn" id="mybtn">Learn More</button> 
                         </div>
                       </div>  
                     </div>
+                    
                 </div>
-            </div>
-
-
-
-
-
+            </div> 
             <div class="services" id="services">
                 <div class="container">
                     {/* <h3 class="w3l-title">

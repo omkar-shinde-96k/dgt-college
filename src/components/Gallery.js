@@ -5,9 +5,9 @@ function Gallery() {
         <>
             <section class="portfolio-w3ls" id="gallery">
                 <h3 class="w3l-title">
-                    <x-sign class="style5">
+                    <x-sign>
                         Our Gallery
-				</x-sign>
+				    </x-sign>
                 </h3>
                 <div class="w3layouts_header">
                     <p><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
