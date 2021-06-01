@@ -4,8 +4,8 @@ function Team() {
     return (
         <>
             <div class="team-w3l" id="team">
-                <div class="container">
-                    <h3 class="w3l-title">Our Skilled Lecturers</h3>
+                <div class="container" style={{paddingBottom:"20px"}}>
+                    <h3 class="w3l-title" style={{marginTop:"30px"}}>Our Skilled Lecturers</h3>
                     <br></br>
 
                     <div class="w3layouts_header">

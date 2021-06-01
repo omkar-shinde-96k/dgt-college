@@ -19,8 +19,12 @@ a:hover{
  
 h1,h2,h3,h4,h5,h6{
 	margin:0;	
-	font-family: 'Exo 2', sans-serif;
+	font-family: 'Exo 2', sans-serif; 
 }	
+h1,h2,h3{
+	text-shadow: 0px 0px 1px gray, 1px 1px 2px rgb(69, 37, 252);
+	color:white !important;
+} 
 p{
 	margin:0;
 	font-family: 'Nunito', sans-serif;
@@ -173,6 +177,8 @@ div#bs-example-navbar-collapse-1 {
 	max-width: 750px;  
 	color:white;
 	font-weight: bold;
+	text-shadow: 0px 0px 5px black;
+	margin: 20px 20px 20px 0px;
   }
   .social-icons a{ 
 	font-size: 30px;
@@ -215,7 +221,7 @@ div#bs-example-navbar-collapse-1 {
 	font-size: 2rem;
 	color: orange;
 } 
-.agile_short_dropdown {
+/* .agile_short_dropdown {
     border-radius: 0;
     background: #ffffff;
     text-align: center;
@@ -234,7 +240,7 @@ div#bs-example-navbar-collapse-1 {
     color: #fff;
     text-decoration: none;
     background-color:#0ac876;
-}
+} */
 .effect-3 {
 	overflow: hidden;
 }
@@ -264,11 +270,13 @@ div#bs-example-navbar-collapse-1 {
     margin: 0 auto;
     width: 90%;
 }
+
 ul.agile_forms {
     float: right;
     padding-top: .5em;
 }
-ul.agile_forms li a {
+
+/* ul.agile_forms li a {
     background:#ffb71c;
     color: #fff;
     font-size: 0.9em;
@@ -280,7 +288,7 @@ ul.agile_forms li a {
 	-o-border-radius: 30px;
 	-moz-border-radius: 30px;
 	-ms-border-radius: 30px;
-}
+} */
  
 /*-- bootstrap-pop-up --*/
 .close {
@@ -315,6 +323,7 @@ ul.agile_forms li a {
 }
 /*-- //bootstrap-pop-up --*/
 /*-- about-bottom --*/
+/* 
 .w3l_about_bottom_left{
 	padding:0;
 	position:relative;
@@ -356,9 +365,10 @@ h3.tittle.why {
 .header {
 	padding: 0.6em 3em;
     background: #1d1d1d;
-} 
+}  */
 /*--model-about--*/
-.agileits-main ul {
+
+/* .agileits-main ul {
     float: left;
     width: 50%;
 }
@@ -403,7 +413,7 @@ li.agileits-main i {
     letter-spacing: 2px;
     text-align: center;
     padding:1em 0 2.5em;
-}
+} */
 /*--//model-about--*/
  
  
@@ -440,8 +450,7 @@ h3.w3l-title {
 .w3layouts_header p:after {
     right: 41%;
 }  
-.wthree-about-grids {
-	/* padding: 7em 5em 0; */
+.wthree-about-grids { 
 	padding:0;
 }
 .wthree-about-grids h4 {
@@ -565,24 +574,7 @@ h3.w3l-title {
     color: #e4e0e0;
 }
 /*-- team-contact --*/
-.fb_icons2  li{
-	list-style-type:none;
-	display:inline-block;
-	margin:0 2px;
-	overflow:hidden;
-}
-.fb_icons2 li a{
-    width: 32px;
-    height: 32px;
-    display: inline-block;
-    border: 1px solid #ffb71c;
-	line-height: 2;
-    color: #fff;
-}
-.fb_icons2 li a:hover{
-	transform:rotateZ(360deg);
-	border-radius:100%;
-}
+ 
 /*-- //team --*/ 
 /*-- Gallery Section --*/
 #portfolio p {
@@ -1180,11 +1172,7 @@ text-align:center;
 @media(max-width: 736px){ 
 	.w3layouts_header_right {
 		width: 34%;
-	} 
-	.fb_icons2 li a {
-		width: 30px;
-		height: 30px;
-	}
+	}  
 	.w3_agile_contact_grid {
 		width: 31%;
 	}
@@ -1312,12 +1300,7 @@ text-align:center;
 	}
 	.about-poleft {
 		padding: 0 .5em;
-	}
-	.fb_icons2 li a {
-		width: 23px;
-		height: 23px;
-		font-size: .7em;
-	}
+	} 
 	.agile_contact_grid_right h4 {
 		font-size: 1.3em;
 		letter-spacing: 0px;
@@ -1372,13 +1355,7 @@ text-align:center;
 		line-height: 2.2em;
 		font-size: 1.4em;
 		margin-bottom: 30px;
-	}
-	.fb_icons2 li a {
-		width: 32px;
-		height: 32px;
-		line-height: 2.4;
-		font-size: .9em;
-	}
+	} 
 	.about_opa {
 		padding: 75px 50px 0;
 	}
@@ -1399,9 +1376,9 @@ text-align:center;
 	}
 }
 @media(max-width: 440px){
-	.textbox h4 {
+	/* .textbox h4 {
 		margin-top: 2em;
-	}
+	} */
 }
 @media(max-width: 414px){  
 	.wthree_contact_left_grid {
@@ -1450,8 +1427,7 @@ text-align:center;
 		letter-spacing: 1px;
 	} 
 	.about_opa {
-		padding: 50px 50px 0;
-		display: no;
+		padding: 50px 50px 0; 
 	}
 }
 @media(max-width: 320px){
