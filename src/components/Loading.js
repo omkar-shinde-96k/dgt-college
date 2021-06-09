@@ -11,11 +11,9 @@ const Loading = () => {
         </div>
     </div>
     )
-}
+} 
 
 // export default Loading
-
-
 
 const Loadingtwo = () => {
     return ( 

@@ -2,12 +2,11 @@ import Footer from '../components/Footer';
 function Chemistry() {
   return (
     <>
-
       <br />
       <h1 align="center"><b> Welcome to BMS Department</b> </h1>
       <br />
 
-      <div class="container"> 
+      <div class="container">
         <h2> Introduction:</h2>
         <p>
           The accelerated pace and global scope of business today has made it extremely crucial for educational
@@ -39,8 +38,6 @@ function Chemistry() {
 			•Encourages community service projects to help sensitize students to their environment. •Continuously
 			encourages student enhancement activities. <br />
                             •Follows a student-centric approach, thereby empowering students.</p>
-
-
       </div>
 
       <div class="container text-center">
@@ -66,13 +63,11 @@ function Chemistry() {
 
               <a class="list-group-item active list-group-item-action" id="list-messages-list" data-toggle="list"
                 href="../documents/bms/tybms.pdf" role="tab" aria-controls="messages"> T.Y. BMS Syllabus</a>
-
             </div>
           </div>
         </div>
       </div>
       {/* {{!-- syllybus end --}} */}
-
 
       <div class="secoundnav">
 
@@ -151,13 +146,8 @@ function Chemistry() {
               src="../documents/it/event/.jpg" /></a>
           </div>
         </div>
-
-
       </div>
-
-
-
-      <Footer />
+      <Footer/>
     </>
   );
 }

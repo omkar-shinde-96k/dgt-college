@@ -1,7 +1,5 @@
-
-
-import React from "react";
-
+ 
+import React from "react"; 
 import {
   BrowserRouter as Router,
   Switch,
@@ -12,33 +10,37 @@ import loadable from 'react-loadable';
 
 import './App.css'; 
 // import Home from "./components/Home";
-// import Navbar from './components/Navbar.js';
-// import Slider from './components/Slider.js';
-// import About from './components/About.js';
-// import Services from './components/Services';
-// import Gallery from './components/Gallery';
-// import Team from './components/Team';
-// import Footer from './components/Footer';
-// import Drawer from './components/Drawer';
-
+import Navbar from './components/Navbar.js';
+import Slider from './components/Slider.js';
+import About from './components/About.js';
+import Services from './components/Services';
+import Gallery from './components/Gallery';
+import Team from './components/Team';
+import Footer from './components/Footer';
+import Drawer from './components/Drawer';
 
 import{ Loading,Loadingtwo } from './components/Loading'; 
- 
- 
-const Home = loadable({
-  loader: () => import("./components/Home"),
-  loading: () => <><Loading/></> 
-})
 
-const Navbar = loadable({
-  loader: () => import("./components/Navbar.js"),
-  loading: () => <>  . </>
-}) 
-const Drawer = loadable({
-  loader: () => import("./components/Drawer"),
-  loading: () => <> . </>
-})
-  
+const Home = () => {
+  return ( 
+  <>
+    <Slider />
+    <About />
+    <Services />
+    <Gallery />
+    <Team />
+    <Footer />
+  </> 
+  )
+}
+
+// const Home = loadable({
+//   loader: () => import("./components/Home"),
+//   loading: () => <><Loading/></> 
+// })
+ 
+
+
 // import Bscit from './departments/Bscit'; 
 // import Chemistry from './departments/Chemistry';
 // import BMS from './departments/BMS';
@@ -61,8 +63,6 @@ const Drawer = loadable({
 // import Vangmay from './other-compo/Vangmay';
 // import Naac from './other-compo/Naac';
 // import Nss from './other-compo/Nss';
-
-
 // import Error from './components/Error';
   
 const Bscit = loadable({
