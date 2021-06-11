@@ -1312,8 +1312,7 @@ text-align:center;
 @media(max-width: 480px){
 	ul.agile_forms li a {
 		letter-spacing: 0px;
-	}
-	 
+	} 
 	ul.agile_forms li a {
 		font-size: .85em;
 	}
@@ -1482,20 +1481,141 @@ text-align:center;
 	}
 } 
 	.Drawer{
-		position:absolute;
+		position:fixed;
 		right:0; 
-		width: 0%;
+		top: 0;
+		width: 95%;
 		min-height: 900px;
 		background-color: rgb(255, 255, 255);
 		z-index: 3322;
-		color:white;  
-		border: 1px solid black;
-		transition: 0.5s; 
-		overflow: hidden;
-	} 
-	.shows{
-		position:absolute;
-		display: block;
-		right:0px; 
-		width: 80%;
+		color:white;     
+	}   
+	/* .facility */ 
+	.facility-img {
+		height: 100%;
+	   width: 100%;
+	   display: flex;
+	   justify-content: center;
+	   align-items: center;
+	   margin: 0;
+	   padding: 0
+ }
+
+ .facility-img img {
+	   height: 100%;
+	   width: 50%;
+	   padding: 20px;
+ }
+
+ .dept-info {
+	   width: 100%;
+	   display: flex;
+	   justify-content: center;
+	   align-items: center;
+ }
+
+ .dept-box {
+	   width: 95%;
+ }
+
+ .dept-box,
+ .vision,
+ .mission,
+ .about-dept {
+	   display: flex;
+	   justify-content: center;
+	   align-items: center;
+	   flex-direction: column;
+ }
+
+ .dept-info h1 {
+	   color: white;
+	   width: 100%;
+	   margin: 40px;
+	   display: flex;
+	   justify-content: center;
+	   align-items: center;
+	   flex-direction: column;
+	   background-color: blue;
+	   padding: 2px;
+	   font-family: 'Niconne', cursive;
+ }
+
+ .dept-info p {
+	   color: black;
+	   color: rgb(0, 0, 0);
+	   padding: 0px;
+	   font-family: 'Niconne', cursive;
+	   font-size: 1.6rem;
+	   line-height: 30px;
+	   font-weight: 5px;
+ } 
+ #sub-dept,
+ #sub-dept a {
+	   display: flex;
+	   flex-direction: column;
+	   justify-content: center;
+	   align-items: center;
+ } 
+ #sub-dept a {
+	   width: 86%;
+	   height: 40px;
+	   background: rgb(53, 53, 223);
+	   margin: 10px 10px;
+	   color: white;
+	   border-radius: 20px;
+ } 
+ .sub {
+	   display: flex;
+	   justify-content: center;
+	   align-items: center;
+
+ } 
+ .sub h1 {
+	   color: blue;
+ } 
+ .sub .table-responsive {
+	   margin-left: 40px;
+	   
+	   padding: 0;
+	   margin-left: 20px;
+ } 
+ th {
+	   color: red;
+ }
+ .visit{
+	   background-color: rgb(0, 102, 255);
+	   color: cornsilk;
+	   border-radius: 10px;
+	   padding: 10px;
+	   font-size: 1.6rem;
+	   font-family:serif;
+ }
+
+ @media screen and (max-width: 500px) {
+	   .dept-info h1 {
+			 font-size: 20px;
+	   } 
+	   .sub {
+			 flex-direction: column;
+	   } 
+	   .facility-img  {
+		flex-direction: column;
+		 
+	   } 
+	   .facility-img img  {
+	   
+		width: 98% ;      
+		height:100%;
+	   } 
+	   .dept-box {
+			 width: 95%;
+	   } 
+	   .dept-info h1 {
+			 margin: 10px;
+	   } 
+	   .dept-info p {
+			 font-size: 1.3rem;
+	   }
 	}
+ 

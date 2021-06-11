@@ -1,182 +1,118 @@
- 
-import React from "react"; 
-import {
-  BrowserRouter as Router,
-  Switch,
-  Route, 
-} from "react-router-dom";
-
+import React,{useState} from "react";
+import { BrowserRouter as Router, Switch, Route} from "react-router-dom";
 import loadable from 'react-loadable';
-
-import './App.css'; 
-// import Home from "./components/Home";
+import './App.css';
 import Navbar from './components/Navbar.js';
-import Slider from './components/Slider.js';
-import About from './components/About.js';
-import Services from './components/Services';
-import Gallery from './components/Gallery';
-import Team from './components/Team';
 import Footer from './components/Footer';
 import Drawer from './components/Drawer';
-
-import{ Loading,Loadingtwo } from './components/Loading'; 
-
-const Home = () => {
-  return ( 
-  <>
-    <Slider />
-    <About />
-    <Services />
-    <Gallery />
-    <Team />
-    <Footer />
-  </> 
-  )
-}
-
-// const Home = loadable({
-//   loader: () => import("./components/Home"),
-//   loading: () => <><Loading/></> 
-// })
- 
-
-
-// import Bscit from './departments/Bscit'; 
-// import Chemistry from './departments/Chemistry';
-// import BMS from './departments/BMS';
-// import Bcom from './departments/Bcom';
-// import Marathi from './departments/Marathi';
-// import Hindi from './departments/Hindi';
-// import Geo from './departments/Geo';
-// import History from './departments/History';
-
-// import Tstaff from './staff/T-staff';
-// import Nstaff from './staff/N-staff';
-
-// import Daywise from './academics/Daywise';
-// import Examination from './academics/Examination';
-// import Library from './academics/Library';
-// import Office from './academics/Office';
-// import Termwise from './academics/Termwise';
-
-// import Timetable from './other-compo/Timetable';
-// import Vangmay from './other-compo/Vangmay';
-// import Naac from './other-compo/Naac';
-// import Nss from './other-compo/Nss';
-// import Error from './components/Error';
-  
+import { Loadingtwo } from './components/Loading';
+import Home from './components/Home';
 const Bscit = loadable({
   loader: () => import("./departments/Bscit"),
-  loading: () => <> <Loadingtwo/> </>
-}) 
+  loading: () => <> <Loadingtwo /> </>
+})
 const Chemistry = loadable({
   loader: () => import("./departments/Chemistry"),
-  loading: () => <> <Loadingtwo/> </>
+  loading: () => <> <Loadingtwo /> </>
 })
 const BMS = loadable({
   loader: () => import("./departments/BMS"),
-  loading: () => <> <Loadingtwo/> </>
+  loading: () => <> <Loadingtwo /> </>
 })
 const Bcom = loadable({
   loader: () => import("./departments/Bcom"),
-  loading: () => <> <Loadingtwo/> </>
+  loading: () => <> <Loadingtwo /> </>
 })
 const Marathi = loadable({
   loader: () => import("./departments/Marathi"),
-  loading: () => <> <Loadingtwo/> </>
+  loading: () => <> <Loadingtwo /> </>
 })
 const Hindi = loadable({
   loader: () => import("./departments/Hindi"),
-  loading: () => <> <Loadingtwo/> </>
+  loading: () => <> <Loadingtwo /> </>
 })
 const Geo = loadable({
   loader: () => import("./departments/Geo"),
-  loading: () => <> <Loadingtwo/> </>
+  loading: () => <> <Loadingtwo /> </>
 })
 const History = loadable({
   loader: () => import("./departments/History"),
-  loading: () => <> <Loadingtwo/> </>
+  loading: () => <> <Loadingtwo /> </>
 })
-
 const Tstaff = loadable({
   loader: () => import("./staff/T-staff"),
-  loading: () => <> <Loadingtwo/> </>
+  loading: () => <> <Loadingtwo /> </>
 })
 const Nstaff = loadable({
   loader: () => import("./staff/N-staff"),
-  loading: () => <> <Loadingtwo/> </>
-})
-const Daywise = loadable({
-  loader: () => import("./academics/Daywise"),
-  loading: () => <> <Loadingtwo/> </>
-})
-const Examination = loadable({
-  loader: () => import("./academics/Examination"),
-  loading: () => <> <Loadingtwo/> </>
-})
-const Library = loadable({
-  loader: () => import("./academics/Library"),
-  loading: () => <> <Loadingtwo/> </>
-})
-const Office = loadable({
-  loader: () => import("./academics/Office"),
-  loading: () => <> <Loadingtwo/> </>
-})
-const Termwise = loadable({
-  loader: () => import("./academics/Termwise"),
-  loading: () => <> <Loadingtwo/> </>
+  loading: () => <> <Loadingtwo /> </>
 })
 
-
-const Timetable = loadable({
-  loader: () => import("./other-compo/Timetable"),
-  loading: () => <> <Loadingtwo/> </>
+const TimeTable = loadable({
+  loader: () => import("./other-compo/TimeTable"),
+  loading: () => <> <Loadingtwo /> </>
 })
 const Vangmay = loadable({
   loader: () => import("./other-compo/Vangmay"),
-  loading: () => <> <Loadingtwo/> </>
+  loading: () => <> <Loadingtwo /> </>
 })
 const Naac = loadable({
   loader: () => import("./other-compo/Naac"),
-  loading: () => <> <Loadingtwo/> </>
+  loading: () => <> <Loadingtwo /> </>
 })
 const Nss = loadable({
   loader: () => import("./other-compo/Nss"),
-  loading: () => <> <Loadingtwo/> </>
+  loading: () => <> <Loadingtwo /> </>
 })
 const Error = loadable({
   loader: () => import("./components/Error"),
-  loading: () => <> <Loadingtwo/> </>
+  loading: () => <> <Loadingtwo /> </>
+})
+const AboutSansta = loadable({
+  loader: () => import("./other-compo/AboutSansta"),
+  loading: () => <> <Loadingtwo /> </>
+})
+const MspmFounder = loadable({
+  loader: () => import("./other-compo/MspmFounder"),
+  loading: () => <> <Loadingtwo /> </>
+})
+const GovBodyMnsp = loadable({
+  loader: () => import("./other-compo/GovBodyMnsp"),
+  loading: () => <> <Loadingtwo /> </>
+})
+const Founderofdgtc = loadable({
+  loader: () => import("./other-compo/Founderofdgtc"),
+  loading: () => <> <Loadingtwo /> </>
+})
+const Presidantofmspm = loadable({
+  loader: () => import("./other-compo/Presidantofmspm"),
+  loading: () => <> <Loadingtwo /> </>
+})
+const Secretoryofmspm = loadable({
+  loader: () => import("./other-compo/Secretoryofmspm"),
+  loading: () => <> <Loadingtwo /> </>
+})
+const ClgVisionMission = loadable({
+  loader: () => import("./other-compo/ClgVisionMission"),
+  loading: () => <> <Loadingtwo /> </>
+})
+const Facilities = loadable({
+  loader: () => import("./other-compo/Facilities"),
+  loading: () => <> <Loadingtwo /> </>
 })
 
-  
-// function Home() {
-//   return (
-//     <>
-//       <Slider />
-//       <About />
-//       <Services />
-//       <Gallery />
-//       <Team />
-//       <Footer />
-//     </>
-//   );
-// }
-
-
-
-
-// const Home = loadable({
-//   loader: () => import("./components/Home"),
-//   loading: () => <> <Loadingtwo/> </>
-// })
-
 function App() {
+  const [DrawerToggle, setDrawerToggle] = useState(false)
+
+const ToggleHandler=()=>{
+  setDrawerToggle(!DrawerToggle)
+}
+ 
   return (
-    <>
+    <> 
       <Router>
-        <Drawer />
-        <Navbar />
+       {DrawerToggle?<Drawer  toggle={ToggleHandler} />:""}    
+        <Navbar toggle={ToggleHandler} /> 
         <Switch>
           <Route exact path='/' component={Home} />
           <Route path='/bscit' component={Bscit} />
@@ -191,20 +127,28 @@ function App() {
           <Route path='/teaching-staff' component={Tstaff} />
           <Route path='/non-teach-staff' component={Nstaff} />
 
-          <Route path='/termwise-schedule' component={Termwise} />
-          <Route path='/daywise-schedule' component={Daywise} />
-          <Route path='/office-schedule' component={Office} />
-          <Route path='/library-schedule' component={Library} />
-          <Route path='/examination-schedule' component={Examination} />
+          <Route path='/termwise-schedule' component={TimeTable} />
+          <Route path='/daywise-schedule' component={TimeTable} />
+          <Route path='/office-schedule' component={TimeTable} />
+          <Route path='/library-schedule' component={TimeTable} />
+          <Route path='/examination-schedule' component={TimeTable} />
 
-          <Route path='/time-table' component={Timetable} />
           <Route path='/marathi-vangmay' component={Vangmay} />
           <Route path='/naac' component={Naac} />
           <Route path='/nss' component={Nss} />
 
+          <Route path='/aboutsansta' component={AboutSansta} />
+          <Route path='/founderofmnsp' component={MspmFounder} />
+          <Route path='/governingbodyofmspm' component={GovBodyMnsp} />
+          <Route path='/founderofdgtc' component={Founderofdgtc} />
+          <Route path='/presidantofmspm' component={Presidantofmspm} />
+          <Route path='/secretoryofmspm' component={Secretoryofmspm} />
+          <Route path='/clgVisionMission' component={ClgVisionMission} />
+          <Route path='/facilities' component={Facilities} />
+
           <Route component={Error} />
         </Switch>
-
+        <Footer />
       </Router>
     </>
   );

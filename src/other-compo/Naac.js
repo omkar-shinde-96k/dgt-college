@@ -36,7 +36,7 @@ function Naac() {
                                 href="../documents/naac/others.pdf" role="tab" aria-controls="messages">Other important links</a>
 
                             <a class="list-group-item  active list-group-item-action" id="list-messages-list" data-toggle="list"
-                                href="../documents/naac/committee.pdf" role="tab" aria-controls="messages">IQAC Committee</a>
+                                href="../documents/naac/iqac.png" role="tab" aria-controls="messages">IQAC Committee</a>
 
                         </div>
                     </div>
