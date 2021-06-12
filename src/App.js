@@ -49,7 +49,7 @@ const Nstaff = loadable({
 })
 
 const TimeTable = loadable({
-  loader: () => import("./other-compo/TimeTable"),
+  loader: () => import("./other-compo/Timetable"),
   loading: () => <> <Loadingtwo /> </>
 })
 const Vangmay = loadable({
