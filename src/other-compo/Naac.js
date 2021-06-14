@@ -33,9 +33,12 @@ function Naac() {
                                 href="../documents/naac/AQAR 2018-19.pdf" role="tab" aria-controls="messages">AQAR 2018-19</a>
 
                             <a class="list-group-item   list-group-item-action" id="list-messages-list" data-toggle="list"
-                                href="../documents/naac/others.pdf" role="tab" aria-controls="messages">Other important links</a>
+                                href="../documents/naac/AQAR 2018-19.pdf" role="tab" aria-controls="messages">AQAR 2019-20</a>
 
                             <a class="list-group-item  active list-group-item-action" id="list-messages-list" data-toggle="list"
+                                href="../documents/naac/others.pdf" role="tab" aria-controls="messages">Other important links</a>
+
+                            <a class="list-group-item   list-group-item-action" id="list-messages-list" data-toggle="list"
                                 href="../documents/naac/iqac.png" role="tab" aria-controls="messages">IQAC Committee</a>
 
                         </div>

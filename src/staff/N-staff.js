@@ -4,101 +4,179 @@ function Marathi() {
         <>
             <div class="team-w3l" id="team">
                 <div class="container">
-                    <h3 class="w3l-title">COLLEGE NON-TEACHING STAFF</h3>
+                    <h3 class="w3l-title">COLLEGE TEACHING STAFF </h3>
                     <br />
                     <div class="w3layouts_header">
                         <p><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
                     </div>
                     <div class="team-w3l-grid">
+
+
+
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                            <div class="about_img"><img src="../images/t-staff/khamkar.jpg" alt="" />
-                                <h5>Dr.B.M Khamkar sir<br /><span> Principal</span></h5>
+                            <div class="about_img"><img src="images/t-staff/khamkar.jpg" height="100%" alt="" />
+                                <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}>Mr. Dipak Hirave </span><span style={{ fontSize: "15px" }}>Head Clerk</span></h5>
                                 <div class="about_opa">
-                                    <p>Principal</p>
+                                    <p >Head Clerk</p>
                                 </div>
                             </div>
                         </div>
 
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                            <div class="about_img"><img src="../images/t-staff/acharya.jpg" alt="" />
-                                <h5>Dr. R.M. Acharya <br /><span> HOD (Marathi Dept)</span></h5>
+                            <div class="about_img"><img src="images/t-staff/acharya.jpg" height="100%" alt="" />
+                                <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}>Mr. Kekane Satish </span><span style={{ fontSize: "15px" }}> Senior Clerk</span></h5>
                                 <div class="about_opa">
-                                    <p>HOD (Marathi Dept)</p>
+                                    <p >Senior Clerk</p>
+                                </div>
+                            </div>
+                        </div> 
+
+                        <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
+                            <div class="about_img"><img src="images/t-staff/Pandey.jpg" height="100%" alt="" />
+                                <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}> Mr. Sudhir Kanoje </span><span style={{ fontSize: "15px" }}>Junior Clerk</span></h5>
+                                <div class="about_opa">
+                                    <p > Junior Clerk </p>
                                 </div>
                             </div>
                         </div>
 
-                        <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                            <div class="about_img"><img src="../images/t-staff/pandey.jpg" alt="" />
-                                <h5> Asst. Pro. Jayshankar Pandey <br /><span> IQAC-Coordinator</span></h5>
-                                <div class="about_opa">
-                                    <p>IQAC-Coordinator , HOD of Hindi Department</p>
-                                </div>
-                            </div>
-                        </div>
                         <div class="clearfix"></div>
                     </div>
 
                     <div class="team-w3l-grid grid-2-team">
+                       
+                       
+
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                            <div class="about_img"><img src="../images/t-staff/TSlokhande.jpg" alt="" />
-                                <h5>Dr. T.S. Lokhande <br /><span> HOD (History Dept.)</span></h5>
+                            <div class="about_img"><img src="images/t-staff/TSlokhande.jpg" height="100%" alt="" />
+                                <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}>Mrs. Bamugade Nilam  </span><span style={{ fontSize: "15px" }}>Junior Clerk</span></h5>
                                 <div class="about_opa">
-                                    <p>M.A. (History), B.Ed., Ph.D.</p>
+                                    <p >Junior Clerk</p>
                                 </div>
                             </div>
                         </div>
+
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                            <div class="about_img"><img src="../images/cdc/noimg.jpg" alt="" />
-                                <h5>Dr. Baban Singare<br /><span> Teacher Representative</span></h5>
+                            <div class="about_img"><img src="images/t-staff/singare.jpg" height="100%" alt="" />
+                                <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}>Mr. Malore Manoj </span><span style={{ fontSize: "15px" }}>  Junior Clerk   </span></h5>
                                 <div class="about_opa">
-                                    <p> Teacher Representative</p>
+                                    <p >Junior Clerk  </p>
                                 </div>
                             </div>
                         </div>
+
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                            <div class="about_img"><img src="../images/t-staff/sangita.jpg" alt="" />
-                                <h5>Miss. Sangita Utekar<br /><span>  HOD (Library Dept.)</span></h5>
+                            <div class="about_img"><img src="images/t-staff/sangita.jpg" height="100%" alt="" />
+                                <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}> Mr. Gharve Abhishek </span><span style={{ fontSize: "15px" }}>Junior Clerk</span></h5>
                                 <div class="about_opa">
-                                    <p>Miss. Sangita Utekar HOD (Library Dept.) M.A. (Library Science)</p>
+                                    <p >Junior Clerk</p>
                                 </div>
                             </div>
                         </div>
                         <div class="clearfix"></div>
                     </div>
+
+                    
                     <div class="team-w3l-grid grid-2-team">
+                        
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                            <div class="about_img"><img src="../images/cdc/noimg.jpg" alt="" />
-                                <h5>Miss. Safa Thange<span>Prof in Botany</span></h5>
+                            <div class="about_img"><img src="images/t-staff/safa.jpg" height="100%" alt="" />
+                                <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}> Mrs. Kalpana Tathare </span><span style={{ fontSize: "15px" }}>Library Attendant</span></h5>
                                 <div class="about_opa">
-                                    <p>Miss. Safa Thange (Asst. Prof in Botany)M.Sc in Botany</p>
+                                    <p >Library Attendant</p>
                                 </div>
                             </div>
                         </div>
+                        
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                            <div class="about_img"><img src="../images/cdc/noimg.jpg" alt="" />
-                                <h5>Asst. Prof. gavade sir<br /><span>dfdfdf</span></h5>
+                            <div class="about_img"><img src="images/t-staff/mehreen.jpg" height="100%" alt="" />
+                                <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}>Miss. Mhaske Ankita  </span><span style={{ fontSize: "15px" }}>Library Attendant</span></h5>
                                 <div class="about_opa">
-                                    <p> dffdf</p>
+                                    <p > Library Attendant</p>
                                 </div>
                             </div>
                         </div>
+                        
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                            <div class="about_img"><img src="../images/cdc/noimg.jpg" alt="" />
-                                <h5>Asst. Prof. Mehreen Daware<br /><span> HOD (Chemistry)</span></h5>
+                            <div class="about_img"><img src="images/t-staff/noimg.jpg" height="100%" alt="" />
+                                <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}> Mr. Dilip Bhavadkar </span><span style={{ fontSize: "15px" }}>Peon</span></h5>
                                 <div class="about_opa">
-                                    <p> HOD (Chemistry)  </p>
+                                    <p > Peon</p>
+                                </div>
+                            </div>
+                        </div> 
+                        <div class="clearfix"></div>
+                    </div>
+
+                    <div class="team-w3l-grid grid-2-team">
+                        
+                        <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
+                            <div class="about_img"><img src="images/t-staff/Deepali.jpg" height="100%" alt="" />
+                                <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}> Mr. Pawar S. S.( </span><span style={{ fontSize: "15px" }}>Peon</span></h5>
+                                <div class="about_opa">
+                                    <p > Peon</p>
                                 </div>
                             </div>
                         </div>
+                        
+                        <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
+                            <div class="about_img"><img src="images/t-staff/Yugandhara.jpg" height="100%" alt="" />
+                                <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}>Mr. Dalvi S.R  </span><span style={{ fontSize: "15px" }}>Peon</span></h5>
+                                <div class="about_opa">
+                                    <p >Peon</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
+                            <div class="about_img"><img src="images/t-staff/sabreen.jpg" height="100%" alt="" />
+                                <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}>Mr. Sunil Sutar  </span><span style={{ fontSize: "15px" }}>Peon</span></h5>
+                                <div class="about_opa">
+                                    <p > Peon</p>
+                                </div>
+                            </div>
+                        </div>
+
                         <div class="clearfix"></div>
                     </div>
 
 
+                    <div class="team-w3l-grid grid-2-team">
+                        
+                        <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
+                            <div class="about_img"><img src="images/t-staff/kalyani.jpg" height="100%" alt="" />
+                                <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}>Mr. Nandu Jadhav </span><span style={{ fontSize: "15px" }}>Peon</span></h5>
+                                <div class="about_opa">
+                                    <p > Peon</p>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
+                            <div class="about_img"><img src="images/t-staff/noimg.jpg" height="100%" alt="" />
+                                <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}>  </span><span style={{ fontSize: "15px" }}> </span></h5>
+                                <div class="about_opa">
+                                    <p >  </p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
+                            <div class="about_img"><img src="images/t-staff/Neha.jpg" height="100%" alt="" />
+                                <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}>  </span><span style={{ fontSize: "15px" }}>  </span></h5>
+                                <div class="about_opa">
+                                    <p >  </p>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="clearfix"></div>
+                    </div>
+ 
+                      
                 </div>
             </div>
 
-            <Footer />
         </>
     );
 }

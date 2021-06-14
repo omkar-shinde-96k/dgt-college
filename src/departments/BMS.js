@@ -88,27 +88,28 @@ function BMS() {
             <div class="team-w3l-grid">
             <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
                 <div class="about_img"><img src="images/t-staff/tamsil.jpg" alt=""></img>
-                    <h5> <span  style={{fontSize:"20px"}}>Asst.Prof. Shahajahan Tamseel </span>  <span> HOD in Management</span></h5>
+                    <h5> <span  style={{fontSize:"15px"}}>Asst.Prof. Shahajahan Tamseel </span>  <span style={{fontSize:"15px"}}> SET(Chemistry,Management),M.Sc.,MBA,B.Ed, HOD in BMS </span></h5>
                     <div class="about_opa">
-                        <p>HOD in Management</p>
+                        <p style={{fontSize:"15px"}}>SET(Chemistry,Management),M.Sc.,MBA,B.Ed HOD in Management</p>
                     </div>
                 </div>
               </div>
 
               <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
                 <div class="about_img"><img src="images/t-staff/Pooja Sakhre.jpg" alt=""></img>
-                    <h5> <span>Asst. Prof. Pooja Sakhare</span>  <span> Lecturar</span></h5>
+                    <h5> <span>Asst. Prof. Pooja Sakhare</span>  <span> M.Com , Lecturar</span></h5>
                     <div class="about_opa">
-                        <p>Lecturar</p>
+                        <p> M.Com , Lecturar</p>
+                      
                     </div>
                 </div>   
               </div>
 
               <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
                 <div class="about_img"><img src="images/t-staff/Nigar Dhansay.jpg" alt=""></img>
-                    <h5> <span>Asst. Prof. Nigar Dhansay</span>  <span> Lecturar</span></h5>
+                    <h5> <span>Asst. Prof. Nigar Dhansay</span>  <span> MBA , Lecturar</span></h5>
                     <div class="about_opa">
-                        <p>Lecturar</p>
+                        <p>MBA , Lecturar</p>
                     </div>
                 </div>
               </div>
@@ -118,17 +119,17 @@ function BMS() {
             <div class="team-w3l-grid grid-2-team">
             <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
                 <div class="about_img"><img src="images/t-staff/sushmita.jpg" alt=""></img>
-                    <h5> <span  style={{fontSize:"20px"}}>Asst.Prof.Sushmita Mhamunkar</span>  <span> Lecturar</span></h5>
+                    <h5> <span  style={{fontSize:"20px"}}>Asst.Prof.Sushmita Mhamunkar</span>  <span> M.Com , Lecturar</span></h5>
                     <div class="about_opa">
-                        <p>Lecturar</p>
+                        <p>M.Com , Lecturar</p>
                     </div>
                 </div>
               </div>
               <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
                 <div class="about_img"><img src="images/t-staff/snehal.jpg"  ></img>
-                    <h5> <span>Asst.Prof.Snehal Ghone</span> <span> Lecturar</span></h5>
+                    <h5> <span>Asst.Prof.Snehal Ghone</span> <span> M.Sc I.T , Lecturar</span></h5>
                     <div class="about_opa">
-                        <p>Lecturar</p>
+                        <p>M.Sc I.T , Lecturar</p>
                     </div>
                 </div>
               </div>

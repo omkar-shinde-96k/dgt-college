@@ -96,10 +96,16 @@ const ClgVisionMission = loadable({
   loader: () => import("./other-compo/ClgVisionMission"),
   loading: () => <> <Loadingtwo /> </>
 })
+const ClgCDC = loadable({
+  loader: () => import("./other-compo/ClgCDC"),
+  loading: () => <> <Loadingtwo /> </>
+})
+ 
 const Facilities = loadable({
   loader: () => import("./other-compo/Facilities"),
   loading: () => <> <Loadingtwo /> </>
 })
+ 
 
 function App() {
   const [DrawerToggle, setDrawerToggle] = useState(false)
@@ -142,9 +148,10 @@ const ToggleHandler=()=>{
           <Route path='/governingbodyofmspm' component={GovBodyMnsp} />
           <Route path='/founderofdgtc' component={Founderofdgtc} />
           <Route path='/presidantofmspm' component={Presidantofmspm} />
+          <Route path='/college-cdc' component={ClgCDC} />
           <Route path='/secretoryofmspm' component={Secretoryofmspm} />
           <Route path='/clgVisionMission' component={ClgVisionMission} />
-          <Route path='/facilities' component={Facilities} />
+          <Route path='/facilities' component={Facilities} /> 
 
           <Route component={Error} />
         </Switch>

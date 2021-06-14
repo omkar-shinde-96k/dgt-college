@@ -2,6 +2,28 @@
 function TimeTable() {
     return (
         <>
+
+
+
+<div class="container">
+                <h2>Termwise Academic Schedule</h2>
+
+                <table class="table">
+                    <thead>
+                        <tr> 
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr> 
+                            <td>As per Univercity of Mumbai rules regulations</td> 
+                        </tr>
+                        <tr> 
+                            <td> </td> 
+                        </tr>
+                    </tbody>
+                </table>
+            </div> 
+
             <div class="container">
                 <h2>Daywise Academic Schedule</h2>
 
@@ -33,7 +55,6 @@ function TimeTable() {
                             <td>Theory </td>
                             <td>F.Y./S.Y./T.Y.B.com.</td>
                         </tr>
-
                         <tr>
                             <td>4</td>
                             <td>8.20 am to 3.00 Noon  </td>
@@ -47,42 +68,36 @@ function TimeTable() {
                             <td>Theory & Practical </td>
                             <td>F.Y./S.Y./T.Y.B.Sc.I.T</td>
                         </tr>
-
                         <tr>
                             <td>6</td>
                             <td>8.20 am to 2.00 pm</td>
                             <td>Theory & Practical </td>
                             <td>11th/12th Science</td>
                         </tr>
-
                         <tr>
                             <td>7</td>
                             <td>8.20 am to 12.00 pm</td>
                             <td>Theory </td>
                             <td>11th/12th Commerce</td>
                         </tr>
-
                         <tr>
                             <td>8</td>
                             <td> 1.00 pm to 3.00pm </td>
                             <td>Theory </td>
                             <td>M.A.1/M.A.2 Hindi/Marathi/History</td>
                         </tr>
-
                         <tr>
                             <td>9</td>
                             <td>8.20 pm to 2.40 pm </td>
                             <td>Theory & Practical</td>
                             <td>M.Sc 1/2</td>
                         </tr>
-
                         <tr>
                             <td>10</td>
                             <td> 8.20 pm to 2.40 pm</td>
                             <td>Theory & Practical</td>
                             <td>M.Sc.I.T 1/2</td>
                         </tr>
-
                     </tbody>
                 </table>
             </div>
@@ -105,8 +120,7 @@ function TimeTable() {
             <hr />
             <br />
             <div class="container">
-                <h2>Library Book Issuing Schedule</h2>
-
+                <h2>Library Book Issuing Schedule</h2> 
                 <table class="table">
                     <tbody>
                         <tr>

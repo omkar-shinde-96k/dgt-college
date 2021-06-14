@@ -89,6 +89,10 @@ function Marathi() {
 
                             <a class="list-group-item list-group-item-action active .listclass" id="list-home-list"
                                 data-toggle="list" href="../documents/marathi/ma2.pdf" role="tab" aria-controls="home">M.A. 2nd Syllabus</a>
+
+
+<a class="list-group-item list-group-item-action   .listclass" id="list-home-list"
+                                data-toggle="list" href="../documents/marathi/ma2.pdf" role="tab" aria-controls="home">Marathi Vangmay Mandal</a>
                         </div>
                     </div>
                 </div>
@@ -98,8 +102,7 @@ function Marathi() {
 
 
             {/* secound nav endcx  */}
-
-            <Footer />
+ 
         </>
     );
 }

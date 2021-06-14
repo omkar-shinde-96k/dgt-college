@@ -13,7 +13,7 @@ function Hindi() {
                                     <div class="about_img"><img src="images/t-staff/Pandey.jpg" height="100%" alt="" />
                                         <h5 style={{lineHeight:"20px"}}> <span style={{fontSize:"20px",marginTop:"10px"}}>पाण्डेय जे.आर. </span><span style={{fontSize:"15px"}}>सहयोगी प्राध्यापक</span></h5>
                                         <div class="about_opa">
-                                            <p >Principal</p>
+                                            <p >सहयोगी प्राध्यापक</p>
                                         </div>
                                     </div>
                                 </div> 
