@@ -138,8 +138,7 @@ function Marathi() {
                         </div>
 
                         <div class="clearfix"></div>
-                    </div>
-
+                    </div> 
 
                     <div class="team-w3l-grid grid-2-team">
                         
