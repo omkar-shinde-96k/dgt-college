@@ -5,7 +5,7 @@ function BMS() {
     return (
         <>
             <br />
-            <h1 align="center"><b> Welcome to BMS Department</b> </h1>
+            <h1 align="center"><b> Welcome To BMS Department</b> </h1>
             <br />
 
             <div class="container">
