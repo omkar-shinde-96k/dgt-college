@@ -1,5 +1,4 @@
-
-import Footer from '../components/Footer';
+import './Dept.css';
 function Bcom() {
   return (
     <>
@@ -137,25 +136,128 @@ Prof. Amrin Ibrahim Adkar HOD of Commerce Department. She has 8 years of teachin
         <br />
 
         <div class="events">
-          <h3 class="events-title" align="center"> <span> evemtName </span>- eventDate </h3> <br />
-          <p class="events-details"> eventDescription </p>
-          <br />
+          <h3 class="events-title" align="center"> <span> Farewell  </span>- 11-03-2020 </h3> <br />  
           <div class="row md-2 events-img">
 
-            <a class="col-sm-12 col-lg-6" href="../documents/it/event/.jpg"><img
-              src="../documents/it/event/.jpg" /></a>
+            <a class="col-sm-12 col-lg-6" href="../documents/commerce/2019-20/Farewell 11-03-2020-a.jpg"><img
+              src="../documents/commerce/2019-20/Farewell 11-03-2020-a.jpg" /></a>
 
-            <a class="col-sm-12 col-lg-6" href="../documents/it/event/.jpg"><img
-              src="../documents/it/event/.jpg" /></a>
+            <a class="col-sm-12 col-lg-6" href="../documents/commerce/2019-20/Farewell 11-03-2020-b.jpg"><img
+              src="../documents/commerce/2019-20/Farewell 11-03-2020-b.jpg" /></a>
+          </div>
+        </div>
+
+        <div class="events">
+          <h3 class="events-title" align="center"> <span> Educational Tour  </span>-  17-02-2020 </h3> <br />  
+          <div class="row md-2 events-img">
+
+            <a class="col-sm-12 col-lg-6" href="../documents/commerce/2019-20/Educational Tour 17-02-2020-a.jpg"><img
+              src="../documents/commerce/2019-20/Educational Tour 17-02-2020-a.jpg" /></a>
+
+            <a class="col-sm-12 col-lg-6" href="../documents/commerce/2019-20/Educational Tour 17-02-2020-b.jpg"><img
+              src="../documents/commerce/2019-20/Educational Tour 17-02-2020-b.jpg" /></a>
+          </div>
+        </div>
+
+        <div class="events">
+          <h3 class="events-title" align="center"> <span> Freshers Party  </span>- 28-08-2019 </h3> <br />  
+          <div class="row md-2 events-img">
+
+            <a class="col-sm-12 col-lg-6" href="../documents/commerce/2019-20/Freshers Party28-08-2019-a.jpg"><img
+              src="../documents/commerce/2019-20/Freshers Party28-08-2019-a.jpg" /></a>
+
+            <a class="col-sm-12 col-lg-6" href="../documents/commerce/2019-20/Freshers Party28-08-2019-b.jpg"><img
+              src="../documents/commerce/2019-20/Freshers Party28-08-2019-b.jpg" /></a>
           </div>
         </div>
 
 
+        <div class="events">
+          <h3 class="events-title" align="center"> <span> Oldeag home Nizampur  </span>- 12-02-2020 </h3> <br />  
+          <div class="row md-2 events-img">
+
+            <a class="col-sm-12 col-lg-6" href="../documents/commerce/2019-20/Oldeag home Nizampur 12-02-2020-a.jpg"><img
+              src="../documents/commerce/2019-20/Oldeag home Nizampur 12-02-2020-a.jpg" /></a>
+
+            <a class="col-sm-12 col-lg-6" href="../documents/commerce/2019-20/Oldeag home Nizampur 12-02-2020-b.jpg"><img
+              src="../documents/commerce/2019-20/Oldeag home Nizampur 12-02-2020-b.jpg" /></a>
+          </div>
+        </div>
+
+        <div class="events">
+          <h3 class="events-title" align="center"> <span> Ask me Computer Guest lecture 19-01-2021-aAsk me Computer Guest lecture 19-01-2021-a </span>- eventDate </h3> <br />  
+          <div class="row md-2 events-img">
+
+            <a class="col-sm-12 col-lg-6" href="../documents/commerce/2019-20/Ask me Computer Guest lecture 19-01-2021-a.jpg"><img
+              src="../documents/commerce/2019-20/Ask me Computer Guest lecture 19-01-2021-a.jpg" /></a>
+
+            <a class="col-sm-12 col-lg-6" href="../documents/commerce/2019-20/Ask me Computer Guest lecture 19-01-2021-b.jpg"><img
+              src="../documents/commerce/2019-20/Ask me Computer Guest lecture 19-01-2021-b.jpg" /></a>
+          </div>
+        </div>
+
+
+        <div class="events">
+          <h3 class="events-title" align="center"> <span> Dr. S. M Ghate Guest lectuer  </span>- 15-01-2020 </h3> <br />  
+          <div class="row md-2 events-img">
+
+            <a class="col-sm-12 col-lg-6" href="../documents/commerce/2019-20/Dr. S. M Ghate Guest lectuer 15-01-2020-a.jpg"><img
+              src="../documents/commerce/2019-20/Dr. S. M Ghate Guest lectuer 15-01-2020-a.jpg" /></a>
+
+            <a class="col-sm-12 col-lg-6" href="../documents/commerce/2019-20/Dr. S. M Ghate Guest lectuer 15-01-2020-b.jpg"><img
+              src="../documents/commerce/2019-20/Dr. S. M Ghate Guest lectuer 15-01-2020-b.jpg" /></a>
+          </div>
+        </div>
+
+
+
+        <div class="events">
+          <h3 class="events-title" align="center"> <span> Dr. S. M Ghate Guest lectuer 15-01-2020-a </span>- eventDate </h3> <br />  
+          <div class="row md-2 events-img">
+
+            <a class="col-sm-12 col-lg-6" href="../documents/commerce/2019-20/Dr. S. M Ghate Guest lectuer 15-01-2020-a.jpg"><img
+              src="../documents/commerce/2019-20/Dr. S. M Ghate Guest lectuer 15-01-2020-a.jpg" /></a>
+
+            <a class="col-sm-12 col-lg-6" href="../documents/commerce/2019-20/Dr. S. M Ghate Guest lectuer 15-01-2020-b.jpg"><img
+              src="../documents/commerce/2019-20/Dr. S. M Ghate Guest lectuer 15-01-2020-b.jpg" /></a>
+          </div>
+        </div>
+
+
+{/* 
+        <div class="events">
+          <h3 class="events-title" align="center"> <span> evemtName </span>- eventDate </h3> <br />  
+          <div class="row md-2 events-img">
+
+            <a class="col-sm-12 col-lg-6" href="../documents/commerce/2019-20/.jpg"><img
+              src="../documents/commerce/2019-20/.jpg" /></a>
+
+            <a class="col-sm-12 col-lg-6" href="../documents/commerce/2019-20/.jpg"><img
+              src="../documents/commerce/2019-20/.jpg" /></a>
+          </div>
+        </div>
+
+
+        <div class="events">
+          <h3 class="events-title" align="center"> <span> evemtName </span>- eventDate </h3> <br />  
+          <div class="row md-2 events-img">
+
+            <a class="col-sm-12 col-lg-6" href="../documents/commerce/2019-20/.jpg"><img
+              src="../documents/commerce/2019-20/.jpg" /></a>
+
+            <a class="col-sm-12 col-lg-6" href="../documents/commerce/2019-20/.jpg"><img
+              src="../documents/commerce/2019-20/.jpg" /></a>
+          </div>
+        </div> */}
+
+
+        
+
+        
+
+
       </div>
-      {/* secound nav end  */}
-
-
-      <Footer />
+     
     </>
   );
 }

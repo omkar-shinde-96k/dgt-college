@@ -7,6 +7,7 @@ import Footer from './components/Footer';
 import Drawer from './components/Drawer';
 import { Loadingtwo } from './components/Loading';
 import Home from './components/Home';
+
 const Bscit = loadable({
   loader: () => import("./departments/Bscit"),
   loading: () => <> <Loadingtwo /> </>
@@ -49,7 +50,7 @@ const Nstaff = loadable({
 })
 
 const TimeTable = loadable({
-  loader: () => import("./other-compo/Timetable"),
+  loader: () => import("./other-compo/TimeTable"),
   loading: () => <> <Loadingtwo /> </>
 })
 const Vangmay = loadable({

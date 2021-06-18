@@ -1,9 +1,9 @@
 import React from 'react'
-import { Link, NavLink, Route, Switch } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 import '../App.css';
-const Navlinks = ({ toggle }) => {
+const Navlinks = ({toggle}) => {
     return (
-        <ul class="nav navbar-nav myDropdown " >
+        <ul class="nav navbar-nav myDropdown" id="top" >
 
             <li class="dropdown"> <NavLink onClick={toggle} class="dropbtn" to="/">Home</NavLink> </li>
 
@@ -12,7 +12,6 @@ const Navlinks = ({ toggle }) => {
                   <i class="fa fa-caret-down"></i>
                 </a>
                 <div class="dropdown-content">
-
                     <NavLink onClick={toggle} to="/aboutsansta">About Institute </NavLink>
                     <NavLink onClick={toggle} to="/founderofmnsp">Founder of MSPM</NavLink>
                     <NavLink onClick={toggle} to="/governingbodyofmspm">Governing Body MSPM</NavLink>

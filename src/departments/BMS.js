@@ -1,6 +1,4 @@
- 
-import './Dept.css';
-import Footer from '../components/Footer';
+import './Dept.css'; 
 function BMS() {
     return (
         <>
@@ -48,7 +46,7 @@ function BMS() {
 
             <div class="container text-center">
                 <p style={{ color: "blue", textAlign: "center" }}>click on image to zoom </p>
-                <a href="../documents/bms/table.jpg"><img id="tableid" src="../documents/bms/table.jpg" /></a>
+                <a href="../documents/bms/table.jpg"><img id="tableid" src="../documents/bms/table.jpg" width="100%" height="100%"/></a>
             </div>
 
             {/* {{!-- syllybus start --}} */}
@@ -144,9 +142,7 @@ function BMS() {
                 <br />
 
                 <div class="events">
-                    <h3 class="events-title" align="center"> <span> Visit to Ellora Caves </span>- 08-02-2020 </h3> <br />
-             
-                    <br />
+                    <h3 class="events-title" align="center"> <span> Visit to Ellora Caves </span>- 08-02-2020 </h3> <br /> 
                     <div class="row events-imdg"> 
                         <a width="100%" href="../documents/bms/events/ellora.jpg"><img
                             src="../documents/bms/events/ellora.jpg"  width="100%"/></a> 
@@ -154,9 +150,7 @@ function BMS() {
                 </div>
 
                 <div class="events">
-                    <h3 class="events-title" align="center"> <span> Visit to Ajanta Caves  </span>- 07-02-2020 </h3> <br />
- 
-                    <br />
+                    <h3 class="events-title" align="center"> <span> Visit to Ajanta Caves  </span>- 07-02-2020 </h3> <br /> 
                     <div class="row events-imdg"> 
                         <a width="100%" href="../documents/bms/events/ajanta.jpg"><img
                             src="../documents/bms/events/ajanta.jpg"  width="100%"/></a> 
@@ -164,9 +158,7 @@ function BMS() {
                 </div>
 
                 <div class="events">
-                    <h3 class="events-title" align="center"> <span> Visit to Handcraft Silk Factory, Aurangabad  </span>- 08-02-2020 </h3> <br />
-                    
-                    <br />
+                    <h3 class="events-title" align="center"> <span> Visit to Handcraft Silk Factory, Aurangabad  </span>- 08-02-2020 </h3> <br /> 
                     <div class="row events-imdg"> 
                         <a width="100%" href="../documents/bms/events/Silk-Factory.jpg"><img
                             src="../documents/bms/events/Silk-Factory.jpg"  width="100%"/></a> 
@@ -196,9 +188,7 @@ function BMS() {
 
                
                <div class="events">
-                    <h3 class="events-title" align="center"> <span> 3rd 100 Percent Result Celebration</span>-  24-02-2019  </h3> <br />
-       
-                    <br />
+                    <h3 class="events-title" align="center"> <span> 3rd 100 Percent Result Celebration</span>-  24-02-2019  </h3> <br /> 
                     <div class="row events-imdg"> 
                         <a width="100%" href="../documents/bms/events/3rd100.jpg"><img
                             src="../documents/bms/events/3rd100.jpg"  width="100%"/></a> 
@@ -215,9 +205,7 @@ function BMS() {
                     </div>
                 </div>
                 <div class="events">
-                    <h3 class="events-title" align="center"> <span> First 100 Percent Result Celebration </span>- 22-02-2018  </h3> <br />
-                   
-                    <br />
+                    <h3 class="events-title" align="center"> <span> First 100 Percent Result Celebration </span>- 22-02-2018  </h3> <br /> 
                     <div class="row events-imdg"> 
                         <a width="100%" href="../documents/bms/events/100-2018.jpg"><img
                             src="../documents/bms/events/100-2018.jpg"  width="100%"/></a> 
@@ -225,9 +213,7 @@ function BMS() {
                 </div>
 
                 <div class="events">
-                    <h3 class="events-title" align="center"> <span> Students Performance </span>-  26-01-2018 </h3> <br />
- 
-                    <br />
+                    <h3 class="events-title" align="center"> <span> Students Performance </span>-  26-01-2018 </h3> <br /> 
                     <div class="row events-imdg"> 
                         <a width="100%" href="../documents/bms/events/Students Performance 26-1-18.jpg"><img
                             src="../documents/bms/events/Students Performance 26-1-18.jpg" width="100%" /></a> 
@@ -245,9 +231,7 @@ function BMS() {
                 </div>
 
                 <div class="events">
-                    <h3 class="events-title" align="center"> <span> Visit to Oldage home Borewadi  </span>- 01-10-2016 </h3> <br />
- 
-                    <br />
+                    <h3 class="events-title" align="center"> <span> Visit to Oldage home Borewadi  </span>- 01-10-2016 </h3> <br /> 
                     <div class="row events-imdg"> 
                         <a width="100%" href="../documents/bms/events/Visit to Oldage home Borewadi 01-10-2016.jpg"><img
                             src="../documents/bms/events/Visit to Oldage home Borewadi 01-10-2016.jpg"  width="100%" /></a> 
@@ -266,8 +250,7 @@ function BMS() {
 
 
             </div>
-            {/* secound nav end  */}
-            <Footer />
+        
         </>
     );
 }

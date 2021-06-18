@@ -34,8 +34,42 @@ function Geo() {
                                 Destination : Assist Prof
                                 Gender : Male<br />
                                 Academic Qualification: M.A, B.P Ed, M.Phil, PHD<br />
-                                E-mail : bksingare74@gmail.com
-					</p>
+                                E-mail : bksingare74@gmail.com<br />
+
+                                workshop - 30 <br />
+                                presentations - 22 (state ,National , International)<br />
+                                publication - Research Journal - 16<br />
+                                National Conference Organised - 03<br />
+
+                                Department Of Geography.<br />
+
+                                University Level workshops Organised - 03<br />
+                                orientation - 01<br />
+                                Refresher Cource - 03<br />
+                                Short Term Cources - 03<br />
+
+                                Committes :<br />
+                                - Cultural Committe - Member<br />
+                                - Ex W.S.S programme Officer - Incharge 7 years<br />
+                                - library Committe - Member<br />
+                                - Student Council And Student committe Member<br />
+                                - Disipline committe - Member<br />
+                                - Staff Committe  - Member<br />
+                                - Kokan Geography Association  - Lifemember<br />
+                                - Bombay geoghycal Association - Governing Body member<br />
+                                - Sport Committee - Incharge<br />
+                                - Alumus Committee - Member<br />
+                                - LMC  - Member<br />
+                                - CDC - Member<br />
+                                - Unfair Means Committe - Member<br />
+                                - Purchase Committe  - Member<br />
+                                - CAP - Ex-incharge<br />
+                                - Admission Committee - Member<br />
+                                - Examinor F.Y. S.Y. T.Y. B.A. , Moderator - University of mumbai<br />
+                                - Paper setter -  F.Y. S.Y. T.Y. B.A.<br />
+                                - Syllabus commmittee - Member , F.Y. S.Y. T.Y. B.A.<br />
+                                - Practical Exam Co-ordinator - T.Y B.A Raigad District best teachar award - 2014-15<br />
+                            </p>
                         </div>
 
                         <div class="moreInfo">
@@ -86,7 +120,6 @@ function Geo() {
                 </div>
             </div>
 
-            <Footer />
         </>
     );
 }

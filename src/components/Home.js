@@ -8,31 +8,29 @@ const Home = () => {
                 
                 <h1 >Welcome to our college</h1>
                 <p >
-                    Mangaon Shikshan Prasarak Mandal, Mangaon and its President Adv. Rajivji Sable laid a foundation stone of higher education in Mangaon on 1993. It is that time known as Arts’ Senior College. Later It is named as D.G.Tatkare College on 10th January 2010.
+                    Mangaon Shikshan Prasarak Mandal, Mangaon and its President Adv. Rajivji Sable laid a foundation stone of higher education in Mangaon on 1993. It was time known as Arts’ Senior College. Later It named as D.G.Tatkare College on 10th January 2010.
                 </p>
                 <br />
                 <div style={{ display: "flex", color: "white" }}>
                     <a style={{ color: "white", border: "1px solid white" }} href="#contact" className="mybtn text-center">Contact Us</a> 
                 </div>
                 <div className="social-icons">
-                    <a data-aos="zoom-in" data-aos-offset="100" href="#" class="fa fa-envelope"></a>
-                    <a data-aos="zoom-in" data-aos-offset="100" href="#" class="fa fa-instagram"></a>
-                    <a data-aos="zoom-in" data-aos-offset="100" href="#" class="fa fa-facebook-square"></a>
-                    <a data-aos="zoom-in" data-aos-offset="100" href="#" class="fa fa-envelope"></a>
+                    <a  href="#" class="fa fa-facebook-square"></a>
+                    <a  href="#" class="fa fa-envelope"></a>
                 </div>
             </div>
             {/* //slider */}
 
             {/* About */} 
             <div class="container-fluid">
-                <h3 class="w3l-title"> 
+                <h3 class="title"> 
                         Principal message 
                 </h3> 
-                <div class="w3layouts_header">
+                <div class="header">
                     <p><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
                 </div> 
                 <div class="col-md-3 w3l_about_bottom_left"  >
-                    <div class="team-w3l-grid" style={{ border: "1px solid black" }}>
+                    <div class="team-grid" style={{ border: "1px solid black" }}>
                         <div class="  about-poleft t1">
                             <div class="about_img"><img src="images/t-staff/khamkar.jpg" height="100%" alt="" />
                                 <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}>Dr. B.M Khamkar </span><span style={{ fontSize: "15px" }}>Principal</span></h5>
@@ -57,10 +55,10 @@ const Home = () => {
             <hr></hr>
             <br></br>
             <div class="container" >
-                <h3 class="w3l-title"> 
+                <h3 class="title"> 
                         -About Us- 
                 </h3>
-                <div class="w3layouts_header">
+                <div class="header">
                     <p><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
                 </div> 
                 <div class="col-md-6 w3l_about_bottom_left"  >
@@ -76,112 +74,15 @@ const Home = () => {
                     foundation stone of higher education in Mangaon on 1993. It was that time known as Arts’
 					Senior College. Later It is named as D.G.Tatkare College on 10th January 2010.</p> 
                     <div class="container-fluid" style={{ display: "flex", marginTop: "50px" }}>
-                        <a href="#" class="mybtn " data-toggle="modal" data-target="#myModal"><span>Read More</span></a>  &nbsp; &nbsp; &nbsp; &nbsp;
-                        <a href="#mail" class="mybtn   scroll" ><span >Contact Us</span></a>
+                        <a href="#" class="mybtn " data-toggle="modal" data-target="#facilitymodal"><span>Read More</span></a>  &nbsp; &nbsp; &nbsp; &nbsp; 
+                        <a href="#contact" class="mybtn scroll" ><span >Contact Us</span></a>
                     </div>
                 </div> 
                 <div class="clearfix"> </div>
             </div> 
-            <br /><br /><br /><br /> 
-            {/* //About */} 
-            {/* Services */} 
-            <br></br><br></br>
-            <div class="container-fluid" >
-                <div class="row">
-                    <h3 class="w3l-title">  Our Facilities </h3>
-                </div>
-                <br></br>
-                <div class="Facility-row row">
-                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" >
-                        <div className="sub-facility">
-                        <h2 align="center">library</h2>
-                        <div class="w3layouts_header">
-                            <p ><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
-                        </div>
-                        <p> It is enriched with books over 10,000; periodical over 17; daily news papers over 13. Library is with daily book issuing counter and reading room. In near future, the library will be equipped with e-issuing counter computers. At present Seven PCs in library providing free internet axis to students.
-                        </p>
-                        <div style={{ display: "flex", justifyContent: "center" ,margin:"20px 0" }}>
-                            <button className="mybtn" id="mybtn" data-toggle="modal" data-target="#facilitymodal">Learn More</button>
-                        </div>
-                      </div>  
-                    </div> 
-                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" >
-                        <div className="sub-facility">
-                        <h2 align="center">Student Corner</h2>
-                        <div class="w3layouts_header">
-                            <p ><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
-                        </div>
-                        <p>It is natural venue for students. Inside the college campus students can enjoy natural joy. It is 'SPACE' for students. The place is for dine, chit-chat, write the applications, to wait for friends, share the feelings, help to each other to build bond of friendship. It has lawn, natural roof, Drinking water facilities with water purifier, ample sitting arrangement with Notice Boards to keep update informed.
-                        </p>
-                        <div style={{ display: "flex", justifyContent: "center" ,margin:"20px 0" }}>
-                            <button className="mybtn" id="mybtn">Learn More</button> 
-                        </div>
-                      </div>  
-                    </div> 
-                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" >
-                        <div className="sub-facility">
-                        <h2 align="center">Reading Room</h2>
-                        <div class="w3layouts_header">
-                            <p ><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
-                        </div>
-                        <p>
-                        Separate reading room is there at Terace. It is of about 150 student's capacity. Cool breeze of nature with natural light enhances environment for study. Reading room provides place to learn for students. It is added advantage to students for working hard to gain more in examinations.
-                        </p>
-                        <div style={{ display: "flex", justifyContent: "center" ,margin:"20px 0" }}>
-                            <button className="mybtn" id="mybtn">Learn More</button> 
-                        </div>
-                      </div>  
-                    </div>
-                </div> 
-                <br></br><br></br> 
-                <div class="Facility-row row">
-                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" >
-                        <div className="sub-facility">
-                        <h2 align="center">Gymkhana</h2>
-                        <div class="w3layouts_header">
-                            <p ><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
-                        </div>
-                        <p>Gymnasium - Carrom board, Chess boards, Table tennis, Volley ball, badminton, physical exercise equipment are well maintained. Bat, balls, stumps, net and mat are for student to play cricket. On play ground, special grounds are maintained for kho-kho, kabbadi, volley ball, cricket pitch facilities are available.
-                        </p>
-                        <div style={{ display: "flex", justifyContent: "center" ,margin:"20px 0" }}>
-                            <button className="mybtn" id="mybtn" data-toggle="modal" data-target="#facilitymodal">Learn More</button>
-                        </div>
-                      </div>  
-                    </div> 
-                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12">
-                        <div className="sub-facility">
-                        <h2 align="center">Reading room</h2>
-                        <div class="w3layouts_header">
-                            <p ><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
-                        </div>
-                        <p>
-                        Separate reading room is there at Terace. It is of about 150 student's capacity. Cool breeze of nature with natural light enhances environment for study. Reading room provides place to learn for students. It is added advantage to students for working hard to gain more in examinations.
-                        </p>
-                        <div style={{ display: "flex", justifyContent: "center" ,margin:"20px 0" }}>
-                            <button className="mybtn" id="mybtn">Learn More</button> 
-                        </div>
-                      </div>  
-                    </div> 
-                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" >
-                        <div className="sub-facility">
-                        <h2 align="center">Multipurpose Hall</h2>
-                        <div class="w3layouts_header">
-                            <p ><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
-                        </div>
-                        <p>It has over 250 sitting capacity Hall. It is airy with ample windows and fans. The decoraive backdrop, dice, podium are added advantage. It has LCD projector as added advantage. It has LCD projector as advanced teaching aids for students. Built in sound and light system, POP designed ceilling make elligant look of multipurpose hall. 
-                        </p>
-                        <div style={{ display: "flex", justifyContent: "center" ,margin:"20px 0" }}>
-                            <button className="mybtn" id="mybtn">Learn More</button> 
-                        </div>
-                      </div>  
-                    </div>
-                    
-                </div>
-            </div> 
             <div class="services" id="services">
-                <div class="container"> 
-                    {/* model 1 end */}
-                    <div class="modal about-modal w3-agileits fade" id="facilitymodal" tabindex="-1" role="dialog">
+                <div class="container">  
+                    <div class="modal about-modal agileits fade" id="facilitymodal" tabindex="-1" role="dialog">
                         <div class="modal-dialog" role="document">
                             <div class="modal-content">
                                 <div class="modal-header">
@@ -198,23 +99,119 @@ const Home = () => {
                                 </div>
                             </div>
                         </div>
-                    </div>    {/* model 1 end */}
+                    </div>    
                 </div>
             </div> 
+            <br /><br /><br /><br /> 
+            {/* //About */} 
+            {/* Services */} 
+            <br></br><br></br>
+            <div class="container-fluid" >
+                <div class="row">
+                    <h3 class="title">  Our Facilities </h3>
+                </div>
+                <br></br>
+                <div class="Facility-row row">
+                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" >
+                        <div className="sub-facility">
+                        <h2 align="center">Library</h2>
+                        <div class="header">
+                            <p ><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
+                        </div>
+                        <p> It is enriched with books over 10,000; periodical over 17; daily news papers over 13. Library is with daily book issuing counter and reading room. In near future, the library will be equipped with e-issuing counter computers. 
+                        </p>
+                        <div style={{ display: "flex", justifyContent: "center" ,margin:"20px 0" }}>
+                            <button className="mybtn" id="mybtn" data-toggle="modal" data-target="#facilitymodal">Learn More</button>
+                        </div>
+                      </div>  
+                    </div> 
+                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" >
+                        <div className="sub-facility">
+                        <h2 align="center">Reading Room</h2>
+                        <div class="header">
+                            <p ><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
+                        </div>
+                        <p>
+                        Separate reading room is there at Terace. It is of about 150 student's capacity. Cool breeze of nature with natural light enhances environment for study. Reading room provides place to learn for students. It is added advantage to students for working hard to gain more in examinations.
+                        </p>
+                        {/* <div style={{ display: "flex", justifyContent: "center" ,margin:"20px 0" }}>
+                            <button className="mybtn" id="mybtn">Learn More</button> 
+                        </div> */}
+                      </div>  
+                    </div>
+
+                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" >
+                        <div className="sub-facility">
+                        <h2 align="center">Student Corner</h2>
+                        <div class="header">
+                            <p ><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
+                        </div>
+                        <p>It is natural venue for students. Inside the college campus students can enjoy natural joy. It is 'SPACE' for students. The place is for dine, chit-chat, write the applications, to wait for friends, share the feelings, help to each other to build bond of friendship. It has lawn, natural roof, Drinking water facilities with water purifier, ample sitting arrangement with Notice Boards to keep update informed.
+                        </p>
+                        {/* <div style={{ display: "flex", justifyContent: "center" ,margin:"20px 0" }}>
+                            <button className="mybtn" id="mybtn">Learn More</button> 
+                        </div> */}
+                      </div>  
+                    </div> 
+                   
+                </div> 
+                <br></br><br></br> 
+                <div class="Facility-row row">
+                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" >
+                        <div className="sub-facility">
+                        <h2 align="center">Gymkhana</h2>
+                        <div class="header">
+                            <p ><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
+                        </div>
+                        <p>Gymnasium - Carrom board, Chess boards, Table tennis, Volley ball, badminton, physical exercise equipment are well maintained. Bat, balls, stumps, net and mat are for student to play cricket. On play ground, special grounds are maintained for kho-kho, kabbadi, volley ball, cricket pitch facilities are available.
+                        </p>
+                        {/* <div style={{ display: "flex", justifyContent: "center" ,margin:"20px 0" }}>
+                            <button className="mybtn" id="mybtn" data-toggle="modal" data-target="#facilitymodal">Learn More</button>
+                        </div> */}
+                      </div>  
+                    </div> 
+                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                        <div className="sub-facility">
+                        <h2 align="center">Reading room</h2>
+                        <div class="header">
+                            <p ><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
+                        </div>
+                        <p>
+                        Separate reading room is there at Terace. It is of about 150 student's capacity. Cool breeze of nature with natural light enhances environment for study. Reading room provides place to learn for students. It is added advantage to students for working hard to gain more in examinations.
+                        </p>
+                        {/* <div style={{ display: "flex", justifyContent: "center" ,margin:"20px 0" }}>
+                            <button className="mybtn" id="mybtn">Learn More</button> 
+                        </div> */}
+                      </div>  
+                    </div> 
+                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" >
+                        <div className="sub-facility">
+                        <h2 align="center">Multipurpose Hall</h2>
+                        <div class="header">
+                            <p ><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
+                        </div>
+                        <p>It has over 250 sitting capacity Hall. It is airy with ample windows and fans. The decoraive backdrop, dice, podium are added advantage. It has LCD projector as added advantage. It has LCD projector as advanced teaching aids for students. Built in sound and light system, POP designed ceilling make elligant look of multipurpose hall. 
+                        </p>
+                        {/* <div style={{ display: "flex", justifyContent: "center" ,margin:"20px 0" }}>
+                            <button className="mybtn" id="mybtn">Learn More</button> 
+                        </div> */}
+                      </div>  
+                    </div>
+                    
+                </div>
+            </div>  
             <div class="cantainer"> 
             </div> 
             {/* //services  */} 
             {/* Gallery  */} 
             <section class="portfolio-w3ls" id="gallery">
-                <h3 class="w3l-title">
-                    <x-sign>
-                        Our Gallery
-				    </x-sign>
+                <h3 class="title"> 
+                        Our Gallery 
                 </h3>
-                <div class="w3layouts_header">
+                <div class="header">
                     <p><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
                 </div>
-                <div class="col-md-3 col-xs-3 gallery-grid gallery1" data-aos="zoom-in">
+                <div class="col-md-3 col-xs-3 gallery-grid gallery1" >
                     <a href="images/tour/Readingroom.jpg" class="swipebox"><img src="images/tour/Readingroom.jpg"
                         class="img-responsive" alt="/"></img>
                         <div class="textbox">
@@ -223,7 +220,7 @@ const Home = () => {
                         </div>
                     </a>
                 </div>
-                <div class="col-md-3 col-xs-3 gallery-grid gallery1" data-aos="zoom-in">
+                <div class="col-md-3 col-xs-3 gallery-grid gallery1" >
                     <a href="images/tour/sports.jpg" class="swipebox"><img src="images/tour/sports.jpg"
                         class="img-responsive" alt="/"></img>
                         <div class="textbox">
@@ -232,7 +229,7 @@ const Home = () => {
                         </div>
                     </a>
                 </div>
-                <div class="col-md-3 col-xs-3 gallery-grid gallery1" data-aos="zoom-in">
+                <div class="col-md-3 col-xs-3 gallery-grid gallery1" >
                     <a href="images/tour/garden.jpg" class="swipebox"><img src="images/tour/garden.jpg"
                         class="img-responsive" alt="/"></img>
                         <div class="textbox">
@@ -241,7 +238,7 @@ const Home = () => {
                         </div>
                     </a>
                 </div>
-                <div class="col-md-3 col-xs-3 gallery-grid gallery1" data-aos="zoom-in">
+                <div class="col-md-3 col-xs-3 gallery-grid gallery1" >
                     <a href="images/tour/ground.jpg" class="swipebox"><img src="images/tour/ground.jpg"
                         class="img-responsive" alt="/"></img>
                         <div class="textbox">
@@ -250,7 +247,7 @@ const Home = () => {
                         </div>
                     </a>
                 </div>
-                <div class="col-md-3 col-xs-3 gallery-grid gallery1" data-aos="zoom-in">
+                <div class="col-md-3 col-xs-3 gallery-grid gallery1" >
                     <a href="images/tour/multipurpose.jpg" class="swipebox"><img src="images/tour/Greendgt.jpg"
                         class="img-responsive" alt="/"></img>
                         <div class="textbox">
@@ -259,7 +256,7 @@ const Home = () => {
                         </div>
                     </a>
                 </div>
-                <div class="col-md-3 col-xs-3 gallery-grid gallery1" data-aos="zoom-in">
+                <div class="col-md-3 col-xs-3 gallery-grid gallery1" >
                     <a href="images/tour/scorner1.jpg" class="swipebox"><img src="images/tour/scorner1.jpg"
                         class="img-responsive" alt="/"></img>
                         <div class="textbox">
@@ -268,7 +265,7 @@ const Home = () => {
                         </div>
                     </a>
                 </div>
-                <div class="col-md-3 col-xs-3 gallery-grid gallery1" data-aos="zoom-in">
+                <div class="col-md-3 col-xs-3 gallery-grid gallery1" >
                     <a href="images/tour/physics.jpg" class="swipebox"><img src="images/tour/physics.jpg"
                         class="img-responsive" alt="/"></img>
                         <div class="textbox">
@@ -277,7 +274,7 @@ const Home = () => {
                         </div>
                     </a>
                 </div>
-                <div id="contact" class="col-md-3 col-xs-3 gallery-grid gallery1" data-aos="zoom-in">
+                <div id="contact" class="col-md-3 col-xs-3 gallery-grid gallery1" >
                     <a href="images/tour/scorner.jpg" class="swipebox"><img src="images/tour/scorner.jpg"></img>
                         <div class="textbox">
                             <h4>DGTC</h4>
@@ -293,30 +290,30 @@ const Home = () => {
             {/* // contact  */}
             <br/> <br/>
             <div class="agile_banner_bottom_grids" >
-			<div class="col-md-4 col-xs-4 w3_agile_contact_grid">
+			<div class="col-md-4 col-xs-4 agile_contact_grid">
 				<div class="agile_contact_grid_left">
 					<i class="fa fa-map-marker" aria-hidden="true"></i>
 				</div>
-				<div class="agile_contact_grid_right agilew3_contact">
+				<div class="agile_contact_grid_right agilecontact">
 					<h4>Address</h4>
 					<p>Tal-Mangaon , Dist - Raigad </p>
 					<p> State - Maharastra 402104,</p>
 				</div>
 			</div>
-			<div  class="col-md-4 col-xs-4 w3_agile_contact_grid">
-				<div class="agile_contact_grid_left agileits_w3layouts_left">
+			<div  class="col-md-4 col-xs-4 agile_contact_grid">
+				<div class="agile_contact_grid_left agileits_left">
 					<i class="fa fa-mobile" aria-hidden="true"></i>
 				</div>
-				<div class="agile_contact_grid_right agileits_w3layouts_right">
+				<div class="agile_contact_grid_right agileits_right">
 					<h4>Phone</h4>
 					<p>College Office:02140263928 <span>Principal : 9423203745/9075610653</span></p>
 				</div>
 			</div>
-			<div class="col-md-4 col-xs-4 w3_agile_contact_grid">
-				<div class="agile_contact_grid_left agileits_w3layouts_left1">
+			<div class="col-md-4 col-xs-4 agile_contact_grid">
+				<div class="agile_contact_grid_left agileits_left1">
 					 <i class="fa fa-envelope-o" aria-hidden="true"></i>
 				</div>
-				<div  class="agile_contact_grid_right agileits_w3layouts_right1">
+				<div  class="agile_contact_grid_right agileits_right1">
 					<h4>Email</h4>
 					<p><a href="mailto:mspmmangaonseniorcollege@gmail.com"> College : mspmmangaonseniorcollege@gmail.com</a>
 						<span><a href="mailto:khamkarbm@gmail.com">Principal : khamkarbm@gmail.com</a></span></p>

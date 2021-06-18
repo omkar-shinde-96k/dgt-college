@@ -1,4 +1,4 @@
- 
+import { NavLink } from "react-router-dom";
 import Navlinks from './Navlinks';
 function Navbar({toggle}) { 
     return (
@@ -14,10 +14,10 @@ function Navbar({toggle}) {
                                 <span class="icon-bar"></span>
                                 <span class="icon-bar"></span>
                             </button>
-                            <h1><a class="navbar-brand" href="/"><i class="fa fa-leanpub" aria-hidden="true"></i> DGTC
-					        </a></h1>
-                        </div> 
-                        {/* {{!-- #myModal3 --}} */} 
+                            <h1> 
+                           <NavLink  class="navbar-brand" to="/"><i class="fa fa-leanpub" aria-hidden="true"></i> DGTC</NavLink>  
+                            </h1>
+                        </div>  
                         <div class="collapse navbar-collapse navbar-right">
                             <nav class="link-effect-2" id="link-effect-2 " style={{ margin: "5px 30px", display: "flex" }}> 
                                       <Navlinks/>  
