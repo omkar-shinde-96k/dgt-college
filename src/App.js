@@ -158,7 +158,7 @@ const ToggleHandler=()=>{
         </Switch>
         <Footer />
       </Router>
-    </>
+    </> 
   );
 }
 
