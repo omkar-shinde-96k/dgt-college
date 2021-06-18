@@ -130,7 +130,7 @@ const Navlinks = ({ toggle }) => {
                                 <a onClick={toggle} href="../documents/dlle/project.pdf"  >Departments rules & regulations</a>
                             </li>
                             <li>
-                                <a onClick={toggle} href="/faculty-member">faculty mumbers and students</a>
+                                <a onClick={toggle} href="/DlleFacultyMember">faculty mumbers and students</a>
                             </li>
                             <li>
                                 <a onClick={toggle} href="../documents/dlle/enrollment-strength.jpg"  >Students inrollment strenth</a>

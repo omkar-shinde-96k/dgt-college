@@ -102,6 +102,11 @@ const ClgCDC = loadable({
   loading: () => <> <Loadingtwo /> </>
 })
  
+const DlleFacultyMember = loadable({
+  loader: () => import("./other-compo/DlleFacultyMember"),
+  loading: () => <> <Loadingtwo /> </>
+})
+ 
 const Facilities = loadable({
   loader: () => import("./other-compo/Facilities"),
   loading: () => <> <Loadingtwo /> </>
@@ -153,6 +158,7 @@ const ToggleHandler=()=>{
           <Route path='/secretoryofmspm' component={Secretoryofmspm} />
           <Route path='/clgVisionMission' component={ClgVisionMission} />
           <Route path='/facilities' component={Facilities} /> 
+          <Route path='/DlleFacultyMember' component={DlleFacultyMember} /> 
 
           <Route component={Error} />
         </Switch>
