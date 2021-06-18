@@ -1,7 +1,7 @@
 import React from 'react'
 import { NavLink } from "react-router-dom";
 import '../App.css';
-const Navlinks = ({toggle}) => {
+const Navlinks = ({ toggle }) => {
     return (
         <ul class="nav navbar-nav myDropdown" id="top" >
 
@@ -9,7 +9,7 @@ const Navlinks = ({toggle}) => {
 
             <li class="dropdown">
                 <a class="dropbtn">About &nbsp;
-                  <i class="fa fa-caret-down"></i>
+                    <i class="fa fa-caret-down"></i>
                 </a>
                 <div class="dropdown-content">
                     <NavLink onClick={toggle} to="/aboutsansta">About Institute </NavLink>
@@ -27,12 +27,12 @@ const Navlinks = ({toggle}) => {
 
             <li class="dropdown">
                 <a class="dropbtn">Courses &nbsp;
-        <i class="fa fa-caret-down"></i>
+                    <i class="fa fa-caret-down"></i>
                 </a>
                 <div class="dropdown-content">
 
                     <a>BA &nbsp;
-        <i class="fa fa-caret-down"></i>
+                        <i class="fa fa-caret-down"></i>
                         <ul class="subdrop">
                             <li>
                                 <NavLink onClick={toggle} to="/history">History</NavLink>
@@ -55,7 +55,7 @@ const Navlinks = ({toggle}) => {
                     <NavLink onClick={toggle} to="/Bcom">B.com</NavLink>
 
                     <a>PG &nbsp;
-        <i class="fa fa-caret-down"></i>
+                        <i class="fa fa-caret-down"></i>
                         <ul class="subdrop">
                             <li>
                                 <NavLink onClick={toggle} to="/history">M.A. History</NavLink>
@@ -81,7 +81,7 @@ const Navlinks = ({toggle}) => {
 
             <li class="dropdown">
                 <a class="dropbtn">Academics &nbsp;
-        <i class="fa fa-caret-down"></i>
+                    <i class="fa fa-caret-down"></i>
                 </a>
                 <div class="dropdown-content">
                     <NavLink onClick={toggle} to="/termwise-schedule">Termwise Schedule</NavLink>
@@ -94,12 +94,12 @@ const Navlinks = ({toggle}) => {
 
             <li class="dropdown">
                 <a class="dropbtn">Co-curriculam   &nbsp;
-        <i class="fa fa-caret-down"></i>
+                    <i class="fa fa-caret-down"></i>
                 </a>
                 <div class="dropdown-content">
                     <NavLink onClick={toggle} to="/cultural">Cultural</NavLink>
                     <NavLink onClick={toggle} to="/sport">Sport &nbsp;
-        <i class="fa fa-caret-down"></i>
+                        <i class="fa fa-caret-down"></i>
                         <ul class="subdrop">
                             <li>
                                 <a onClick={toggle} href="../documents/dlle/project.pdf"  >Sport deparment profile</a>
@@ -124,7 +124,7 @@ const Navlinks = ({toggle}) => {
                     <NavLink onClick={toggle} to="/nss">NSS</NavLink>
 
                     <a>DLLE &nbsp;
-        <i class="fa fa-caret-down"></i>
+                        <i class="fa fa-caret-down"></i>
                         <ul class="subdrop">
                             <li>
                                 <a onClick={toggle} href="../documents/dlle/project.pdf"  >Departments rules & regulations</a>
@@ -141,22 +141,21 @@ const Navlinks = ({toggle}) => {
                         </ul>
                     </a>
 
-
-                    <NavLink onClick={toggle} to="/WDC">WDC &nbsp;
-        <i class="fa fa-caret-down"></i>
+                    <a>WDC &nbsp;
+                        <i class="fa fa-caret-down"></i>
                         <ul class="subdrop">
                             <li>
-                                <a onClick={toggle} href="../documents/dlle/enrollment-strength.jpg"  >WDC Vision,Mission </a>
+                                <a onClick={toggle} href="../documents/WDC/WDC vison mission.pdf"  >WDC Vision,Mission </a>
                             </li>
                             <li>
-                                <a onClick={toggle} href="../documents/dlle/project.pdf"  >WDC Commitiee </a>
+                                <a onClick={toggle} href="../documents/WDC/WDC Committee Report.pdf"  >WDC Commitiee </a>
                             </li>
                             <li>
-                                <a onClick={toggle} href="../documents/dlle/enrollment-strength.jpg">WDC Event Report</a>
+                                <a onClick={toggle} href="../documents/WDC/WDC EVENT REPORT.pdf">WDC Event Report</a>
                             </li>
 
 
-                        </ul></NavLink>
+                        </ul></a>
                     <NavLink onClick={toggle} to="/student-council">student Council</NavLink>
                     <NavLink onClick={toggle} to="/scholarship">special cell and scholarship</NavLink>
                     <NavLink onClick={toggle} to="/placement-help">placement help - Committee</NavLink>
@@ -168,7 +167,7 @@ const Navlinks = ({toggle}) => {
 
             <li class="dropdown">
                 <a class="dropbtn">Staff &nbsp;
-        <i class="fa fa-caret-down"></i>
+                    <i class="fa fa-caret-down"></i>
                 </a>
                 <div class="dropdown-content">
                     <NavLink onClick={toggle} to="/teaching-staff">Teaching staff</NavLink>
@@ -178,7 +177,7 @@ const Navlinks = ({toggle}) => {
 
             <li class="dropdown">
                 <a class="dropbtn">Library &nbsp;
-                  <i class="fa fa-caret-down"></i>
+                    <i class="fa fa-caret-down"></i>
                 </a>
                 <div class="dropdown-content">
 
@@ -193,30 +192,30 @@ const Navlinks = ({toggle}) => {
 
             <li class="dropdown">
                 <a class="dropbtn">Student Corner &nbsp;
-        <i class="fa fa-caret-down"></i>
+                    <i class="fa fa-caret-down"></i>
                 </a>
                 <div class="dropdown-content">
 
                     <a>Admission &nbsp;
-        <i class="fa fa-caret-down"></i>
+                        <i class="fa fa-caret-down"></i>
                         <ul class="subdrop">
                             <li>
                                 <NavLink onClick={toggle} to="/history">Addmission Schedule</NavLink>
                             </li>
                             <li>
-                            <a onClick={toggle} href="../documents/stud corner/eligibility criteria.pdf"  >Eligibility
-                            Criteria</a>
-                            
+                                <a onClick={toggle} href="../documents/stud corner/eligibility criteria.pdf"  >Eligibility
+                                    Criteria</a>
+
                             </li>
                         </ul>
                     </a>
 
                     <a>Exam &nbsp;
-        <i class="fa fa-caret-down"></i>
+                        <i class="fa fa-caret-down"></i>
                         <ul class="subdrop">
                             <li>
                                 <NavLink onClick={toggle} to="/history"> Exam
-                            schedule  </NavLink>
+                                    schedule  </NavLink>
                             </li>
                             <li>
                                 <NavLink onClick={toggle} to="/marathi">Exam Notice </NavLink>

@@ -30,6 +30,10 @@
 					margin: 0;
 					padding: 0;
 				}
+				.event-heading,
+				h1{
+					font-size: 25px;
+				}
 
 			} 
 			.events-details {
@@ -58,9 +62,7 @@
                    font-size:1.5rem;
                    	background-color: #c3d6ffa6;
             }
-
-
-
+ 
 			.dept-info {
 				display: flex;
 				margin: 0;
@@ -69,34 +71,7 @@
 				height: auto;
 				align-items: center;
 			}
-	/* Hindi dep start */
-	
-			/* .about_img {
-				height: 40rem; 
-			}
-			
-			.about_img img {
-				width: 100%;
-				height: 80%;
-			}
-	
-			.about_img img+h5 {
-				margin-top: 0;
-				margin-bottom: 0;
-				background-color: rgb(146, 132, 132);
-			}
-			
-			.hod {
-				padding-left: 20px;
-				font-size: 1.5rem;
-				display: flex;
-				align-items: center;
-				
-			} */
-
-	/* Hindi dep END */
-
-
+	 
 	/* bms */
 	#tableid {
 		height: 100%;

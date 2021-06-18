@@ -99,7 +99,7 @@ function Tstaff() {
                         </div>
                         
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                            <div class="about_img"><img src="images/t-staff/noimg.jpg" height="100%" alt="" />
+                            <div class="about_img"><img src="images/t-staff/firdos.jpg" height="100%" alt="" />
                                 <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}> Asst. Prof Jaffer Firdos</span><span style={{ fontSize: "15px" }}>Asst. Prof in Botany</span></h5>
                                 <div class="about_opa">
                                     <p > Asst. Prof in Botany</p>
@@ -154,7 +154,7 @@ function Tstaff() {
                         </div>
                         
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                            <div class="about_img"><img src="images/t-staff/noimg.jpg" height="100%" alt="" />
+                            <div class="about_img"><img src="images/t-staff/Vishakha Pawar.jpg" height="100%" alt="" />
                                 <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}> Prof. Pawar Vishakha </span><span style={{ fontSize: "15px" }}>Asst. Prof</span></h5>
                                 <div class="about_opa">
                                     <p > Asst. Prof</p>
@@ -322,7 +322,7 @@ function Tstaff() {
                         </div>
 
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                            <div class="about_img"><img src="images/t-staff/noimg.jpg" height="100%" alt="" />
+                            <div class="about_img"><img src="images/t-staff/Ayesha Bade.jpg" height="100%" alt="" />
                                 <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}> Prof. Ayesha Bade </span><span style={{ fontSize: "15px" }}>Asst. Prof</span></h5>
                                 <div class="about_opa">
                                     <p > Asst. Prof</p>

@@ -1,4 +1,4 @@
-import Footer from '../components/Footer';
+import './Dept.css'; 
 function Geo() {
     return (
         <>
@@ -105,19 +105,51 @@ function Geo() {
             {/* {{!-- syllybus end --}} */}
 
             <div class="secoundnav">
+
+            <h1 class="event-heading" align="center"><a>Events Of Geography Department</a> </h1> <br /> 
+
                 <div class="events">
-                    <h3 class="events-title" align="center"> <span>eventName</span>- eventDate</h3> <br />
-                    <p class="events-details">eventDescription</p>
+                    <h3 class="events-title" align="center"> <span> Geography tour mahablashwar March 2019</span> </h3> <br /> 
+                    <div class="row events-imdg"> 
+                        <a width="100%" href="../documents/geo/events/tour2019.jpg"><img
+                            src="../documents/geo/events/tour2019.jpg"  width="100%"/></a> 
+                    </div>
+                </div>
+
+
+                <div class="events">
+                    <h3 class="events-title" align="center"> <span> Geography survey TYBA March 2019 at Mugavali</span> </h3> <br /> 
+                    <div class="row events-imdg"> 
+                        <a width="100%" href="../documents/geo/events/geosurvey2019.jpg"><img
+                            src="../documents/geo/events/geosurvey2019.jpg"  width="100%"/></a> 
+                    </div>
+                </div>
+
+
+                <div class="events">
+                    <h3 class="events-title" align="center"> <span> Geography field visit 2017 mandad kuda caves</span> </h3> <br /> 
+                    <div class="row events-imdg"> 
+                        <a width="100%" href="../documents/geo/events/field visit 2017.jpg"><img
+                            src="../documents/geo/events/field visit 2017.jpg"  width="100%"/></a> 
+                    </div>
+                </div>
+               
+
+        {/*         <div class="events">
+                    <h3 class="events-title" align="center"> <span>eventName</span>- eventDate</h3> 
                     <br />
                     <div class="row md-2 events-img">
 
-                        <a class="col-sm-12 col-lg-6" href="../documents/geo/geo-events/.jpg"><img
-                            src="../documents/geo/geo-events/.jpg" /></a>
+                        <a class="col-sm-12 col-lg-6" href="../documents/geo/events/.jpg"><img
+                            src="../documents/geo/events/.jpg" /></a>
 
                         <a class="col-sm-12 col-lg-6" href="../documents/geo/geo-events/.jpg"><img
-                            src="../documents/geo/geo-events/.jpg" /></a>
+                            src="../documents/geo/events/.jpg" /></a>
                     </div>
-                </div>
+                </div> */}
+                 
+            
+               
             </div>
 
         </>

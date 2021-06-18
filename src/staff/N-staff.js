@@ -14,7 +14,7 @@ function Marathi() {
 
 
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                            <div class="about_img"><img src="images/non-t-staff/khamkar.jpg" height="100%" alt="" />
+                            <div class="about_img"><img src="images/non-t-staff/hirave.jpg" height="100%" alt="" />
                                 <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}>Mr. Dipak Hirave </span><span style={{ fontSize: "15px" }}>Head Clerk</span></h5>
                                 <div class="about_opa">
                                     <p >Head Clerk</p>
@@ -23,7 +23,7 @@ function Marathi() {
                         </div>
 
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                            <div class="about_img"><img src="images/non-t-staff/acharya.jpg" height="100%" alt="" />
+                            <div class="about_img"><img src="images/non-t-staff/kekane.jpg" height="100%" alt="" />
                                 <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}>Mr. Kekane Satish </span><span style={{ fontSize: "15px" }}> Senior Clerk</span></h5>
                                 <div class="about_opa">
                                     <p >Senior Clerk</p>
@@ -32,7 +32,7 @@ function Marathi() {
                         </div> 
 
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                            <div class="about_img"><img src="images/non-t-staff/Pandey.jpg" height="100%" alt="" />
+                            <div class="about_img"><img src="images/non-t-staff/noimg.jpg" height="100%" alt="" />
                                 <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}> Mr. Sudhir Kanoje </span><span style={{ fontSize: "15px" }}>Junior Clerk</span></h5>
                                 <div class="about_opa">
                                     <p > Junior Clerk </p>
@@ -55,7 +55,7 @@ function Marathi() {
                         </div>
 
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                            <div class="about_img"><img src="images/non-t-staff/singare.jpg" height="100%" alt="" />
+                            <div class="about_img"><img src="images/non-t-staff/manoj.jpg" height="100%" alt="" />
                                 <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}>Mr. Malore Manoj </span><span style={{ fontSize: "15px" }}>  Junior Clerk   </span></h5>
                                 <div class="about_opa">
                                     <p >Junior Clerk  </p>
@@ -64,7 +64,7 @@ function Marathi() {
                         </div>
 
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                            <div class="about_img"><img src="images/non-t-staff/sangita.jpg" height="100%" alt="" />
+                            <div class="about_img"><img src="images/non-t-staff/abhi.jpg" height="100%" alt="" />
                                 <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}> Mr. Gharve Abhishek </span><span style={{ fontSize: "15px" }}>Junior Clerk</span></h5>
                                 <div class="about_opa">
                                     <p >Junior Clerk</p>
@@ -87,7 +87,7 @@ function Marathi() {
                         </div>
                         
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                            <div class="about_img"><img src="images/non-t-staff/mehreen.jpg" height="100%" alt="" />
+                            <div class="about_img"><img src="images/non-t-staff/noimg.jpg" height="100%" alt="" />
                                 <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}>Miss. Mhaske Ankita  </span><span style={{ fontSize: "15px" }}>Library Attendant</span></h5>
                                 <div class="about_opa">
                                     <p > Library Attendant</p>
@@ -109,7 +109,7 @@ function Marathi() {
                     <div class="team-w3l-grid grid-2-team">
                         
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                            <div class="about_img"><img src="images/non-t-staff/Deepali.jpg" height="100%" alt="" />
+                            <div class="about_img"><img src="images/non-t-staff/noimg.jpg" height="100%" alt="" />
                                 <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}> Mr. Pawar S. S.( </span><span style={{ fontSize: "15px" }}>Peon</span></h5>
                                 <div class="about_opa">
                                     <p > Peon</p>
@@ -127,7 +127,7 @@ function Marathi() {
                         </div>
 
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                            <div class="about_img"><img src="images/non-t-staff/sabreen.jpg" height="100%" alt="" />
+                            <div class="about_img"><img src="images/non-t-staff/noimg.jpg" height="100%" alt="" />
                                 <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}>Mr. Sunil Sutar  </span><span style={{ fontSize: "15px" }}>Peon</span></h5>
                                 <div class="about_opa">
                                     <p> Peon</p>
