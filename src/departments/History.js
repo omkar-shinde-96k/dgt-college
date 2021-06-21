@@ -38,19 +38,17 @@ function History() {
                             <br />
 
                             <a class="list-group-item list-group-item-action active .listclass" id="list-home-list"
-                                data-toggle="list" href="../documents/hindi/fyba.pdf" role="tab" aria-controls="home">F.Y.B.A
-                    Syllabus </a>
+                                data-toggle="list" href="../documents/history/fy.pdf" role="tab" aria-controls="home">F.Y.B.A Syllabus </a>
 
                             <a class="list-group-item  list-group-item-action" id="list-profile-list" data-toggle="list"
-                                href="../documents/hindi/syba.pdf" role="tab" aria-controls="profile">S.Y.B.A Syllabus </a>
+                                href="../documents/history/sy.pdf" role="tab" aria-controls="profile">S.Y.B.A Syllabus </a>
 
                             <a class="list-group-item active list-group-item-action" id="list-messages-list" data-toggle="list"
-                                href="../documents/hindi/tyba.pdf" role="tab" aria-controls="messages"> T.Y.B.A Syllabus</a>
+                                href="../documents/history/ty.pdf" role="tab" aria-controls="messages"> T.Y.B.A Syllabus</a>
 
                             <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list"
                                 href="../documents/history/MA.pdf" role="tab" aria-controls="settings">M.A. 1st & 2nd Year All Semister Syllabus</a>
-
-                        
+ 
                         </div>
                     </div>
                 </div>
@@ -66,8 +64,8 @@ function History() {
                     <p class="events-details">   Organize educational tour at Samarth ramdas swami ashram shivthargad mahad on 01-08-2015 & 08-08-2015   </p>
                     <br />
                     <div class="row md-2 events-img"> 
-                        <a class="col-sm-12 col-lg-6" href="../documents/hindi/hindi-events/01-08-2015 .jpg"><img src="../documents/hindi/hindi-events/01-08-2015 .jpg" /></a> 
-                        <a class="col-sm-12 col-lg-6" href="../documents/hindi/hindi-events/08-08-2015.jpg"><img src="../documents/hindi/hindi-events/08-08-2015.jpg" /></a> 
+                        <a class="col-sm-12 col-lg-6" href="../documents/history/history-events/01-08-2015 .jpg"><img src="../documents/history/history-events/01-08-2015 .jpg" /></a> 
+                        <a class="col-sm-12 col-lg-6" href="../documents/history/history-events/08-08-2015.jpg"><img src="../documents/history/history-events/08-08-2015.jpg" /></a> 
                     </div>
                 </div> 
             </div>  */}

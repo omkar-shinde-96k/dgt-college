@@ -52,11 +52,7 @@ const Nstaff = loadable({
 const TimeTable = loadable({
   loader: () => import("./other-compo/TimeTables"),
   loading: () => <> <Loadingtwo /> </>
-})
-const Vangmay = loadable({
-  loader: () => import("./other-compo/Vangmay"),
-  loading: () => <> <Loadingtwo /> </>
-})
+}) 
 const Naac = loadable({
   loader: () => import("./other-compo/Naac"),
   loading: () => <> <Loadingtwo /> </>
@@ -106,20 +102,21 @@ const DlleFacultyMember = loadable({
   loader: () => import("./other-compo/DlleFacultyMember"),
   loading: () => <> <Loadingtwo /> </>
 })
+const Vangmay = loadable({
+  loader: () => import("./other-compo/Vangmay"),
+  loading: () => <> <Vangmay /> </>
+})
  
 const Facilities = loadable({
   loader: () => import("./other-compo/Facilities"),
   loading: () => <> <Loadingtwo /> </>
 })
- 
-
+  
 function App() {
-  const [DrawerToggle, setDrawerToggle] = useState(false)
-
+  const [DrawerToggle, setDrawerToggle] = useState(false) 
 const ToggleHandler=()=>{
   setDrawerToggle(!DrawerToggle)
-}
- 
+}  
   return (
     <> 
       <Router>
@@ -143,9 +140,7 @@ const ToggleHandler=()=>{
           <Route path='/daywise-schedule' component={TimeTable} />
           <Route path='/office-schedule' component={TimeTable} />
           <Route path='/library-schedule' component={TimeTable} />
-          <Route path='/examination-schedule' component={TimeTable} />
-
-          <Route path='/marathi-vangmay' component={Vangmay} />
+          <Route path='/examination-schedule' component={TimeTable} /> 
           <Route path='/naac' component={Naac} />
           <Route path='/nss' component={Nss} />
 
@@ -159,6 +154,7 @@ const ToggleHandler=()=>{
           <Route path='/clgVisionMission' component={ClgVisionMission} />
           <Route path='/facilities' component={Facilities} /> 
           <Route path='/DlleFacultyMember' component={DlleFacultyMember} /> 
+          <Route path='/marathi-vangmay' component={Vangmay} /> 
 
           <Route component={Error} />
         </Switch>

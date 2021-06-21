@@ -3,7 +3,9 @@ function Secretoryofmspm() {
     return (
         <>
         <br/>
-      <center> <img align="center" src="./images/secretary of mspm and clg.jpeg" width="80%" height="100%" /> </center> 
+        <center><h2 style={{fontSize:"50px"}}>Hon. Krushna Gandhi</h2></center>
+        <br/>
+      <center> <img align="center" src="./images/secretary of mspm and clg.jpeg" width="70%" height="100%" /> </center> 
         </>
     );
 }

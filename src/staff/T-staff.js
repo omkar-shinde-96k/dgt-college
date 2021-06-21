@@ -19,7 +19,7 @@ function Tstaff() {
                                 <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}> Dr.B.M Khamkar sir</span><span style={{ fontSize: "15px" }}>Principal</span></h5>
                                 <div class="about_opa">
                                     <p >Principal</p>
-                                </div>
+                                </div>ff
                             </div>
                         </div>
 
@@ -27,7 +27,7 @@ function Tstaff() {
                             <div class="about_img"><img src="images/t-staff/acharya.jpg" height="100%" alt="" />
                                 <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}>Dr. R.M. Acharya </span><span style={{ fontSize: "15px" }}> HOD (Marathi Dept)</span></h5>
                                 <div class="about_opa">
-                                    <p > HOD (Marathi Dept)</p>
+                                    <p > HOD - Marathi Dept</p>
                                 </div>
                             </div>
                         </div> 
@@ -36,17 +36,15 @@ function Tstaff() {
                             <div class="about_img"><img src="images/t-staff/Pandey.jpg" height="100%" alt="" />
                                 <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}> Asst. Pro. Jayshankar Pandey </span><span style={{ fontSize: "15px" }}>IQAC-Coordinator</span></h5>
                                 <div class="about_opa">
-                                    <p >IQAC-Coordinator , HOD of Hindi Department</p>
+                                    <p >HOD - Hindi Department</p>
                                 </div>
                             </div>
                         </div>
-
+ 
                         <div class="clearfix"></div>
                     </div>
 
                     <div class="team-w3l-grid grid-2-team">
-                       
-                       
 
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
                             <div class="about_img"><img src="images/t-staff/TSlokhande.jpg" height="100%" alt="" />
@@ -61,7 +59,7 @@ function Tstaff() {
                             <div class="about_img"><img src="images/t-staff/singare.jpg" height="100%" alt="" />
                                 <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}> Dr. Baban Singare</span><span style={{ fontSize: "15px" }}> Teacher Representative</span></h5>
                                 <div class="about_opa">
-                                    <p >Teacher Representative</p>
+                                    <p >HOD-Geography</p>
                                 </div>
                             </div>
                         </div>

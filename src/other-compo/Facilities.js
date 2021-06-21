@@ -143,17 +143,7 @@ const Facilities = () => {
                         <img src="../images/tour/ground.jpg" />
                     </div>
 
-                    <p>The college has spacious two storied RCC building. The classrooms are airy with ample natural sun light. Each classroom has fans and tube lights.</p>
-
-
-                    <h1>Common Room</h1>
-                    <div className="facility-img">
-                        <img src="../images/tour/physics.jpg" />
-                        <img src="../images/tour/physics.jpg" />
-                    </div>
-                    <p>Boy's and Girl's Common room are present inside the College buildings. It is
-                    attached with wash room. Clean and well ventilisers keeps the area hygenic. Ample students up to date and fresh.</p>
-
+                    <p>The college has spacious two storied RCC building. The classrooms are airy with ample natural sun light. Each classroom has fans and tube lights.</p> 
 
                     <h1>Helthcare Center</h1>
                     <p>College provides free medical check up, blood group check up, first aid facilities to students.</p>

@@ -1,22 +1,20 @@
-::-webkit-scrollbar{
-	background:linear-gradient(90deg ,rgb(255, 132, 0));
-	color: red;
-	width: 8px;
-}
 
-::-webkit-scrollbar-button{
-background-color: rgb(156, 87, 220);
-height:77px;
-}
- 
-::-webkit-scrollbar-thumb{
-	background-color:rgb(166,1,255);
-	border-radius: 40px;
-}
-
-
-::-moz-scrollbar-thumb{
-	background-color:rgb(255, 153, 0);
+@media(min-width: 800px){ 
+	::-webkit-scrollbar{
+		background:linear-gradient(90deg ,rgb(255, 132, 0)); 
+		width: 8px;
+	} 
+	::-webkit-scrollbar-button{
+	background-color: rgb(156, 87, 220);
+	height:77px;
+	} 
+	::-webkit-scrollbar-thumb{
+		background-color:rgb(166,1,255);
+		border-radius: 40px;
+	} 
+	::-moz-scrollbar-thumb{
+		background-color:rgb(255, 153, 0);
+	}
 }
 
 body{
@@ -36,14 +34,14 @@ body a{
 }
 a:hover{
 	text-decoration:none;
-}
- 
+} 
 h1,h2,h3,h4,h5,h6{
 	margin:0;	
 	font-family: 'Exo 2', sans-serif; 
+	color:blue;
 }	
-h1,h2,h3{
-	text-shadow: 0px 0px 1px gray, 1px 1px 2px rgb(69, 37, 252);
+h1{
+	text-shadow: 0px 0px 1px rgb(128, 128, 128), 2px 3px 2px rgb(69, 37, 252);
 	color:white !important;
 } 
 p{

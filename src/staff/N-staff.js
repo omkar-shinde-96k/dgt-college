@@ -6,12 +6,10 @@ function Marathi() {
                 <div class="container">
                     <h3 class="w3l-title">COLLEGE TEACHING STAFF </h3>
                     <br />
-                    <div class="w3layouts_header">
+                    <div class="header">
                         <p><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
                     </div>
-                    <div class="team-w3l-grid">
-
-
+                    <div class="team-w3l-grid"> 
 
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
                             <div class="about_img"><img src="images/non-t-staff/hirave.jpg" height="100%" alt="" />
@@ -87,7 +85,7 @@ function Marathi() {
                         </div>
                         
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                            <div class="about_img"><img src="images/non-t-staff/noimg.jpg" height="100%" alt="" />
+                            <div class="about_img"><img src="images/non-t-staff/Ankita Mhaske.jpg" height="100%" alt="" />
                                 <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}>Miss. Mhaske Ankita  </span><span style={{ fontSize: "15px" }}>Library Attendant</span></h5>
                                 <div class="about_opa">
                                     <p > Library Attendant</p>

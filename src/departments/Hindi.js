@@ -76,10 +76,10 @@ function Hindi() {
                 </div>
             </div> 
             <br />
-            <div class="container" style={{ fontSize: "2rem", display: "flex", justifyContent: "center" }}>
+            {/* <div class="container" style={{ fontSize: "2rem", display: "flex", justifyContent: "center" }}>
                 <a href="">Results and Achievement </a>
             </div>
-            <br /> 
+            <br />  */}
             <div class="secoundnav">
                 <h1 class="event-heading" align="center"><a>Events Of 2020-21</a> </h1> <br /> 
                 <br /> 

@@ -135,6 +135,18 @@ function Geo() {
                 </div>
                
 
+                <div class="events">
+                    <h3 class="events-title" align="center"> <span>Tyba geography guist lecture prof. Birare pezari college,2019-20</span></h3> 
+                    <br />
+                    <div class="row md-2 events-img">
+
+                        <a class="col-sm-12 col-lg-6" href="../documents/geo/events/guest lecture 2019-20.jpg"><img
+                            src="../documents/geo/events/guest lecture 2019-20.jpg" /></a>
+
+                        <a class="col-sm-12 col-lg-6" href="../documents/geo/geo-events/guest lecture 2019-20-b.jpg"><img
+                            src="../documents/geo/events/guest lecture 2019-20-b.jpg" /></a>
+                    </div>
+                </div>
         {/*         <div class="events">
                     <h3 class="events-title" align="center"> <span>eventName</span>- eventDate</h3> 
                     <br />

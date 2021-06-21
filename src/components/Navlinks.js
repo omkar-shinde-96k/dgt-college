@@ -17,9 +17,9 @@ const Navlinks = ({ toggle }) => {
                     <NavLink onClick={toggle} to="/governingbodyofmspm">Governing Body MSPM</NavLink>
                     <NavLink onClick={toggle} to="/founderofdgtc">Founder of College</NavLink>
                     <NavLink onClick={toggle} to="/presidantofmspm">President Of MSPM</NavLink>
-                    <NavLink onClick={toggle} to="/secretoryofmspm">Secretory Of MSPM</NavLink>
+                    <NavLink onClick={toggle} to="/secretoryofmspm">Secretary Of MSPM</NavLink>
                     <NavLink onClick={toggle} to="/college-cdc">College CDC</NavLink>
-                    <NavLink onClick={toggle} to="/clgVisionMission">vision,mission & Goals</NavLink>
+                    <NavLink onClick={toggle} to="/clgVisionMission">Vision,Mission & Objectives</NavLink>
                     <NavLink onClick={toggle} to="/facilities"> college facilities </NavLink>
                     <a href="../documents/clg committiee/Clg-Committees.pdf"> college Commitiee </a>
                 </div>
@@ -98,7 +98,8 @@ const Navlinks = ({ toggle }) => {
                 </a>
                 <div class="dropdown-content">
                     <NavLink onClick={toggle} to="/cultural">Cultural</NavLink>
-                    <NavLink onClick={toggle} to="/sport">Sport &nbsp;
+
+                        <a>Sport &nbsp;
                         <i class="fa fa-caret-down"></i>
                         <ul class="subdrop">
                             <li>
@@ -107,19 +108,19 @@ const Navlinks = ({ toggle }) => {
                             <li>
                                 <a onClick={toggle} href="../documents/dlle/enrollment-strength.jpg">Available Facilities</a>
                             </li>
-                            <li>
+                            {/* <li>
                                 <a onClick={toggle} href="../documents/dlle/enrollment-strength.jpg"  >Sport Schedule </a>
-                            </li>
+                            </li> */}
                             <li>
                                 <a onClick={toggle} href="https://mu.ac.in/wp-content/uploads/2021/02/Draft-University-Ghatna-_After-webinar-correction.pdf"  >Rules and Regulation </a>
                             </li>
-                            <li>
+                            {/* <li>
                                 <a onClick={toggle} href="../documents/dlle/DLLE-event-report.pdf"  >Activities Reports</a>
-                            </li>
+                            </li> */}
                             <li>
-                                <a onClick={toggle} href="../documents/dlle/DLLE-event-report.pdf"  >Student Participation List</a>
+                                <a onClick={toggle} href="../documents/dlle/DLLE-event-report.pdf"  >Student Participation Number</a>
                             </li>
-                        </ul></NavLink>
+                        </ul></a>
 
                     <NavLink onClick={toggle} to="/nss">NSS</NavLink>
 
@@ -209,7 +210,7 @@ const Navlinks = ({ toggle }) => {
                             </li>
                         </ul>
                     </a>
-
+ 
                     <a>Exam &nbsp;
                         <i class="fa fa-caret-down"></i>
                         <ul class="subdrop">
@@ -218,22 +219,18 @@ const Navlinks = ({ toggle }) => {
                                     schedule  </NavLink>
                             </li>
                             <li>
-                                <NavLink onClick={toggle} to="/marathi">Exam Notice </NavLink>
-                            </li>
-
+                                <NavLink onClick={toggle} to="/notice">Exam Notice </NavLink>
+                            </li> 
                         </ul>
-                    </a>
-
+                    </a> 
                     <li>
                         <NavLink onClick={toggle} to="/marathi"> Scholarship   </NavLink>
                     </li>
                     <li>
                         <NavLink onClick={toggle} to="/marathi"> Notice   </NavLink>
-                    </li>
-
+                    </li> 
                 </div>
-            </li>
-
+            </li> 
 
             <li className="dropdown"><NavLink class="dropbtn" onClick={toggle} to="/naac">NAAC/IQAC</NavLink></li>
 

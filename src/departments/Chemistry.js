@@ -62,8 +62,8 @@ function Chemistry() {
 
         <div class="team-w3l" id="team">
           <div class="container">
-            <h3 class="w3l-title">Our Skilled Lecturers</h3>
-            <div class="w3layouts_header">
+            <h3 class="title">Our Skilled Lecturers</h3>
+            <div class="header">
               <p><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
             </div>
             <div class="team-w3l-grid grid-2-team">

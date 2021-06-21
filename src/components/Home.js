@@ -6,7 +6,7 @@ const Home = () => {
             {/* slider */}
             <div className="main">
                 
-                <h1 >Welcome to our college</h1>
+                <h1  >Welcome to our college</h1>
                 <p >
                     Mangaon Shikshan Prasarak Mandal, Mangaon and its President Adv. Rajivji Sable laid a foundation stone of higher education in Mangaon on 1993. It was time known as Arts’ Senior College. Later It named as D.G.Tatkare College on 10th January 2010.
                 </p>
@@ -102,10 +102,10 @@ const Home = () => {
                     </div>    
                 </div>
             </div> 
-            <br /><br /><br /><br /> 
+            <br /><br /> 
             {/* //About */} 
             {/* Services */} 
-            <br></br><br></br>
+            
             <div class="container-fluid" >
                 <div class="row">
                     <h3 class="title">  Our Facilities </h3>

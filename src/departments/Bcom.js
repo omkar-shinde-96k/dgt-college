@@ -73,8 +73,8 @@ Prof. Amrin Ibrahim Adkar HOD of Commerce Department. She has 8 years of teachin
 
         <div class="team-w3l" id="team">
           <div class="container">
-            <h3 class="w3l-title">Our Skilled Lecturers</h3>
-            <div class="w3layouts_header">
+            <h3 class="title">Our Skilled Lecturers</h3>
+            <div class="header">
               <p><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
             </div>
             <div class="team-w3l-grid">
@@ -132,7 +132,7 @@ Prof. Amrin Ibrahim Adkar HOD of Commerce Department. She has 8 years of teachin
 
         {/* {{!-- our skilled teachers end --}} */}
 
-        <h1 class="event-heading" align="center"><a>Events Of BMS Department</a> </h1> <br />
+        <h1 class="event-heading" align="center"><a>Events Of B.Com. Department</a> </h1> <br />
         <br />
 
         <div class="events">
