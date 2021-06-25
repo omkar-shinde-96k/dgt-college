@@ -9,21 +9,19 @@ function Marathi() {
 
             <div class="container-fluid">
                 <div class="row">
-                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-xs-12   ">
-
+                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-xs-12">
                         <div class="team-w3l-grid" style={{ border: "1px solid black" }}>
                             <div class="  about-poleft t1">
                                 <div class="about_img"><img src="images/t-staff/acharya.jpg" height="100%" alt="prof.R.M. Acharya " />
                                     <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}>डॉ. राजेंद्र आचार्य </span><span style={{ fontSize: "15px" }}> सहयोगी प्राध्यापक</span></h5>
                                     <div class="about_opa">
                                         <p >सहयोगी प्राध्यापक</p>
-                                        <p >  </p>
                                     </div>
                                 </div>
                             </div>
                             <div class="clearfix"></div>
-                        </div> 
-                    </div> 
+                        </div>
+                    </div>
                     <div class="col-xl-9 col-lg-9 col-md-4 col-sm-6 col-xs-12 p-5 ">
 
                         <div class="col-10 hod" style={{ marginTop: "15px" }}>
@@ -53,7 +51,7 @@ function Marathi() {
                         </div>
                     </div>
                 </div>
-            </div> 
+            </div>
 
             {/* <!-- {{!-- syllybus start  --}} --> */}
 
@@ -79,8 +77,8 @@ function Marathi() {
                                 href="../documents/marathi/ma1.pdf" role="tab" aria-controls="settings">M.A. 1st Syllabus</a>
 
                             <a class="list-group-item list-group-item-action active .listclass" id="list-home-list"
-                                data-toggle="list" href="../documents/marathi/ma2.pdf" role="tab" aria-controls="home">M.A. 2nd Syllabus</a> 
-                                
+                                data-toggle="list" href="../documents/marathi/ma2.pdf" role="tab" aria-controls="home">M.A. 2nd Syllabus</a>
+
                             <NavLink class="list-group-item list-group-item-action   .listclass" id="list-home-list"
                                 data-toggle="list" to="/marathi-vangmay" role="tab" aria-controls="home">Marathi Vangmay Mandal</NavLink>
 
@@ -90,9 +88,9 @@ function Marathi() {
             </div>
 
             <div class="secoundnav">
-                <h1 class="event-heading" align="center"><a>Events Of Marathi Departments</a> </h1> <br /> 
+                <h1 class="event-heading" align="center"><a>Events Of Marathi Departments</a> </h1> <br />
                 <div class="events" >
-                    <h3 class="events-title" align="center"> <span> मराठी भाषा गौरव दिन   </span> </h3> <br />  
+                    <h3 class="events-title" align="center"> <span> मराठी भाषा गौरव दिन   </span> </h3> <br />
                     <div class="row md-2 events-img">
                         <a class="col-sm-12 col-lg-6" href="../documents/marathi/events/8.jpg"><img src="../documents/marathi/events/8.jpg" /></a>
                         <a class="col-sm-12 col-lg-6" href="../documents/marathi/events/6.jpg"><img src="../documents/marathi/events/6.jpg" /></a>

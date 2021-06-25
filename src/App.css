@@ -241,41 +241,6 @@ div#bs-example-navbar-collapse-1 {
 	color: orange;
 } 
 
-/* .effect-3 {
-	overflow: hidden;
-}
-.effect-3:before {
-	left: -1px;
-	bottom: 0;
-	width: 100%;
-	height: 2px;
-	background:#ffb71c;
-	content: '';
-    position: absolute;
-    transition: transform .5s ease;
-	transform: translateX(-100%);
-	-webkit-transform: translateX(-100%);
-	-moz-transform: translateX(-100%);
-	-o-transform: translateX(-100%);
-	-ms-transform: translateX(-100%);
-}
-.effect-3:hover:before {
-	transform: translateX(0);
-	-webkit-transform: translateX(0);
-	-moz-transform: translateX(0);
-	-o-transform: translateX(0);
-	-ms-transform: translateX(0);
-} */
-/* .agileits_banner_nav {
-    margin: 0 auto;
-    width: 90%;
-} */
-
-/* ul.agile_forms {
-    float: right;
-    padding-top: .5em;
-} */
-
  
  
 /*-- bootstrap-pop-up --*/
@@ -341,16 +306,7 @@ h3.title {
 .header p:after {
     right: 41%;
 }  
-/* .wthree-about-grids { 
-	padding:0;
-}
-.wthree-about-grids h4 {
-    font-size: 4em;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    margin: 0 0 1em;
-    color: #ffb71c;
-}  */
+ 
 .modal-body img {
     width: 100%;
 }
@@ -527,33 +483,7 @@ text-align:center;
 }
 /*-- //Gallery Section --*/
 /*-- contact --*/
-
-.agile_banner_bottom_grids {
-    text-align: center;
-}
-.agile_contact_grid_left i {
-    font-size: 3em;
-    color:#002147;
-    line-height: 2em;
-}
-.agile_contact_grid_right h4 {
-    font-size: 1.5em;
-    color: #000;
-    font-weight: 600;
-	margin-bottom:.5em;
-    letter-spacing: 1px;
-}
-.agile_contact_grid_right p span{
-	display:block;
-}
-.agile_contact_grid_right p a{
-	color:#999;
-	text-decoration:none;
-}
-.agile_contact_grid_right p a:hover{
-	color:#212121;
-}
-
+ 
 .agile_contact_grid {
     background: #eee;
     width: 32%;
@@ -1156,10 +1086,7 @@ text-align:center;
 	 
 	.header p {
 		margin: 0px !important;
-	}
-	.agile_contact_grid_left i {
-		font-size: 2.5em;
-	}
+	} 
 	.contact-top1 {
 		padding: 2.5em 1em 3em;
 	}
@@ -1187,10 +1114,6 @@ text-align:center;
 	.about-poleft {
 		padding: 0 .5em;
 	} 
-	.agile_contact_grid_right h4 {
-		font-size: 1.3em;
-		letter-spacing: 0px;
-	}
 	p {
 		letter-spacing: 0px;
 	}

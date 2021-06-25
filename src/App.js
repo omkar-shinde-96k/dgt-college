@@ -47,8 +47,7 @@ const Tstaff = loadable({
 const Nstaff = loadable({
   loader: () => import("./staff/N-staff"),
   loading: () => <> <Loadingtwo /> </>
-})
-
+}) 
 const TimeTable = loadable({
   loader: () => import("./other-compo/TimeTables"),
   loading: () => <> <Loadingtwo /> </>
@@ -96,8 +95,7 @@ const ClgVisionMission = loadable({
 const ClgCDC = loadable({
   loader: () => import("./other-compo/ClgCDC"),
   loading: () => <> <Loadingtwo /> </>
-})
- 
+}) 
 const DlleFacultyMember = loadable({
   loader: () => import("./other-compo/DlleFacultyMember"),
   loading: () => <> <Loadingtwo /> </>
@@ -105,8 +103,11 @@ const DlleFacultyMember = loadable({
 const Vangmay = loadable({
   loader: () => import("./other-compo/Vangmay"),
   loading: () => <> <Vangmay /> </>
+}) 
+const Library = loadable({
+  loader: () => import("./other-compo/Library"),
+  loading: () => <> <Loadingtwo /> </>
 })
- 
 const Facilities = loadable({
   loader: () => import("./other-compo/Facilities"),
   loading: () => <> <Loadingtwo /> </>
@@ -155,6 +156,7 @@ const ToggleHandler=()=>{
           <Route path='/facilities' component={Facilities} /> 
           <Route path='/DlleFacultyMember' component={DlleFacultyMember} /> 
           <Route path='/marathi-vangmay' component={Vangmay} /> 
+          <Route path='/library' component={Library} /> 
 
           <Route component={Error} />
         </Switch>

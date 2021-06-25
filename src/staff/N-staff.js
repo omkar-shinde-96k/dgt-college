@@ -1,10 +1,10 @@
-import Footer from '../components/Footer';
+
 function Marathi() {
     return (
         <>
             <div class="team-w3l" id="team">
                 <div class="container">
-                    <h3 class="w3l-title">COLLEGE TEACHING STAFF </h3>
+                    <h3 class="title">COLLEGE TEACHING STAFF </h3>
                     <br />
                     <div class="header">
                         <p><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
@@ -30,7 +30,7 @@ function Marathi() {
                         </div> 
 
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                            <div class="about_img"><img src="images/non-t-staff/noimg.jpg" height="100%" alt="" />
+                            <div class="about_img"><img src="images/non-t-staff/kanoje.jpg" height="100%" alt="" />
                                 <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}> Mr. Sudhir Kanoje </span><span style={{ fontSize: "15px" }}>Junior Clerk</span></h5>
                                 <div class="about_opa">
                                     <p > Junior Clerk </p>
@@ -108,7 +108,7 @@ function Marathi() {
                         
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
                             <div class="about_img"><img src="images/non-t-staff/noimg.jpg" height="100%" alt="" />
-                                <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}> Mr. Pawar S. S.( </span><span style={{ fontSize: "15px" }}>Peon</span></h5>
+                                <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}> Mr. Pawar S. S. </span><span style={{ fontSize: "15px" }}>Peon</span></h5>
                                 <div class="about_opa">
                                     <p > Peon</p>
                                 </div>
@@ -125,7 +125,7 @@ function Marathi() {
                         </div>
 
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                            <div class="about_img"><img src="images/non-t-staff/noimg.jpg" height="100%" alt="" />
+                            <div class="about_img"><img src="images/non-t-staff/Sunil Sutar.jpg" height="100%" alt="" />
                                 <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}>Mr. Sunil Sutar  </span><span style={{ fontSize: "15px" }}>Peon</span></h5>
                                 <div class="about_opa">
                                     <p> Peon</p>
@@ -146,6 +146,15 @@ function Marathi() {
                                 </div>
                             </div>
                         </div>
+                        <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
+                            <div class="about_img"><img src="images/non-t-staff/Dipak Ratwadkar.jpg" height="100%" alt="" />
+                                <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}>Mr. Dipak Ratwadkar </span><span style={{ fontSize: "15px" }}>Peon</span></h5>
+                                <div class="about_opa">
+                                    <p > Peon</p>
+                                </div>
+                            </div>
+                        </div>
+                      
                          
                         <div class="clearfix"></div>
                     </div>

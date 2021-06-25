@@ -71,11 +71,9 @@ const Navlinks = ({ toggle }) => {
                             </li>
                             <li>
                                 <NavLink onClick={toggle} to="/bscit">M.Sc I.T</NavLink>
-                            </li>
-
+                            </li> 
                         </ul>
-                    </a>
-
+                    </a> 
                 </div>
             </li>
 
@@ -107,16 +105,10 @@ const Navlinks = ({ toggle }) => {
                             </li>
                             <li>
                                 <a onClick={toggle} href="../documents/dlle/enrollment-strength.jpg">Available Facilities</a>
-                            </li>
-                            {/* <li>
-                                <a onClick={toggle} href="../documents/dlle/enrollment-strength.jpg"  >Sport Schedule </a>
-                            </li> */}
+                            </li> 
                             <li>
                                 <a onClick={toggle} href="https://mu.ac.in/wp-content/uploads/2021/02/Draft-University-Ghatna-_After-webinar-correction.pdf"  >Rules and Regulation </a>
-                            </li>
-                            {/* <li>
-                                <a onClick={toggle} href="../documents/dlle/DLLE-event-report.pdf"  >Activities Reports</a>
-                            </li> */}
+                            </li> 
                             <li>
                                 <a onClick={toggle} href="../documents/dlle/DLLE-event-report.pdf"  >Student Participation Number</a>
                             </li>
@@ -128,10 +120,10 @@ const Navlinks = ({ toggle }) => {
                         <i class="fa fa-caret-down"></i>
                         <ul class="subdrop">
                             <li>
-                                <a onClick={toggle} href="../documents/dlle/project.pdf"  >Departments rules & regulations</a>
+                                <a onClick={toggle} href="../documents/dlle/project.pdf"  >Departments Rules & Regulations</a>
                             </li>
                             <li>
-                                <a onClick={toggle} href="/DlleFacultyMember">faculty mumbers and students</a>
+                                <a onClick={toggle} href="/DlleFacultyMember">Faculty mumbers and students</a>
                             </li>
                             <li>
                                 <a onClick={toggle} href="../documents/dlle/enrollment-strength.jpg"  >Students inrollment strenth</a>
@@ -153,17 +145,14 @@ const Navlinks = ({ toggle }) => {
                             </li>
                             <li>
                                 <a onClick={toggle} href="../documents/WDC/WDC EVENT REPORT.pdf">WDC Event Report</a>
-                            </li>
-
-
+                            </li> 
                         </ul></a>
                     <NavLink onClick={toggle} to="/student-council">student Council</NavLink>
                     <NavLink onClick={toggle} to="/scholarship">special cell and scholarship</NavLink>
                     <NavLink onClick={toggle} to="/placement-help">placement help - Committee</NavLink>
                     <NavLink onClick={toggle} to="/marathi-vangmay"> CGRC  </NavLink>
                     <NavLink onClick={toggle} to="/marathi-vangmay"> College Alumni  </NavLink>
-                </div>
-
+                </div> 
             </li>
 
             <li class="dropdown">
@@ -176,20 +165,8 @@ const Navlinks = ({ toggle }) => {
                 </div>
             </li>
 
-            <li class="dropdown">
-                <a class="dropbtn">Library &nbsp;
-                    <i class="fa fa-caret-down"></i>
-                </a>
-                <div class="dropdown-content">
-
-                    <NavLink onClick={toggle} to="/aboutsansta">deparment Profile</NavLink>
-                    <NavLink onClick={toggle} to="/founderofmnsp">Rules Regulations and schedule</NavLink>
-                    <NavLink onClick={toggle} to="/governingbodyofmspm">Infrastructure and Collection </NavLink>
-                    <NavLink onClick={toggle} to="/founderofdgtc">Services and Facilities</NavLink>
-                    <NavLink onClick={toggle} to="/presidantofmspm">Activities Reports</NavLink>
-
-                </div>
-            </li>
+            <li className="dropdown"><NavLink class="dropbtn" onClick={toggle} to="/library">Library</NavLink></li>
+ 
 
             <li class="dropdown">
                 <a class="dropbtn">Student Corner &nbsp;
@@ -205,24 +182,10 @@ const Navlinks = ({ toggle }) => {
                             </li>
                             <li>
                                 <a onClick={toggle} href="../documents/stud corner/eligibility criteria.pdf"  >Eligibility
-                                    Criteria</a>
-
+                                    Criteria</a> 
                             </li>
                         </ul>
                     </a>
- 
-                    <a>Exam &nbsp;
-                        <i class="fa fa-caret-down"></i>
-                        <ul class="subdrop">
-                            <li>
-                                <NavLink onClick={toggle} to="/history"> Exam
-                                    schedule  </NavLink>
-                            </li>
-                            <li>
-                                <NavLink onClick={toggle} to="/notice">Exam Notice </NavLink>
-                            </li> 
-                        </ul>
-                    </a> 
                     <li>
                         <NavLink onClick={toggle} to="/marathi"> Scholarship   </NavLink>
                     </li>
