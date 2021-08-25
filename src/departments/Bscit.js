@@ -35,7 +35,7 @@ function Bscit() {
                                 href="../documents/it/mscit1.pdf" role="tab" aria-controls="settings">MSc IT part-1 Syllabus</a>
 
                             <a class="list-group-item list-group-item-action active .listclass" id="list-home-list"
-                                data-toggle="list" href="../documents/it/mscit1.pdf" role="tab" aria-controls="home">MSc IT
+                                data-toggle="list" href="../documents/it/mscit2.pdf" role="tab" aria-controls="home">MSc IT
                                 part-2 Syllabus</a>
                         </div>
                     </div>
@@ -56,7 +56,7 @@ function Bscit() {
                         <div class="team-w3l-grid">
                             <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
                                 <div class="about_img"><img src="../images/t-staff/Bhanu.jpg" alt="" />
-                                    <h5 style={{ fontSize: "2.2rem", lineHeight: "25px" }}> Prof.Bhanuprasad Vishwakarma(HOD)</h5>
+                                    <h5 style={{ fontSize: "2.2rem", lineHeight: "25px" }}> Asst.Prof.Bhanuprasad Vishwakarma(HOD)</h5>
                                     <div class="about_opa">
                                         <p>HOD</p>
                                     </div>
@@ -64,14 +64,14 @@ function Bscit() {
                             </div>
                             <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
                                 <div class="about_img"><img src="../images/t-staff/amina.jpg" alt="" />
-                                    <h5>Prof. Rawoot Amina</h5>
+                                    <h5>Asst.Prof. Rawoot Amina</h5>
                                     <div class="about_opa">
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                                <div class="about_img"><img src="../images/t-staff/mali.jpg" alt="" />
-                                    <h5>Prof. Jivandhara Mali</h5>
+                                <div class="about_img"><img src="../images/t-staff/harsha.jpg" alt="" />
+                                    <h5>Asst.Prof. harsh salvi</h5>
                                     <div class="about_opa">
 
                                     </div>
@@ -82,17 +82,17 @@ function Bscit() {
                         <div class="team-w3l-grid grid-2-team">
                             <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
                                 <div class="about_img"><img src="../images/t-staff/rashmi.jpg" alt="" />
-                                    <h5>Prof. Dharse Rashmi</h5>
+                                    <h5>Asst.Prof. Dharse Rashmi</h5>
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
                                 <div class="about_img"><img src="../images/t-staff/nadiya.jpg" alt="" />
-                                    <h5>Prof. Bandarkar Nadiya</h5>
+                                    <h5>Asst.Prof. Bandarkar Nadiya</h5>
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
                                 <div class="about_img"><img src="../images/t-staff/snehal.jpg" alt="" />
-                                    <h5> Prof. Ghone Snehal </h5>
+                                    <h5> Asst.Prof. Ghone Snehal </h5>
                                 </div>
                             </div>
                             <div class="clearfix"></div>

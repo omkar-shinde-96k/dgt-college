@@ -23,7 +23,10 @@ function History() {
                     <div class="col-xl-9 col-lg-9 col-md-4 col-sm-6 col-xs-12 p-5 ">
 
                         <div class="col-10 hod" style={{ marginTop: "15px" }}>
-                            <p> 
+                            <p style={{fontSize:"2rem"}}> 
+                            Mangaon Shikshan Prasarak mandal's D.G.T. College, Mangaon Raigad, Maharastra 402104. M.S.P.M. lounched D.G.T. College dated on 14th july, 1993 since degree courses were tought of the History. P.G. section has been started from 2008. Since till today Dr. Lokhande T.S. Guide of the P.G. Section. History department provided to the student's different kinds of the facilities. As like reserch project. Guides of the Ph.D. and P.G. student Guide for research work. Dr. Lokhande is Head of the Department , I thought F.Y.B.A., S.Y.B.A, T.Y.B.A and P.G. M.A. -I and M.A II with enthosically since 1997. My Teaching experience is 24th years same collge . my particular information is following. 
+
+                            <img src="../documents/history/lokhandesir.jpg" height="100%" width="100%"></img>
                             </p>
                         </div>
                     </div>

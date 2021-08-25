@@ -47,7 +47,7 @@ function Tstaff() {
                     <div class="team-w3l-grid grid-2-team">
 
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                            <div class="about_img"><img src="images/t-staff/TSlokhande.jpg" height="100%" alt="" />
+                            <div class="about_img"><img src="images/t-staff/TSLokhande.jpg" height="100%" alt="" />
                                 <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}> Dr. T.S. Lokhande </span><span style={{ fontSize: "15px" }}> M.A. (History), B.Ed., Ph.D.</span></h5>
                                 <div class="about_opa">
                                     <p >M.A. (History), B.Ed., Ph.D.</p>
@@ -227,10 +227,10 @@ function Tstaff() {
                         </div>
 
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                            <div class="about_img"><img src="images/t-staff/mali.jpg" height="100%" alt="" />
-                                <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}> Prof. Jivandhara Mali </span><span style={{ fontSize: "15px" }}>Asst. Prof</span></h5>
+                            <div class="about_img"><img src="images/t-staff/harsha.jpg" height="100%" alt="" />
+                                <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}> Asst. Prof. Harsha salvi </span><span style={{ fontSize: "15px" }}>Asst. Prof</span></h5>
                                 <div class="about_opa">
-                                    <p > Asst. Prof</p>
+                                    <p > Asst.Prof</p>
                                 </div>
                             </div>
                         </div>
