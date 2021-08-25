@@ -3,7 +3,7 @@ function Chemistry() {
   return (
     <>
       <br />
-      <h1 align="center"><b> Welcome to BMS Department</b> </h1>
+      <h1 align="center"><b> Welcome to Chemistry Department</b> </h1>
       <br />
 
       <div class="container">
@@ -43,7 +43,6 @@ function Chemistry() {
 
               <a class="list-group-item active list-group-item-action" id="list-messages-list" data-toggle="list"
                 href="../documents/chemistry/ty.pdf" role="tab" aria-controls="messages"> T.Y. Chemistry Syllabus</a>
-
 
               <a class="list-group-item  list-group-item-action" id="list-profile-list" data-toggle="list"
                 href="../documents/chemistry/msc part 1 and 2.pdf" role="tab" aria-controls="profile">M.Sc Part 1 and 2 Syllabus </a>

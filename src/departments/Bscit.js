@@ -71,7 +71,7 @@ function Bscit() {
                             </div>
                             <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
                                 <div class="about_img"><img src="../images/t-staff/harsha.jpg" alt="" />
-                                    <h5>Asst.Prof. harsh salvi</h5>
+                                    <h5>Asst.Prof. Harsha Salvi</h5>
                                     <div class="about_opa">
 
                                     </div>
