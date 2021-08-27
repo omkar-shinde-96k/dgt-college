@@ -1,5 +1,3 @@
-import Footer from '../components/Footer';
-
 function Tstaff() {
     return (
         <>
@@ -80,9 +78,9 @@ function Tstaff() {
                         
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
                             <div class="about_img"><img src="images/t-staff/safa.jpg" height="100%" alt="" />
-                                <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}>  Asst. Prof Safa Thange</span><span style={{ fontSize: "15px" }}>Asst. Prof in Botany</span></h5>
+                                <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}>  Asst. Prof Safa Thange</span><span style={{ fontSize: "15px" }}>Asst. Prof in English</span></h5>
                                 <div class="about_opa">
-                                    <p > Asst. Prof in Botany</p>
+                                    <p > Asst. Prof in English</p>
                                 </div>
                             </div>
                         </div>
@@ -227,7 +225,7 @@ function Tstaff() {
                         </div>
 
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                            <div class="about_img"><img src="images/t-staff/harsha.jpg" height="100%" alt="" />
+                            <div class="about_img"><img src="images/t-staff/harsha salvi.jpg" height="100%" alt="" />
                                 <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}> Asst. Prof. Harsha salvi </span><span style={{ fontSize: "15px" }}>Asst. Prof</span></h5>
                                 <div class="about_opa">
                                     <p > Asst.Prof</p>

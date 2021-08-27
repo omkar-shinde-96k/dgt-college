@@ -8,36 +8,31 @@ function Bcom() {
 
       <div class="container">
 
-        <h3>“The purpose of education is to make good human beings with skill and expertise…Enlightened human beings can be created by teachers.”
-                               - Dr APJ Abdul Kalam</h3>
+        <h4><i>“The purpose of education is to make good human beings with skill and expertise…Enlightened human beings can be created by teachers.”
+          - Dr APJ Abdul Kalam</i></h4>
         <br />
-        <p>
-
-          “The purpose of education is to make good human beings with skill and expertise…Enlightened human beings can be created by teachers.”
-          Dr APJ Abdul Kalam
-
+        <p> 
           The Department of Commerce was established in 2010-11 with the sole aim of providing commercial education to the rural students. The Commerce department is the largest department of the College. Department is enriched by 6 lecturers. Commerce faculty aims to develop student’s personality in character in mind. The Department offers Bachelor of Commerce degree course with intends to provide a foundation for students who plan to pursue their career in business, commerce, accounting etc. Commerce department arranges various activities for improving student’s practical knowledge with confidence such as class room seminar, wallpaper presentation, Group discussion, Guest lecture, welcome and send off function; as well as motivate the students to participate in various Lead college activities, workshops and other events.
-          
-           </p>
+
+        </p>
         <br />
 
 
         <h2 class="text-center bg-primary "> Rich Faculty :</h2>
         <p>
           The department has adequate well qualified, competent faculty who are dedicated to the academic and overall development of the students community. The faculty members regularly participate in Seminars and Workshops in order to upgrade themselves with the recent developments in their respective disciplines.
-</p>
+        </p>
 
-        <h2 class="text-center bg-primary ">Objectives:</h2>
+        <h2 class="text-center bg-primary">Objectives:</h2>
         <p>
           The objective of the Department is to impart knowledge and skills considered essential for facing the challenges of the rapidly changing environment in the field of trade, industry and commerce. To provide holistic and value based education for overall personality development of the student. To improve soft skills to bring about balanced personality development of the students.
-</p>
+        </p>
 
 
-<h2 class="text-center bg-primary ">HOD maseage:</h2>
-        <p>
-        HOD Profile
-Prof. Amrin Ibrahim Adkar HOD of Commerce Department. She has 8 years of teaching experience.She joint DGT college in 2013. She has done her Master’s in Commerce with specialization in Business Administration. Her profound interest in research has made her publish various papers and articles. She has also participated in various workshops. She is a member of CDC. She has active member of different committees in college as  In charge of Discipline Committee , Member of IQAC, Sports Committee , Examination Committee, DLLE Committee, WDC Committee, Admission Committee, Grievance Committee so on. She has been  felicitated college Level Best Teacher award in Sep 2014.
-</p>
+        <h2 class="text-center bg-primary ">HOD Message:</h2>
+        <p> 
+The Department has the pride of being one of the best departments in our college. The Department of Commerce was graced by the presence of well experienced and dedicated faculty members. The teaching highlights of the faculty of our department are Learner- centric, ICT enabled, Project based, continuous assessment and comprehensive & realistic evaluation. The increasing number of applicants year by year for the B.Com Programme is a testimony for the efficiency of the department. Department regularly organizes Guidance lectures by eminent persons for the benefits of the students. We care for the well being of the students and help them to be civilized and responsible citizens.
+        </p>
 
       </div>
 
@@ -78,51 +73,51 @@ Prof. Amrin Ibrahim Adkar HOD of Commerce Department. She has 8 years of teachin
               <p><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
             </div>
             <div class="team-w3l-grid">
-            <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
+              <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
                 <div class="about_img"><img src="images/t-staff/amrin.jpg" alt=""></img>
-                    <h5> <span>Prof. Amrin Adkar </span>  <span> HOD</span></h5>
-                    <div class="about_opa">
-                        <p>HOD of Commerce Department</p>
-                    </div>
+                  <h5> <span>Prof. Amrin Adkar </span>  <span> HOD</span></h5>
+                  <div class="about_opa">
+                    <p>HOD of Commerce Department</p>
+                  </div>
                 </div>
               </div>
 
               <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
                 <div class="about_img"><img src="images/t-staff/danish.jpg" alt=""></img>
-                    <h5> <span>Prof. Danish Sange</span>  <span> Lecturar</span></h5>
-                    <div class="about_opa">
-                        <p>Lecturar</p>
-                    </div>
+                  <h5> <span>Prof. Danish Sange</span>  <span> Lecturar</span></h5>
+                  <div class="about_opa">
+                    <p>Lecturar</p>
+                  </div>
                 </div>
               </div>
 
               <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
                 <div class="about_img"><img src="images/t-staff/sushmita.jpg" alt=""></img>
-                    <h5> <span>Prof. Sushmita Mahamunkar</span>  <span> Lecturar</span></h5>
-                    <div class="about_opa">
-                        <p>Lecturar</p>
-                    </div>
+                  <h5> <span>Prof. Sushmita Mahamunkar</span>  <span> Lecturar</span></h5>
+                  <div class="about_opa">
+                    <p>Lecturar</p>
+                  </div>
                 </div>
               </div>
- 
+
               <div class="clearfix"></div>
             </div>
             <div class="team-w3l-grid grid-2-team">
-            <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
+              <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
                 <div class="about_img"><img src="images/t-staff/adil.jpg" alt=""></img>
-                    <h5> <span>Prof. Adil Bade</span>  <span> Lecturar</span></h5>
-                    <div class="about_opa">
-                        <p>Lecturar</p>
-                    </div>
+                  <h5> <span>Prof. Adil Bade</span>  <span> Lecturar</span></h5>
+                  <div class="about_opa">
+                    <p>Lecturar</p>
+                  </div>
                 </div>
               </div>
-              
+
               <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
                 <div class="about_img"><img src="images/t-staff/ansari.jpg" alt=""></img>
-                    <h5> <span>Prof. Sumaiya Ansari</span>  <span> Lecturar</span></h5>
-                    <div class="about_opa">
-                        <p>Lecturar</p>
-                    </div>
+                  <h5> <span>Prof. Sumaiya Ansari</span>  <span> Lecturar</span></h5>
+                  <div class="about_opa">
+                    <p>Lecturar</p>
+                  </div>
                 </div>
               </div>
               <div class="clearfix"></div>
@@ -136,7 +131,7 @@ Prof. Amrin Ibrahim Adkar HOD of Commerce Department. She has 8 years of teachin
         <br />
 
         <div class="events">
-          <h3 class="events-title" align="center"> <span> Farewell  </span>- 11-03-2020 </h3> <br />  
+          <h3 class="events-title" align="center"> <span> Farewell  </span>- 11-03-2020 </h3> <br />
           <div class="row md-2 events-img">
 
             <a class="col-sm-12 col-lg-6" href="../documents/commerce/2019-20/Farewell 11-03-2020-a.jpg"><img
@@ -148,7 +143,7 @@ Prof. Amrin Ibrahim Adkar HOD of Commerce Department. She has 8 years of teachin
         </div>
 
         <div class="events">
-          <h3 class="events-title" align="center"> <span> Educational Tour  </span>-  17-02-2020 </h3> <br />  
+          <h3 class="events-title" align="center"> <span> Educational Tour  </span>-  17-02-2020 </h3> <br />
           <div class="row md-2 events-img">
 
             <a class="col-sm-12 col-lg-6" href="../documents/commerce/2019-20/Educational Tour 17-02-2020-a.jpg"><img
@@ -160,7 +155,7 @@ Prof. Amrin Ibrahim Adkar HOD of Commerce Department. She has 8 years of teachin
         </div>
 
         <div class="events">
-          <h3 class="events-title" align="center"> <span> Freshers Party  </span>- 28-08-2019 </h3> <br />  
+          <h3 class="events-title" align="center"> <span> Freshers Party  </span>- 28-08-2019 </h3> <br />
           <div class="row md-2 events-img">
 
             <a class="col-sm-12 col-lg-6" href="../documents/commerce/2019-20/Freshers Party28-08-2019-a.jpg"><img
@@ -173,7 +168,7 @@ Prof. Amrin Ibrahim Adkar HOD of Commerce Department. She has 8 years of teachin
 
 
         <div class="events">
-          <h3 class="events-title" align="center"> <span> Oldeag home Nizampur  </span>- 12-02-2020 </h3> <br />  
+          <h3 class="events-title" align="center"> <span> Oldeag home Nizampur  </span>- 12-02-2020 </h3> <br />
           <div class="row md-2 events-img">
 
             <a class="col-sm-12 col-lg-6" href="../documents/commerce/2019-20/Oldeag home Nizampur 12-02-2020-a.jpg"><img
@@ -185,7 +180,7 @@ Prof. Amrin Ibrahim Adkar HOD of Commerce Department. She has 8 years of teachin
         </div>
 
         <div class="events">
-          <h3 class="events-title" align="center"> <span> Ask me Computer Guest lecture 19-01-2021-aAsk me Computer Guest lecture 19-01-2021-a </span>- eventDate </h3> <br />  
+          <h3 class="events-title" align="center"> <span> Ask me Computer Guest lecture 19-01-2021-aAsk me Computer Guest lecture 19-01-2021-a </span>- eventDate </h3> <br />
           <div class="row md-2 events-img">
 
             <a class="col-sm-12 col-lg-6" href="../documents/commerce/2019-20/Ask me Computer Guest lecture 19-01-2021-a.jpg"><img
@@ -198,7 +193,7 @@ Prof. Amrin Ibrahim Adkar HOD of Commerce Department. She has 8 years of teachin
 
 
         <div class="events">
-          <h3 class="events-title" align="center"> <span> Dr. S. M Ghate Guest lectuer  </span>- 15-01-2020 </h3> <br />  
+          <h3 class="events-title" align="center"> <span> Dr. S. M Ghate Guest lectuer  </span>- 15-01-2020 </h3> <br />
           <div class="row md-2 events-img">
 
             <a class="col-sm-12 col-lg-6" href="../documents/commerce/2019-20/Dr. S. M Ghate Guest lectuer 15-01-2020-a.jpg"><img
@@ -212,7 +207,7 @@ Prof. Amrin Ibrahim Adkar HOD of Commerce Department. She has 8 years of teachin
 
 
         <div class="events">
-          <h3 class="events-title" align="center"> <span> Dr. S. M Ghate Guest lectuer 15-01-2020-a </span>- eventDate </h3> <br />  
+          <h3 class="events-title" align="center"> <span> Dr. S. M Ghate Guest lectuer 15-01-2020-a </span>- eventDate </h3> <br />
           <div class="row md-2 events-img">
 
             <a class="col-sm-12 col-lg-6" href="../documents/commerce/2019-20/Dr. S. M Ghate Guest lectuer 15-01-2020-a.jpg"><img
@@ -224,7 +219,7 @@ Prof. Amrin Ibrahim Adkar HOD of Commerce Department. She has 8 years of teachin
         </div>
 
 
-{/* 
+        {/* 
         <div class="events">
           <h3 class="events-title" align="center"> <span> evemtName </span>- eventDate </h3> <br />  
           <div class="row md-2 events-img">
@@ -251,13 +246,13 @@ Prof. Amrin Ibrahim Adkar HOD of Commerce Department. She has 8 years of teachin
         </div> */}
 
 
-        
 
-        
+
+
 
 
       </div>
-     
+
     </>
   );
 }

@@ -13,14 +13,7 @@ function Chemistry() {
           <b><i><h4>“The science of today is the technology of tomorrow, all outstanding work in science results from the immense zeal applied to a great idea. "</h4></i></b> <br />
           As per todays era there is extreme need to develop among students the thirst of science and technology and nurture them with its application in present world. Hence by taking this ideology in mind and looking over scientific need of generation President of MSPM’s tooks his step ahead   and laid the foundation of B.Sc.(Chemistry) in year 2001-2002. From then till date department has taken best of its efforts to provide students with necessary knowledge. Department organizes various workshops, Guest lectures, activity oriented programs, Industrial visits, seminars, group discussions etc, with an aim to develop student in overall manner. Later acceleration of day to day world and flourishment of Industrial sector at district level led the necessity of higher level education with an ambition to secure  student mastery in its subject, hence one more feather was added in cap of department by introducing M.Sc. (Organic Chemistry) in year 2012-13 . The course enriched students not only with practical skills but also developed scientific temper among them which will lead to mould out their career further. A Year later doors of Junior Science college also opened to enrich students with basic concepts of science and technology and develop among them confidence for higher education. Presently Department is  equipped with student count of 345 including Jr, UG and PG . Department has good quality and dedicated staff and is serving as strongest department of college.
         </p>
-        {/* <br />
-        <h2>Objectives: </h2>
-        <p>
-          </p>
-
-        <h2>Features:</h2>
-        <p>
-        </p> */}
+        
       </div>
 
 
@@ -180,10 +173,10 @@ function Chemistry() {
  
           <div class="row md-2 events-img">
 
-            <a class="col-sm-12 col-lg-6" href="../documents/chemistry/Event 2018-19/Visit to Old Age home Borwadi.jpg"><img src="../documents/chemistry/Event 2018-19/Visit to Old Age home Borwadi.jpg" width="100%" /></a>
+            <a class="col-sm-12 col-lg-6" href="../documents/chemistry/Event 2018-19/Visit to Old Age home Borwadi.jpg"><img src="../documents/chemistry/Event 2018-19/Visit to Old Age home Borwadi.jpg" width="100%" alt="img" /></a>
 
             <a class="col-sm-12 col-lg-6" href="../documents/chemistry/Event 2018-19/Visit to Old Age home Borwadi 2.jpg"><img
-              src="../documents/chemistry/Event 2018-19/Visit to Old Age home Borwadi 2.jpg" width="100%" /></a>
+              src="../documents/chemistry/Event 2018-19/Visit to Old Age home Borwadi 2.jpg" width="100%"  alt="img" /></a>
           </div>
         </div>
 
@@ -194,10 +187,10 @@ function Chemistry() {
           <div class="row md-2 events-img">
 
             <a class="col-sm-12 col-lg-6" href="../documents/chemistry/Event 2018-19/Science Day Celebration.jpg"><img
-              src="../documents/chemistry/Event 2018-19/Science Day Celebration.jpg" width="100%" /></a>
+              src="../documents/chemistry/Event 2018-19/Science Day Celebration.jpg" width="100%" alt="img" /></a>
 
             <a class="col-sm-12 col-lg-6" href="../documents/chemistry/Event 2018-19/Science Day Celebration 2.jpg"><img
-              src="../documents/chemistry/Event 2018-19/Science Day Celebration 2.jpg" width="100%" /></a>
+              src="../documents/chemistry/Event 2018-19/Science Day Celebration 2.jpg" width="100%" alt="img" /></a>
           </div>
         </div>
 
@@ -208,10 +201,10 @@ function Chemistry() {
           <div class="row md-2 events-img">
 
             <a class="col-sm-12 col-lg-6" href="../documents/chemistry/Event 2018-19/rex prize.jpg"><img
-              src="../documents/chemistry/Event 2018-19/rex prize.jpg" width="100%" /></a>
+              src="../documents/chemistry/Event 2018-19/rex prize.jpg" width="100%" alt="img" /></a>
 
             <a class="col-sm-12 col-lg-6" href="../documents/chemistry/Event 2018-19/rex prize 2.jpg"><img
-              src="../documents/chemistry/Event 2018-19/rex prize 2.jpg" width="100%" /></a>
+              src="../documents/chemistry/Event 2018-19/rex prize 2.jpg" width="100%" alt="img" /></a>
           </div>
         </div>
 
@@ -223,10 +216,10 @@ function Chemistry() {
           <div class="row md-2 events-img">
 
             <a class="col-sm-12 col-lg-6" href="../documents/chemistry/Event 2018-19/T.Y.B.Sc. Lab Orientation Programme.jpg"><img
-              src="../documents/chemistry/Event 2018-19/T.Y.B.Sc. Lab Orientation Programme.jpg" width="100%" /></a>
+              src="../documents/chemistry/Event 2018-19/T.Y.B.Sc. Lab Orientation Programme.jpg" width="100%" alt="img" /></a>
 
             <a class="col-sm-12 col-lg-6" href="../documents/chemistry/Event 2018-19/T.Y.B.Sc. Lab Orientation Programme 2.jpg"><img
-              src="../documents/chemistry/Event 2018-19/T.Y.B.Sc. Lab Orientation Programme 2.jpg" width="100%" /></a>
+              src="../documents/chemistry/Event 2018-19/T.Y.B.Sc. Lab Orientation Programme 2.jpg" width="100%" alt="img" /></a>
           </div>
         </div>
 
@@ -237,21 +230,19 @@ function Chemistry() {
           <div class="row md-2 events-img">
 
             <a class="col-sm-12 col-lg-6" href="../documents/chemistry/Event 2018-19/.jpg"><img
-              src="../documents/chemistry/Event 2018-19/Freshers.jpg" width="100%" /></a>
+              src="../documents/chemistry/Event 2018-19/Freshers.jpg" width="100%" alt="img" /></a>
 
             <a class="col-sm-12 col-lg-6" href="../documents/chemistry/Event 2018-19/.jpg"><img
-              src="../documents/chemistry/Event 2018-19/Freshers 2.jpg" width="100%" /></a>
+              src="../documents/chemistry/Event 2018-19/Freshers 2.jpg" width="100%" alt="img"/></a>
           </div>
         </div>
 
-
-         
         <div class="events">
           <h3 class="events-title" align="center"> <span> Farewell Party  </span>- 2017-18 </h3> <br />
  
           <div class="row events-imdg">
             <a width="100%" href="../documents/chemistry/Event 2017-18/Farewell Party.jpg"><img
-              src="../documents/chemistry/Event 2017-18/Farewell Party.jpg" width="100%" /></a>
+              src="../documents/chemistry/Event 2017-18/Farewell Party.jpg" width="100%" alt="img"/></a>
           </div>
         </div> 
         <div class="events">
@@ -260,7 +251,7 @@ function Chemistry() {
           <br />
           <div class="row events-imdg">
             <a width="100%" href="../documents/chemistry/Event 2017-18/Industrial visit to GO cheese Factory.jpg"><img
-              src="../documents/chemistry/Event 2017-18/Industrial visit to GO cheese Factory.jpg" width="100%" /></a>
+              src="../documents/chemistry/Event 2017-18/Industrial visit to GO cheese Factory.jpg" alt="img" width="100%" /></a>
           </div>
         </div> 
         <div class="events">
@@ -268,17 +259,15 @@ function Chemistry() {
  
           <div class="row events-imdg">
             <a width="100%" href="../documents/chemistry/Event 2017-18/2017-18.jpg"><img
-              src="../documents/chemistry/Event 2017-18/2017-18.jpg" width="100%" /></a>
+              src="../documents/chemistry/Event 2017-18/2017-18.jpg" alt="img" width="100%" /></a>
           </div>
-        </div> 
-        
-
+        </div>
 
         <div class="events">
           <h3 class="events-title" align="center"> <span>Shiv Jayanti </span>- 2016-17 </h3> <br /> 
           <div class="row events-imdg">
             <a width="100%" href="../documents/chemistry/Event 2016-17/Shiv Jayanti celebration.jpg"><img
-              src="../documents/chemistry/Event 2016-17/Shiv Jayanti celebration.jpg" width="100%" /></a>
+              src="../documents/chemistry/Event 2016-17/Shiv Jayanti celebration.jpg" width="100%" alt="img" /></a>
           </div>
         </div> 
 
@@ -286,7 +275,7 @@ function Chemistry() {
           <h3 class="events-title" align="center"> <span>   Tour to Esselworld   </span>- 2016-17 </h3> <br /> 
           <div class="row events-imdg">
             <a width="100%" href="../documents/chemistry/Event 2016-17/Tour to Esselworld.jpg"><img
-              src="../documents/chemistry/Event 2016-17/Tour to Esselworld.jpg" width="100%" /></a>
+              src="../documents/chemistry/Event 2016-17/Tour to Esselworld.jpg" width="100%" alt="img" /></a>
           </div>
         </div> 
 
@@ -294,7 +283,7 @@ function Chemistry() {
           <h3 class="events-title" align="center"> <span>   Convocation Ceremony   </span>- 2016-17 </h3> <br /> 
           <div class="row events-imdg">
             <a width="100%" href="../documents/chemistry/Event 2016-17/Convocation Ceremony.jpg"><img
-              src="../documents/chemistry/Event 2016-17/Convocation Ceremony.jpg" width="100%" /></a>
+              src="../documents/chemistry/Event 2016-17/Convocation Ceremony.jpg" width="100%" alt="img" /></a>
           </div>
         </div> 
 
@@ -303,7 +292,7 @@ function Chemistry() {
           <h3 class="events-title" align="center"> <span>   Social activity- visit to Dattanagar Ashram Shala and distributes statioanry & sweets   </span>- 2016-17 </h3> <br /> 
           <div class="row events-imdg">
             <a width="100%" href="../documents/chemistry/Event 2016-17/Social activity- visit to Dattanagar Ashram Shala and distributes statioanry & sweets.jpg"><img
-              src="../documents/chemistry/Event 2016-17/Social activity- visit to Dattanagar Ashram Shala and distributes statioanry & sweets.jpg" width="100%" /></a>
+              src="../documents/chemistry/Event 2016-17/Social activity- visit to Dattanagar Ashram Shala and distributes statioanry & sweets.jpg" width="100%" alt="img" /></a>
           </div>
         </div> 
 
@@ -311,7 +300,7 @@ function Chemistry() {
           <h3 class="events-title" align="center"> <span>Farewell Party  </span>- 2015-16 </h3> <br /> 
           <div class="row events-imdg">
             <a width="100%" href="../documents/chemistry/Event 2015-16/Farewell Party.jpg"><img
-              src="../documents/chemistry/Event 2015-16/Farewell Party.jpg" width="100%" /></a>
+              src="../documents/chemistry/Event 2015-16/Farewell Party.jpg" width="100%" alt="img" /></a>
           </div>
         </div> 
 
@@ -319,7 +308,7 @@ function Chemistry() {
           <h3 class="events-title" align="center"> <span> Tour to Mahableshwar & Panjgani </span>- 2015-16 </h3> <br />
           <div class="row events-imdg">
             <a width="100%" href="../documents/chemistry/Event 2015-16/Tour to Mahableshwar & Panjgani.jpg"><img
-              src="../documents/chemistry/Event 2015-16/Tour to Mahableshwar & Panjgani.jpg" width="100%" /></a>
+              src="../documents/chemistry/Event 2015-16/Tour to Mahableshwar & Panjgani.jpg" alt="img" width="100%" /></a>
           </div>
         </div> 
 
@@ -327,7 +316,7 @@ function Chemistry() {
           <h3 class="events-title" align="center"> <span> Terrerium activity by Botany students </span>- 2015-16 </h3> <br /> 
           <div class="row events-imdg">
             <a width="100%" href="../documents/chemistry/Event 2015-16/Terrerium activity by Botany students.jpg"><img
-              src="../documents/chemistry/Event 2015-16/Terrerium activity by Botany students.jpg" width="100%" /></a>
+              src="../documents/chemistry/Event 2015-16/Terrerium activity by Botany students.jpg" alt="img" width="100%" /></a>
           </div>
         </div> 
 
@@ -335,7 +324,7 @@ function Chemistry() {
           <h3 class="events-title" align="center"> <span> Best Students college </span>- 2015-16 </h3> <br />
           <div class="row events-imdg">
             <a width="100%" href="../documents/chemistry/Event 2015-16/Best Students college.jpg"><img
-              src="../documents/chemistry/Event 2015-16/Best Students college.jpg" width="100%" /></a>
+              src="../documents/chemistry/Event 2015-16/Best Students college.jpg" width="100%" alt="img" /></a>
           </div>
         </div>  
         
