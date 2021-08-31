@@ -2,7 +2,7 @@ import './Dept.css';
 function Bscit() {
     return (
         <>
-            <h1 align="center"><b>IT DEPARTMENT</b> </h1>
+            <h1 align="center"><b>Department Of Information technology</b> </h1>
             <br />
             <div class="container">
                 <p>
@@ -113,13 +113,49 @@ function Bscit() {
                     <div class="row md-2 events-img">
 
                         <a class="col-sm-12 col-lg-6" href="../documents/it/event/trip1.jpg"><img
-                            src="../documents/it/event/trip1.jpg" /></a>
+                            src="../documents/it/event/malvan1.jpg" /></a>
 
-                        <a class="col-sm-12 col-lg-6" href="../documents/it/event/trip.jpg"><img
-                            src="../documents/it/event/trip2.jpg" /></a>
+                        <a class="col-sm-12 col-lg-6" href="../documents/it/event/malvan2.jpg"><img
+                            src="../documents/it/event/malvan2.jpg" /></a>
                     </div>
                 </div>
 
+                <div class="events">
+                    <h3 class="events-title" align="center"> <span>Guest Lecture </span>- 14/12/2019 </h3> <br />
+                    <p class="events-details">Guest Lecture On Internet security By Mr. Abhishek More  on 14/12/2019 </p>
+                    <br />
+                    <div class="row md-2 events-img">
+
+                        <a class="col-sm-12 col-lg-6" href="../documents/it/event/abhishek-sir.jpg"><img
+                            src="../documents/it/event/abhishek-sir.jpg" /></a> 
+                      
+                    </div>
+                </div>
+
+                <div class="events">
+                    <h3 class="events-title" align="center"> <span> Freshers party </span>-10/08/2019 </h3>  
+                    <p class="events-details">Organized freshers party for f.y. it students on 10/08/2019</p>
+                    <br />
+                    <div class="row md-2 events-img">
+
+                        <a class="col-sm-12 col-lg-6" href="../documents/it/event/f-party-2019-1.jpg"><img
+                            src="../documents/it/event/f-party-2019-1.jpg" /></a>
+
+                        <a class="col-sm-12 col-lg-6" href="../documents/it/event/f-party-2019-2.jpg"><img
+                            src="../documents/it/event/f-party-2019-2.jpg" /></a>
+                    </div>
+                </div>
+
+                <div class="events">
+                    <h3 class="events-title" align="center"> <span> Guest Lecture </span>- 22/09/2019  </h3>  
+                    <p class="events-details"> Guest Lecture On Internet of Things By Mrs. Nikam Madam on 22/09/2019 </p>
+                    <br /> 
+                    <div class="row md-2 events-img">
+
+                        <a class="col-sm-12 col-lg-6" href="../documents/it/event/nikam-mam.jpg"><img
+                            src="../documents/it/event/nikam-mam.jpg" /></a> 
+                    </div>
+                </div>    
                 <div class="events">
                     <h3 class="events-title" align="center"> <span> Guest Lecture </span>- 22/09/2019 </h3>  
                     <p class="events-details"> 3)Workshop of IoT by Dr. Hiren Dand </p>
@@ -132,7 +168,7 @@ function Bscit() {
                         <a class="col-sm-12 col-lg-6" href="../documents/it/event/iot2.jpg"><img
                             src="../documents/it/event/iot2.jpg" /></a>
                     </div>
-                </div>
+                </div> 
 
                 <div class="events">
                     <h3 class="events-title" align="center"> <span> Guest Lecture </span> 21/08/2019</h3>  
@@ -201,8 +237,8 @@ function Bscit() {
                     <br />
                     <div class="row md-2 events-img">
 
-                        <a class="col-sm-12 col-lg-6" href="../documents/it/event/10.4.19-1.jpg"><img
-                            src="../documents/it/event/10.4.19-1.jpg" /></a>
+                        <a class="col-sm-12 col-lg-6" href="../documents/it/event/mamane-sir.jpg"><img
+                            src="../documents/it/event/mamane-sir.jpg" /></a>
 
                         <a class="col-sm-12 col-lg-6" href="../documents/it/event/10.4.19-2.jpg"><img
                             src="../documents/it/event/10.4.19-2.jpg" /></a>
@@ -310,6 +346,18 @@ function Bscit() {
                 </div>
 
                 <div class="events">
+                    <h3 class="events-title" align="center"> <span> Academic Tour</span>- 12/10/2017 </h3>  
+                    <p class="events-details">Organized child welfare program at Raigad Z.P. semi english urdu school at old mangaon on 12/10/2017</p>
+                    <br />
+                    <div class="row md-2 events-img">
+
+                        <a class="col-sm-12 col-lg-6" href="../documents/it/event/child.jpg"><img
+                            src="../documents/it/event/child.jpg" /></a>
+ 
+                    </div>
+                </div>
+
+                <div class="events">
                     <h3 class="events-title" align="center"> <span> Fresher’s party </span>- 03/08/2017 </h3> 
                     <p class="events-details"> Fresher’s party organize on 03/08/2017 </p>
                     <br />
@@ -324,6 +372,18 @@ function Bscit() {
                 </div>
 
                 <div class="events">
+                    <h3 class="events-title" align="center"> <span> Farewell Party </span>- 06/03/2017 </h3> 
+                    <p class="events-details"> Organized farewell party for t.y.it students on 06/03/2017 </p>
+                    <br />
+                    <div class="row md-2 events-img">
+
+                        <a class="col-sm-12 col-lg-6" href="../documents/it/event/f-party-17.jpg"><img
+                            src="../documents/it/event/f-party-17.jpg" /></a>
+ 
+                    </div>
+                </div>
+
+                <div class="events">
                     <h3 class="events-title" align="center"> <span> Hacking training </span>- 28/07/2016 </h3>  
                     <p class="events-details"> Hacking training for IT students         on 28/07/2016 </p>
                     <br />
@@ -334,6 +394,20 @@ function Bscit() {
 
                         <a class="col-sm-12 col-lg-6" href="../documents/it/event/20160728.jpg"><img
                             src="../documents/it/event/20160728.jpg" /></a>
+                    </div>
+                </div>
+
+                <div class="events">
+                    <h3 class="events-title" align="center"> <span> Z.P. school Rile- Pachole </span>- 11/03/2017 </h3>  
+                    <p class="events-details"> Bsc IT students along with teacher visited to raigad Z.P. school Rile- Pachole on the occasion of Holi and distributed stationary & sweets to students on 11/03/2017 </p>
+                    <br />
+                    <div class="row md-2 events-img">
+
+                        <a class="col-sm-12 col-lg-6" href="../documents/it/event/rile-pachole-1.jpg"><img
+                            src="../documents/it/event/rile-pachole-1.jpg" /></a>
+
+                        <a class="col-sm-12 col-lg-6" href="../documents/it/event/rile-pachole-2.jpg"><img
+                            src="../documents/it/event/rile-pachole-2.jpg" /></a>
                     </div>
                 </div>
 
@@ -379,21 +453,42 @@ function Bscit() {
                             src="../documents/it/event/20160727-2.jpg" /></a>
                     </div>
                 </div>
-
-
-                {/* <div class="events">
-                    <h3 class="events-title" align="center"> <span> campus interview </span>- 01/03/2016 </h3> 
-                    <p class="events-details"> organized campus interview of cms, it services pvt. Ltd. , mumbai for t.y.bsc.it on 01/03/2016 </p>
+                <div class="events">
+                    <h3 class="events-title" align="center"> <span> Farewell Party </span>- 30/03/2016  </h3> 
+                    <p class="events-details"> organized farewell party for ty bsc it on 30/03/2016 </p>
                     <br />
                     <div class="row md-2 events-img">
 
-                        <a class="col-sm-12 col-lg-6" href="../documents/it/event/.jpg"><img
-                            src="../documents/it/event/.jpg" /></a>
-
-                        <a class="col-sm-12 col-lg-6" href="../documents/it/event/.jpg"><img
-                            src="../documents/it/event/.jpg" /></a>
+                        <a class="col-sm-12 col-lg-6" href="../documents/it/event/f-party-2016-1.jpg"><img
+                            src="../documents/it/event/f-party-2016-1.jpg" /></a>
+ 
                     </div>
-                </div> */}
+                </div>
+
+                <div class="events">
+                    <h3 class="events-title" align="center"> <span> Farewell Party </span>- 05/03/2016 </h3> 
+                    <p class="events-details"> organized university level workshop on datawarehousing by hiren dand sir on 05/03/2016 </p>
+                    <br />
+                    <div class="row md-2 events-img">
+
+                        <a class="col-sm-12 col-lg-6" href="../documents/it/event/hiran-dand-sir-2016.jpg"><img
+                            src="../documents/it/event/hiran-dand-sir-2016.jpg" /></a>
+ 
+                    </div>
+                </div>
+
+
+                <div class="events">
+                    <h3 class="events-title" align="center"> <span> campus interview </span>- 01/03/2016 </h3> 
+                    <p class="events-details"> organized campus interview of cms, it services pvt. Ltd. , mumbai for T.Y.BSc IT on 01/03/2016</p>
+                    <br />
+                    <div class="row md-2 events-img">
+
+                        <a class="col-sm-12 col-lg-6" href="../documents/it/event/campus-interview-2016.jpg"><img
+                            src="../documents/it/event/campus-interview-2016.jpg" /></a>
+ 
+                    </div>
+                </div> 
 
 
                 <div class="events">
@@ -405,8 +500,8 @@ function Bscit() {
                         <a class="col-sm-12 col-lg-6" href="../documents/it/event/30012016-1 (1).jpg"><img
                             src="../documents/it/event/30012016-1 (1).jpg" /></a>
 
-                        <a class="col-sm-12 col-lg-6" href="../documents/it/event/30012016-1 (2).jpg"><img
-                            src="../documents/it/event/30012016-1 (2).jpg" /></a>
+                        <a class="col-sm-12 col-lg-6" href="../documents/it/event/ERRP.jpg"><img
+                            src="../documents/it/event/ERRP.jpg" /></a>
                     </div>
                 </div>
 
@@ -416,18 +511,32 @@ function Bscit() {
                     <br />
                     <div class="row md-2 events-img">
 
-                        <a class="col-sm-12 col-lg-6" href="../documents/it/event/30012016-1 (1).jpg"><img
-                            src="../documents/it/event/30012016-1 (1).jpg" /></a>
+                        <a class="col-sm-12 col-lg-6" href="../documents/it/event/career-guid-2016-1.jpg"><img
+                            src="../documents/it/event/career-guid-2016-1.jpg" /></a>
 
-                        <a class="col-sm-12 col-lg-6" href="../documents/it/event/30012016-1 (2).jpg"><img
-                            src="../documents/it/event/30012016-1 (2).jpg" /></a>
+                        <a class="col-sm-12 col-lg-6" href="../documents/it/event/career-guid-2016-2.jpg"><img
+                            src="../documents/it/event/career-guid-2016-2.jpg" /></a>
+                    </div>
+                </div>
+
+                <div class="events">
+                    <h3 class="events-title" align="center"> <span>  Mansoon excursion tour </span>- 20/08/2015</h3> 
+                    <p class="events-details">organizing mansoon  excursion tour of BSc IT students to mandla on 20/08/2015 </p>
+                    <br />
+                    <div class="row md-2 events-img">
+
+                        <a class="col-sm-12 col-lg-6" href="../documents/it/event/mansoon-tour-1.jpg"><img
+                            src="../documents/it/event/mansoon-tour-1.jpg" /></a>
+
+                        <a class="col-sm-12 col-lg-6" href="../documents/it/event/mansoon-tour-2.jpg"><img
+                            src="../documents/it/event/mansoon-tour-2.jpg" /></a>
                     </div>
                 </div>
 
                 <div class="events">
                     <h3 class="events-title" align="center"> <span> Fresher’s party </span>- 1/08/2015 </h3> 
                     <p class="events-details"> Organized Fresher’s party on 1/08/2015  </p>
-                    <br />
+                    <br/>
                     <div class="row md-2 events-img">
 
                         <a class="col-sm-12 col-lg-6" href="../documents/it/event/2015-freshers-1.jpg"><img

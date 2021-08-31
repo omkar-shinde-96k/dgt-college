@@ -3,7 +3,7 @@ function Bcom() {
   return (
     <>
       <br />
-      <h1 align="center"><b>Commerce Department</b> </h1>
+      <h1 align="center"><b>Department of B.Com</b> </h1>
       <br />
 
       <div class="container">
@@ -16,7 +16,6 @@ function Bcom() {
 
         </p>
         <br />
-
 
         <h2 class="text-center bg-primary "> Rich Faculty :</h2>
         <p>
