@@ -11,9 +11,9 @@ function Hindi() {
                             <div class="team-w3l-grid" style={{border:"1px solid black"}}>
                                 <div class="  about-poleft t1">
                                     <div class="about_img"><img src="images/t-staff/Pandey.jpg" height="100%" alt="" />
-                                        <h5 style={{lineHeight:"20px"}}> <span style={{fontSize:"20px",marginTop:"10px"}}>पाण्डेय जे.आर. </span><span style={{fontSize:"15px"}}>सहयोगी प्राध्यापक</span></h5>
+                                        <h5 style={{lineHeight:"20px"}}> <span style={{fontSize:"20px",marginTop:"10px"}}>पाण्डेय जे.आर. </span><span style={{fontSize:"15px"}}>HOD of Hindi</span></h5>
                                         <div class="about_opa">
-                                            <p >सहयोगी प्राध्यापक</p>
+                                            <p > HOD of Hindi Department</p>
                                         </div>
                                     </div>
                                 </div> 
@@ -57,29 +57,31 @@ function Hindi() {
                             <br />
 
                             <a class="list-group-item list-group-item-action active .listclass" id="list-home-list"
-                                data-toggle="list" href="../documents/hindi/fyba.pdf" role="tab" aria-controls="home">F.Y.B.A
+                                data-toggle="list" href="https://drive.google.com/file/d/1BhXDO_BFMGgN_pH63z0x5g7Obi06Xxmf/view?usp=sharing" role="tab" aria-controls="home">F.Y.B.A
                     Syllabus </a>
 
                             <a class="list-group-item  list-group-item-action" id="list-profile-list" data-toggle="list"
-                                href="../documents/hindi/syba.pdf" role="tab" aria-controls="profile">S.Y.B.A Syllabus </a>
+                                href="https://drive.google.com/file/d/1a_xwFaTWy6GyxhjQpysvN-AYcoysADJi/view?usp=sharing" role="tab" aria-controls="profile">S.Y.B.A Syllabus </a>
 
                             <a class="list-group-item active list-group-item-action" id="list-messages-list" data-toggle="list"
-                                href="../documents/hindi/tyba.pdf" role="tab" aria-controls="messages"> T.Y.B.A Syllabus</a>
+                                href="https://drive.google.com/file/d/1a9rPJjY9AyRUA4G9Wsu8KBmtvQ_nIVnr/view?usp=sharing" role="tab" aria-controls="messages"> T.Y.B.A Syllabus</a>
 
                             <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list"
-                                href="../documents/hindi/ma1.pdf" role="tab" aria-controls="settings">M.A. 1st Syllabus</a>
+                                href="https://drive.google.com/file/d/1WnLIMTyQhxEKiuL1BO1LfXJc74TEWZ_5/view?usp=sharing" role="tab" aria-controls="settings">M.A. 1st Syllabus</a>
 
                             <a class="list-group-item list-group-item-action active .listclass" id="list-home-list"
-                                data-toggle="list" href="../documents/hindi/ma2.pdf" role="tab" aria-controls="home">M.A. 2nd Syllabus</a>
+                                data-toggle="list" href="https://drive.google.com/file/d/1nuj_WRi9LDGoVooxSCvPDwoOKzNU1iKb/view?usp=sharing" role="tab" aria-controls="home">M.A. 2nd Syllabus</a>
                         </div>
                     </div>
                 </div>
             </div> 
             <br />
+
             {/* <div class="container" style={{ fontSize: "2rem", display: "flex", justifyContent: "center" }}>
                 <a href="">Results and Achievement </a>
             </div>
             <br />  */}
+
             <div class="secoundnav">
                 <h1 class="event-heading" align="center"><a>Events Of 2020-21</a> </h1> <br /> 
                 <br /> 

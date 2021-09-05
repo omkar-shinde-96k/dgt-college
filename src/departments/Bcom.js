@@ -46,10 +46,10 @@ The Department has the pride of being one of the best departments in our college
               <br />
 
               <a class="list-group-item list-group-item-action active .listclass text-center" id="list-home-list"
-                data-toggle="list" href="../documents/bms/fybms.pdf" role="tab" aria-controls="home">F.Y.Bcom Syllabus </a>
+                data-toggle="list" href="https://drive.google.com/file/d/1aVTkwmhDn5XKHsZsSYZ-AJkDCc1hNz5C/view?usp=sharing" role="tab" aria-controls="home">F.Y.Bcom Syllabus </a>
 
               <a class="list-group-item  list-group-item-action text-center" id="list-profile-list" data-toggle="list"
-                href="../documents/bms/sybms.pdf" role="tab" aria-controls="profile">S.Y. Bcom Syllabus </a>
+                href="https://drive.google.com/file/d/1JAWwDXv3avQe2bXKasEGEOaWyrNvg_79/view?usp=sharing" role="tab" aria-controls="profile">S.Y. Bcom Syllabus </a>
 
               <a class="list-group-item active list-group-item-action text-center" id="list-messages-list" data-toggle="list"
                 href="../documents/bms/tybms.pdf" role="tab" aria-controls="messages"> T.Y. Bcom Syllabus</a>

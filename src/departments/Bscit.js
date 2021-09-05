@@ -23,19 +23,19 @@ function Bscit() {
                             <br />
 
                             <a class="list-group-item list-group-item-action active .listclass" id="list-home-list"
-                                data-toggle="list" href="../documents/it/fyit.pdf" role="tab" aria-controls="home">F.Y.BSc IT Syllabus </a>
+                                data-toggle="list" href="https://drive.google.com/file/d/1v58gGsof2jFbtjqoYpjF8_K9dN1JrUr2/view?usp=sharing" role="tab" aria-controls="home">F.Y.BSc IT Syllabus </a>
 
                             <a class="list-group-item  list-group-item-action" id="list-profile-list" data-toggle="list"
-                                href="../documents/it/syit.pdf" role="tab" aria-controls="profile">S.Y.BSc IT Syllabus </a>
+                                href="https://drive.google.com/file/d/1iIV9T30KHu4SpvPtmkvek56-dVLlXrFG/view?usp=sharing" role="tab" aria-controls="profile">S.Y.BSc IT Syllabus </a>
 
                             <a class="list-group-item active list-group-item-action" id="list-messages-list" data-toggle="list"
-                                href="../documents/it/tyit.pdf" role="tab" aria-controls="messages"> T.Y.BSc IT Syllabus</a>
+                                href="https://drive.google.com/file/d/1nxchujly3OowB7FVWVie0F4zBpWE-Qvw/view?usp=sharing" role="tab" aria-controls="messages"> T.Y.BSc IT Syllabus</a>
 
                             <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list"
-                                href="../documents/it/mscit1.pdf" role="tab" aria-controls="settings">MSc IT part-1 Syllabus</a>
+                                href="https://drive.google.com/file/d/1bm4Kvv3-G8IZSeTVM3tvTxrRFYwVxnQ5/view?usp=sharing" role="tab" aria-controls="settings">MSc IT part-1 Syllabus</a>
 
                             <a class="list-group-item list-group-item-action active .listclass" id="list-home-list"
-                                data-toggle="list" href="../documents/it/mscit2.pdf" role="tab" aria-controls="home">MSc IT
+                                data-toggle="list" href="https://drive.google.com/file/d/1uOdRyDB0s2tWJqYC4ty0GvogDeKAJL9C/view?usp=sharing" role="tab" aria-controls="home">MSc IT
                                 part-2 Syllabus</a>
                         </div>
                     </div>
@@ -194,8 +194,8 @@ function Bscit() {
                         <a class="col-sm-12 col-lg-6" href="../documents/it/event/trip1.jpg"><img
                             src="../documents/it/event/trip1.jpg" /></a>
 
-                        <a class="col-sm-12 col-lg-6" href="../documents/it/event/trip1.jpg"><img
-                            src="../documents/it/event/trip1.jpg" /></a>
+                        {/* <a class="col-sm-12 col-lg-6" href="../documents/it/event/trip1.jpg"><img
+                            src="../documents/it/event/trip1.jpg" /></a> */}
                     </div>
                 </div>
 
@@ -247,7 +247,7 @@ function Bscit() {
 
                 <div class="events">
                     <h3 class="events-title" align="center"> <span> guest lecture </span>- 09/04/2019 </h3> 
-                    <p class="events-details"> Organized guest lecture of from by  IT department ON 09/04/2019 </p>
+                    <p class="events-details"> Organized guest lecture of from by Satyajit G. Tulpule IT department ON 09/04/2019 </p>
                     <br />
                     <div class="row md-2 events-img">
 

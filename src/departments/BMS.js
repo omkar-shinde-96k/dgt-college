@@ -60,13 +60,13 @@ function BMS() {
                             <br />
 
                             <a class="list-group-item list-group-item-action active .listclass" id="list-home-list"
-                                data-toggle="list" href="../documents/bms/fybms.pdf" role="tab" aria-controls="home">F.Y.BMS Syllabus </a>
+                                data-toggle="list" href="https://drive.google.com/file/d/1a_ziynwzvdPOI6v3CtNYhfSnZpF28AQB/view?usp=sharing" role="tab" aria-controls="home">F.Y.BMS Syllabus </a>
 
                             <a class="list-group-item  list-group-item-action" id="list-profile-list" data-toggle="list"
-                                href="../documents/bms/sybms.pdf" role="tab" aria-controls="profile">S.Y. BMS Syllabus </a>
+                                href="https://drive.google.com/file/d/1p0WhVulw0472FTky8QzysYeUoN3EDJvP/view?usp=sharing" role="tab" aria-controls="profile">S.Y. BMS Syllabus </a>
 
                             <a class="list-group-item active list-group-item-action" id="list-messages-list" data-toggle="list"
-                                href="../documents/bms/tybms.pdf" role="tab" aria-controls="messages"> T.Y. BMS Syllabus</a>
+                                href="https://drive.google.com/file/d/1a3Ucm9VD47OIjYmyJRKlDhqawk_tM53Y/view?usp=sharing" role="tab" aria-controls="messages"> T.Y. BMS Syllabus</a>
 
                         </div>
                     </div>
@@ -167,7 +167,7 @@ function BMS() {
 
                 <div class="events">
                     <h3 class="events-title" align="center"> <span> Indian Culture Representation   </span>- 27-01-2019 </h3> <br />
-                    <p class="events-details"> eventDescription </p>
+                    <p class="events-details">   </p>
                     <br />
                     <div class="row events-imdg"> 
                         <a width="100%" href="../documents/bms/event/Culture.jpg"><img

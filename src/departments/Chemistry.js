@@ -27,41 +27,44 @@ function Chemistry() {
               <br />
 
               <a class="list-group-item list-group-item-action active .listclass" id="list-home-list"
-                data-toggle="list" href="../documents/chemistry/fybsc/fychemistry.pdf" role="tab" aria-controls="home">F.Y.Chemistry Syllabus </a>
+                data-toggle="list" href="https://drive.google.com/file/d/106obt8Ckn08Drj45Ug-w29WhrRHVn2gt/view?usp=sharing" role="tab" aria-controls="home">F.Y.Chemistry Syllabus </a>
 
               <a class="list-group-item list-group-item-action   .listclass" id="list-home-list"
-                data-toggle="list" href="../documents/chemistry/fybsc/fybotany.pdf" role="tab" aria-controls="home">F.Y. Botany Syllabus </a>
+                data-toggle="list" href="https://drive.google.com/file/d/1Cz70MfyuOgehoX03FNWC42NZnRNrtj1R/view?usp=sharing" role="tab" aria-controls="home">F.Y. Botany Syllabus </a>
 
               <a class="list-group-item list-group-item-action active .listclass" id="list-home-list"
-                data-toggle="list" href="../documents/chemistry/fybsc/fyphysics.pdf" role="tab" aria-controls="home">F.Y. physics Syllabus </a>
+                data-toggle="list" href="https://drive.google.com/file/d/18JdieN1chOIR-gC6ySBB4AuBGr8nZX0q/view?usp=sharing" role="tab" aria-controls="home">F.Y. physics Syllabus </a>
 
               <a class="list-group-item list-group-item-action   .listclass" id="list-home-list"
-                data-toggle="list" href="../documents/chemistry/fybsc/fy-foundation-course.pdf" role="tab" aria-controls="home">F.Y. Foundation Course Syllabus </a>
+                data-toggle="list" href="https://drive.google.com/file/d/113AiHmkMfpQPqfKFjqiscTuOLruO8tmQ/view?usp=sharing" role="tab" aria-controls="home">F.Y. Foundation Course Syllabus </a>
               <br />
 
               {/* Fy end */}
 
               <a class="list-group-item  list-group-item-action active" id="list-profile-list" data-toggle="list"
-                href="../documents/chemistry/sybsc/sychemistry.pdf" role="tab" aria-controls="profile">S.Y. Chemistry Syllabus </a>
+                href="https://drive.google.com/file/d/1d_GoEO68a9a2sCDgmnwGeK6lDBpTW0pw/view?usp=sharing" role="tab" aria-controls="profile">S.Y. Chemistry Syllabus </a>
 
               <a class="list-group-item  list-group-item-action" id="list-profile-list" data-toggle="list"
-                href="../documents/chemistry/sybsc/sybotany.pdf" role="tab" aria-controls="profile">S.Y. Botany Syllabus </a>
+                href="https://drive.google.com/file/d/1-4K5YB2fHK-B7P57SNM0UyILrVHnPcIp/view?usp=sharing" role="tab" aria-controls="profile">S.Y. Botany Syllabus </a>
 
               <a class="list-group-item  list-group-item-action active" id="list-profile-list" data-toggle="list"
-                href="../documents/chemistry/sybsc/syphysics.pdf" role="tab" aria-controls="profile">S.Y. Physics Syllabus </a>
+                href="https://drive.google.com/file/d/1ELtKj32Fubad1zvCCDHOdR6PbjJ7KoGi/view?usp=sharing" role="tab" aria-controls="profile">S.Y. Physics Syllabus </a>
 
               <a class="list-group-item  list-group-item-action" id="list-profile-list" data-toggle="list"
-                href="../documents/chemistry/sybsc/sy-foundation-course.pdf" role="tab" aria-controls="profile">S.Y. Foundation Course Syllabus </a>
+                href="https://drive.google.com/file/d/1uJkEQ5d5F6NYLuIuR_CdyEm3O09zGH4A/view?usp=sharing" role="tab" aria-controls="profile">S.Y. Foundation Course Syllabus </a>
 
               {/* sy end */} <br />
-              <a class="list-group-item active list-group-item-action" id="list-messages-list" data-toggle="list"
-                href="../documents/chemistry/tybsc/tybsc.pdf" role="tab" aria-controls="messages"> T.Y. Chemistry Syllabus</a>
-              {/* ty end */} <br />
-              <a class="list-group-item  list-group-item-action" id="list-profile-list" data-toggle="list"
-                href="../documents/chemistry/msc part 1 and 2.pdf" role="tab" aria-controls="profile">M.Sc Part 1 and 2 Syllabus </a>
 
               <a class="list-group-item active list-group-item-action" id="list-messages-list" data-toggle="list"
-                href="../documents/chemistry/msc part 3 and 4.pdf" role="tab" aria-controls="messages">M.Sc Part 3 and 4 Syllabus</a>
+                href="https://drive.google.com/file/d/1TzAzVzS16gMQX002afUc5pj1GDHMPc21/view?usp=sharing" role="tab" aria-controls="messages"> T.Y. Chemistry Syllabus</a>
+
+              {/* ty end */} <br />
+
+              <a class="list-group-item  list-group-item-action" id="list-profile-list" data-toggle="list"
+                href="https://drive.google.com/file/d/1u5uuVe3RUB3dReiMZ-95lpqEaaUim2C3/view?usp=sharing" role="tab" aria-controls="profile">M.Sc Part 1 and 2 Syllabus </a>
+
+              <a class="list-group-item active list-group-item-action" id="list-messages-list" data-toggle="list"
+                href="https://drive.google.com/file/d/1y-bF6xBBm9gXA1nNdFePo7JfUQpKgUh-/view?usp=sharing" role="tab" aria-controls="messages">M.Sc Part 3 and 4 Syllabus</a>
             </div>
           </div>
         </div>
@@ -142,10 +145,7 @@ function Chemistry() {
             </div>
 
 
-
-
-
-
+  
 
             <div class="team-w3l-grid grid-2-team">
 

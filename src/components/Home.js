@@ -11,6 +11,7 @@ const Home = () => {
                     Mangaon Shikshan Prasarak Mandal, Mangaon and its President Adv. Rajivji Sable laid a foundation stone of higher education in Mangaon on 1993. It was time known as Arts’ Senior College. Later It named as D.G.Tatkare College on 10th January 2010.
                 </p> 
                 <div className="social-icons">
+                    <a href="tel:02140-263928" class="fa fa-phone"></a>
                     <a href="#" class="fa fa-facebook-square"></a>
                     <a href="#" class="fa fa-envelope"></a>
                 </div>
