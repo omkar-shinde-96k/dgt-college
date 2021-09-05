@@ -4,7 +4,7 @@ function Navbar({toggle}) {
     return (
         <>
             <div class="main_section_agile" id="home" style={{ position: "sticky", top: "0px", zIndex: "100", background: "linear-gradient(150deg, blue , rgb(174, 0, 255))" }}>
-                <div class="agileits_w3layouts_banner_nav" style={{ margin:"0px", padding: "0px 5px 0 30px", width: "100%" }}>
+                <div class="agileits_w3layouts_banner_nav" id="top" style={{ margin:"0px", padding: "0px 5px 0 30px", width: "100%" }}>
                     <nav class="navbar navbar-default">
                         <div class="navbar-header navbar-left">
                             <button type="button" onClick={toggle} class="navbar-toggle collapsed" data-toggle="collapse"
@@ -17,9 +17,9 @@ function Navbar({toggle}) {
                             <h1> 
                            <NavLink  class="navbar-brand" to="/"><i class="fa fa-leanpub" aria-hidden="true"></i> DGTC</NavLink>  
                             </h1>
-                        </div>  
+                        </div>
                         <div class="collapse navbar-collapse navbar-right">
-                            <nav class="link-effect-2" id="link-effect-2 " style={{ margin: "5px 30px", display: "flex" }}> 
+                            <nav class="link-effect-2" id="link-effect-2 " style={{ margin: "5px 30px", display: "flex" }}>
                                       <Navlinks/>  
                             </nav>
                         </div> 
@@ -28,21 +28,7 @@ function Navbar({toggle}) {
                 </div>
             </div>
            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
         </>
     );
 }

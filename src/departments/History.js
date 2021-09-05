@@ -2,9 +2,9 @@
 function History() {
     return (
         <>
-            <br />
-            <h1 align="center" ><b> इतिहास विभाग</b> </h1>
-            <br /> 
+            <br/>
+            <h1 align="center" ><b> Department Of History </b> </h1>
+            <br/> 
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-xs-12   "> 
@@ -41,16 +41,16 @@ function History() {
                             <br />
 
                             <a class="list-group-item list-group-item-action active .listclass" id="list-home-list"
-                                data-toggle="list" href="../documents/history/fy.pdf" role="tab" aria-controls="home">F.Y.B.A Syllabus </a>
+                                data-toggle="list" href="https://drive.google.com/file/d/1bZu9wi70Ct2gZZkHAWPZN8EHfN9qMTSe/view?usp=sharing" role="tab" aria-controls="home">F.Y.B.A Syllabus </a>
 
                             <a class="list-group-item  list-group-item-action" id="list-profile-list" data-toggle="list"
-                                href="../documents/history/sy.pdf" role="tab" aria-controls="profile">S.Y.B.A Syllabus </a>
+                                href="https://drive.google.com/file/d/1xabc7uhrKYWHEMiNpcwTJVTjxRft596G/view?usp=sharing" role="tab" aria-controls="profile">S.Y.B.A Syllabus </a>
 
                             <a class="list-group-item active list-group-item-action" id="list-messages-list" data-toggle="list"
-                                href="../documents/history/ty.pdf" role="tab" aria-controls="messages"> T.Y.B.A Syllabus</a>
+                                href="https://drive.google.com/file/d/1ZSkypaGU6jOtDv0KPAbevX4PRmNbBDLU/view?usp=sharing" role="tab" aria-controls="messages"> T.Y.B.A Syllabus</a>
 
                             <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list"
-                                href="../documents/history/MA.pdf" role="tab" aria-controls="settings">M.A. 1st & 2nd Year All Semister Syllabus</a>
+                                href="https://drive.google.com/file/d/1DaJMTaYlllvs087aYRBG-kySz9vVJT4V/view?usp=sharing" role="tab" aria-controls="settings">M.A. 1st & 2nd Year All Semister Syllabus</a>
  
                         </div>
                     </div>

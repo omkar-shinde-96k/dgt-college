@@ -11,9 +11,9 @@ const Home = () => {
                     Mangaon Shikshan Prasarak Mandal, Mangaon and its President Adv. Rajivji Sable laid a foundation stone of higher education in Mangaon on 1993. It was time known as Arts’ Senior College. Later It named as D.G.Tatkare College on 10th January 2010.
                 </p> 
                 <div className="social-icons">
-                    <a href="tel:02140-263928" class="fa fa-phone"></a>
-                    <a href="#" class="fa fa-facebook-square"></a>
-                    <a href="#" class="fa fa-envelope"></a>
+                    <a href="tel:02140-263928" style={{color:"sky"}} class="fa fa-phone"></a>
+                    <a href="#" style={{color:"blue"}} class="fa fa-facebook-square"></a>
+                    <a href="#" style={{color:"red"}} class="fa fa-envelope"></a>
                 </div>
 
                 <div style={{ display: "flex", color: "white" }}>
@@ -24,14 +24,14 @@ const Home = () => {
             {/* //slider */} 
             <br/>
             {/* About */}
-            <div class="container-fluid">
-                <h3 class="title">
+            <div  class="container-fluid" data-aos="fade-right">
+                <h3 class="title" >
                     Principal message
                 </h3>
                 <div class="header">
                     <p><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
                 </div>
-                <div class="col-md-3 w3l_about_bottom_left"  >
+                <div  class="col-md-3 w3l_about_bottom_left"  >
                     <div class="team-grid" style={{ border: "1px solid black" }}>
                         <div class="  about-poleft t1">
                             <div class="about_img"><img src="images/t-staff/khamkar.jpg" height="100%" alt="" />
@@ -44,8 +44,8 @@ const Home = () => {
                         <div class="clearfix"></div>
                     </div>
                 </div>
-                <div class="col-md-9 " style={{ padding: "auto auto auto 20px", display: "flex", height: "100%", alignItems: "center", justifyContent: "center" }}>
-                    <p>
+                <div   class="col-md-9 " style={{ padding: "auto auto auto 20px", display: "flex", height: "100%", alignItems: "center", justifyContent: "center" }}>
+                    <p >
                         Man is not born, man is made. Making of the man is education. Higher education is third level education. Higher education is higher making of the man. Mangaon Shikshan Prasarak Mandal, Mangaon and its President Adv. Rajivji Sable laid a foundation stone of higher education in Mangaon on 1993. It is that time known as Arts’ Senior College. Later It is named as D.G.Tatkare College on 10th January 2010. At present the college caters Arts, Science, Commerce, Information Technology(IT) and Management  Course. The college is affiliated to University of Mumbai.
                         The college putting every effort to provide value based, quality based and activity oriented education. The qualified teaching staff and academic syllabus of University of Mumbai provides quality based education. National Social Services and Life Long Learning and extension like activities are for value based education. The Sport activity, Practicals, Computer courses, Vermicomposting, Dance & Drama like cultural activities orient the activity based education to students.
                         Nurturing the students to create a competent role models for the society by college organize essay, elocution, debate like activities. Seminars, Presentation, Viva-voce as regular part of higher education makes the student resourceful for facing the challenges of ever changing society. Malhar and Anand-Tarang are the great events to infuse versatility in the personality of the students. College honoured over one thousand trophies, mementoes to students ranked in academic and co- curricular activities. It motivates the Students to undertake responsibility connected to the chosen field. College organized four national seminars in Arts, Science, Commerce, IT, Management and Library sciences, students presented over hundred research papers in National Seminar. Research-innovation like activities offer intellectually stimulating environment in the campus.
@@ -55,7 +55,7 @@ const Home = () => {
             </div>
             <br/>
             <hr/>
-            <div class="container" >
+            <div class="container" data-aos="fade-up-right" >
                 <h3 class="title">
                     -About Us-
                 </h3>
@@ -113,7 +113,7 @@ const Home = () => {
                 </div>
                 <br></br>
                 <div class="Facility-row row">
-                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" >
+                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12"   data-aos="zoom-in" >
                         <div className="sub-facility">
                             <h2 align="center">Library</h2>
                             <div class="header">
@@ -126,7 +126,7 @@ const Home = () => {
                             </div>
                         </div>
                     </div>
-                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" >
+                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12"  data-aos="zoom-in" >
                         <div className="sub-facility">
                             <h2 align="center">Reading Room</h2>
                             <div class="header">
@@ -141,7 +141,7 @@ const Home = () => {
                         </div>
                     </div>
 
-                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" >
+                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12"   data-aos="zoom-in">
                         <div className="sub-facility">
                             <h2 align="center">Student Corner</h2>
                             <div class="header">
@@ -158,7 +158,7 @@ const Home = () => {
                 </div>
                 <br></br><br></br>
                 <div class="Facility-row row">
-                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" >
+                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12"   data-aos="zoom-in">
                         <div className="sub-facility">
                             <h2 align="center">Gymkhana</h2>
                             <div class="header">
@@ -171,7 +171,7 @@ const Home = () => {
                         </div> */}
                         </div>
                     </div>
-                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12"  data-aos="zoom-in">
                         <div className="sub-facility">
                             <h2 align="center">Reading room</h2>
                             <div class="header">
@@ -185,7 +185,7 @@ const Home = () => {
                         </div> */}
                         </div>
                     </div>
-                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" >
+                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" data-aos="zoom-in" >
                         <div className="sub-facility">
                             <h2 align="center">Multipurpose Hall</h2>
                             <div class="header">
@@ -206,7 +206,7 @@ const Home = () => {
             {/* Gallery  */}
             <hr />
 
-            <section class="portfolio-w3ls" id="gallery">
+            <section  class="portfolio-w3ls" id="gallery" data-aos="zoom-in">
                 <h3 class="title">
                     Our Gallery
                 </h3>
@@ -293,10 +293,10 @@ const Home = () => {
             <br /> <br />
 
             <div class="Facility-row ">
-                <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" >
+                <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" data-aos="zoom-in" >
                     <div className="sub-facility" style={{ display: "grid", placeItems: "center" }}>
                         <br />
-                        <h2 align="center"><i style={{ fontSize: "40px" }} class="fa fa-map-marker" aria-hidden="true"></i></h2>
+                        <h2 align="center"><i style={{ fontSize: "40px", color:"red"}} class="fa fa-map-marker" aria-hidden="true"></i></h2>
                         <br />
                         <p style={{ display: "flex", flexDirection: "column", height: "150px", placeItems: "center" }}>
                             <h3>Address</h3>
@@ -306,7 +306,7 @@ const Home = () => {
                         </p>
                     </div>
                 </div>
-                <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" >
+                <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" data-aos="zoom-in">
                     <div className="sub-facility" style={{ display: "grid", placeItems: "center" }}>
                         <br />
                         <h2 align="center">	<i style={{ fontSize: "40px" }} class="fa fa-mobile" aria-hidden="true"></i></h2>
@@ -318,10 +318,10 @@ const Home = () => {
                         </p>
                     </div>
                 </div>
-                <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" >
+                <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" data-aos="zoom-in">
                     <div className="sub-facility" style={{ display: "grid", placeItems: "center" }}>
                         <br />
-                        <h2 align="center"> <i style={{ fontSize: "40px" }} class="fa fa-envelope-o" aria-hidden="true"></i></h2>
+                        <h2 align="center"> <i style={{ fontSize: "40px",color:"red" }} class="fa fa-envelope-o" aria-hidden="true"></i></h2>
                         <br />
                         <p style={{ display: "flex", flexDirection: "column", height: "150px", placeItems: "center" }}>
                             <h3>Email</h3>

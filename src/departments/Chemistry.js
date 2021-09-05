@@ -214,16 +214,7 @@ function Chemistry() {
         {/* {{!-- our skilled teachers end --}} */}
 
 
-
-
-
-
-
-
-
-
-
-
+ 
 
         <h1 class="event-heading" align="center"><a>Events Of Chemistry Department</a> </h1> <br />
         <br />
@@ -283,7 +274,7 @@ function Chemistry() {
 
 
         <div class="events">
-          <h3 class="events-title" align="center"> <span> Science Day Celebration </span>-  2018-19 </h3> <br />
+          <h3 class="events-title" align="center"> <span> Science Day Celebration </span>- 2018-19 </h3> <br />
 
           <div class="row md-2 events-img">
 

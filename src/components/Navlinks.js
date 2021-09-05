@@ -46,11 +46,10 @@ const Navlinks = ({ toggle }) => {
                             <li>
                                 <NavLink onClick={toggle} to="/Geography">Geography</NavLink>
                             </li>
-
                         </ul>
                     </a>
-                    <NavLink onClick={toggle} to="/chemistry">BSc (Chemistry)</NavLink>
-                    <NavLink onClick={toggle} to="/bscit">Bsc IT</NavLink>
+                    <NavLink onClick={toggle} to="/chemistry">B.Sc (Chemistry)</NavLink>
+                    <NavLink onClick={toggle} to="/bscit#top">B.Sc IT</NavLink>
                     <NavLink onClick={toggle} to="/BMS">B.M.S</NavLink>
                     <NavLink onClick={toggle} to="/Bcom">B.com</NavLink>
 
@@ -70,7 +69,7 @@ const Navlinks = ({ toggle }) => {
                                 <NavLink onClick={toggle} to="/chemistry">M.Sc(Organic Chemistry)</NavLink>
                             </li>
                             <li>
-                                <NavLink onClick={toggle} to="/bscit">M.Sc I.T</NavLink>
+                                <NavLink onClick={toggle} to="/bscit#top">M.Sc I.T</NavLink>
                             </li> 
                         </ul>
                     </a> 

@@ -7,7 +7,8 @@ function Footer() {
     return (
         <>
             <hr/> 
-            <div class="footer" >
+            <div class="footer" data-aos="fade-up"
+     data-aos-duration="1000">
                 <div class="container">
                     <div class=" footer_grid_left">
                         <div class="col-md-3 col-xs-3  footer_grid_left1">
@@ -60,7 +61,7 @@ function Footer() {
                 </div>
                 <div class="copy_right">
                     <div class="container-fluid">
-                        <p>© 2021 DGTC. All rights reserved | Design by <a href="https://omkarshinde.vercel.app"><b style={{color:"blue"}}>Omkar Shinde</b></a></p>
+                        <p>© 2021 DGTC. All rights reserved | Design by <a target="_blank" href="https://omkarshinde.vercel.app"><b style={{color:"blue"}}>Omkar Shinde</b></a></p>
                     </div>
                 </div>
         </>
