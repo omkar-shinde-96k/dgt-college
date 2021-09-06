@@ -326,12 +326,20 @@ h3.title {
 }
 .sub-facility{
 	margin: 10px;
+
 }
  .Facility-row .facility .sub-facility{
 	box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.487),3px 3px 6px rgba(0, 0, 0, 0.419);
 	padding: 7px;
 	transition: 0.5s;
+
  } 
+ .facility-p{
+	min-height: 18rem !important;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+ }
 
  .sub-facility:hover{
 	 transform: scale(1.05);
@@ -517,31 +525,8 @@ text-align:center;
 	width: 90%;
 }
 /*-- footer --*/
-/* .agileits_twitter_post h4{
-	color: #212121;
-    position: relative;
-    padding-left: 2em;
-    font-size: 1.3em;
-    text-transform: capitalize;
-    letter-spacing: 2px;
-	font-weight:600;
-}
-.agileits_twitter_post h4 a{
-	color:#fa3d03;
-	text-decoration:none;
-	text-transform: initial;
-}
-.agileits_twitter_post h4 a:hover{
-	color:#212121;
-}
-.agileits_twitter_post h4:before{
-	content:"\f099";
-	color:#1da1f2;
-	font-family:FontAwesome;
-	position:absolute;
-	top:0%;
-	left:0%;
-} */
+
+
 .footer_grid_left {
     padding: 4em 0;
 }
@@ -894,11 +879,7 @@ text-align:center;
 		padding:0em 0;
 		margin-top: 2em;
 	}
-	/* .agileits_search {
-		width: 45%;
-		float: none;
-		margin: 0 auto;
-	}  */
+ 
 	.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
 		background:#ffb71c;
 	}

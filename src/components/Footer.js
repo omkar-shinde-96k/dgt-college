@@ -7,8 +7,7 @@ function Footer() {
     return (
         <>
             <hr/> 
-            <div class="footer" data-aos="fade-up"
-     data-aos-duration="1000">
+            <div class="footer"  >
                 <div class="container">
                     <div class=" footer_grid_left">
                         <div class="col-md-3 col-xs-3  footer_grid_left1">

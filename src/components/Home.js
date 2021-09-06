@@ -1,4 +1,5 @@
 import React from 'react'
+import { NavLink } from 'react-router-dom'
 
 const Home = () => {
     return (
@@ -37,7 +38,8 @@ const Home = () => {
                             <div class="about_img"><img src="images/t-staff/khamkar.jpg" height="100%" alt="" />
                                 <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}>Dr. B.M Khamkar </span><span style={{ fontSize: "15px" }}>Principal</span></h5>
                                 <div class="about_opa">
-                                    <p >Principal</p>
+                                    <p >Principal</p>lege Office:02140263928
+Principal : 9423203745/9075610653
                                 </div>
                             </div>
                         </div>
@@ -75,7 +77,7 @@ const Home = () => {
                         foundation stone of higher education in Mangaon on 1993. It was that time known as Arts’
                         Senior College. Later It is named as D.G.Tatkare College on 10th January 2010.</p>
                     <div class="container-fluid" style={{ display: "flex", marginTop: "50px" }}>
-                        <a href="#" class="mybtn " data-toggle="modal" data-target="#facilitymodal"><span>Read More</span></a>  &nbsp; &nbsp; &nbsp; &nbsp;
+                        <a href="#" class="mybtn " ><span>Read More</span></a>  &nbsp; &nbsp; &nbsp; &nbsp;
                         <a href="#contact" class="mybtn scroll" ><span >Contact Us</span></a>
                     </div>
                 </div>
@@ -112,90 +114,90 @@ const Home = () => {
                     <h3 class="title">  Our Facilities </h3>
                 </div>
                 <br></br>
-                <div class="Facility-row row">
-                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12"   data-aos="zoom-in" >
+                <div class="Facility-row row"  data-aos="zoom-in" >
+                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12"    >
                         <div className="sub-facility">
                             <h2 align="center">Library</h2>
                             <div class="header">
                                 <p ><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
                             </div>
-                            <p> It is enriched with books over 10,000; periodical over 17; daily news papers over 13. Library is with daily book issuing counter and reading room. In near future, the library will be equipped with e-issuing counter computers.
+                            <p className="facility-p"> It is enriched with books over 10,000; periodical over 17; daily news papers over 13. Library is with daily book issuing counter and reading room. In near future, the library will be equipped with e-issuing counter computers.
                             </p>
                             <div style={{ display: "flex", justifyContent: "center", margin: "20px 0" }}>
-                                <button className="mybtn" id="mybtn" data-toggle="modal" data-target="#facilitymodal">Learn More</button>
+                                <NavLink to="library" className="mybtn" id="mybtn" >Learn More</NavLink>
                             </div>
                         </div>
                     </div>
-                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12"  data-aos="zoom-in" >
+                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12"   >
                         <div className="sub-facility">
                             <h2 align="center">Reading Room</h2>
                             <div class="header">
                                 <p ><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
                             </div>
-                            <p>
+                            <p className="facility-p">
                                 Separate reading room is there at Terace. It is of about 150 student's capacity. Cool breeze of nature with natural light enhances environment for study. Reading room provides place to learn for students. It is added advantage to students for working hard to gain more in examinations.
                             </p>
-                            {/* <div style={{ display: "flex", justifyContent: "center" ,margin:"20px 0" }}>
+                            <div style={{ display: "flex", justifyContent: "center" ,margin:"20px 0" }}>
                             <button className="mybtn" id="mybtn">Learn More</button> 
-                        </div> */}
+                        </div>
                         </div>
                     </div>
 
-                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12"   data-aos="zoom-in">
+                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12"   >
                         <div className="sub-facility">
                             <h2 align="center">Student Corner</h2>
                             <div class="header">
                                 <p ><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
                             </div>
-                            <p>It is natural venue for students. Inside the college campus students can enjoy natural joy. It is 'SPACE' for students. The place is for dine, chit-chat, write the applications, to wait for friends, share the feelings, help to each other to build bond of friendship. It has lawn, natural roof, Drinking water facilities with water purifier, ample sitting arrangement with Notice Boards to keep update informed.
+                            <p className="facility-p" >It is natural venue for students. Inside the college campus students can enjoy natural joy. It is 'SPACE' for students. The place is for dine, chit-chat, write the applications, to wait for friends, share the feelings, help to each other to build bond of friendship. It has lawn, natural roof, Drinking water facilities with water purifier.
                             </p>
-                            {/* <div style={{ display: "flex", justifyContent: "center" ,margin:"20px 0" }}>
+                            <div style={{ display: "flex", justifyContent: "center" ,margin:"20px 0" }}>
                             <button className="mybtn" id="mybtn">Learn More</button> 
-                        </div> */}
+                        </div>
                         </div>
                     </div>
 
                 </div>
                 <br></br><br></br>
-                <div class="Facility-row row">
-                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12"   data-aos="zoom-in">
+                <div class="Facility-row row" data-aos="zoom-in" >
+                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12"   >
                         <div className="sub-facility">
                             <h2 align="center">Gymkhana</h2>
                             <div class="header">
                                 <p ><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
                             </div>
-                            <p>Gymnasium - Carrom board, Chess boards, Table tennis, Volley ball, badminton, physical exercise equipment are well maintained. Bat, balls, stumps, net and mat are for student to play cricket. On play ground, special grounds are maintained for kho-kho, kabbadi, volley ball, cricket pitch facilities are available.
+                            <p className="facility-p">Gymnasium - Carrom board, Chess boards, Table tennis, Volley ball, badminton, physical exercise equipment are well maintained. Bat, balls, stumps, net and mat are for student to play cricket. On play ground, special grounds are maintained for kho-kho, kabbadi, volley ball, cricket pitch facilities are available.
                             </p>
-                            {/* <div style={{ display: "flex", justifyContent: "center" ,margin:"20px 0" }}>
-                            <button className="mybtn" id="mybtn" data-toggle="modal" data-target="#facilitymodal">Learn More</button>
-                        </div> */}
+                            <div style={{ display: "flex", justifyContent: "center" ,margin:"20px 0" }}>
+                            <button className="mybtn" id="mybtn" >Learn More</button>
+                        </div>
                         </div>
                     </div>
-                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12"  data-aos="zoom-in">
+                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12"  >
                         <div className="sub-facility">
                             <h2 align="center">Reading room</h2>
                             <div class="header">
                                 <p ><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
                             </div>
-                            <p>
+                            <p className="facility-p">
                                 Separate reading room is there at Terace. It is of about 150 student's capacity. Cool breeze of nature with natural light enhances environment for study. Reading room provides place to learn for students. It is added advantage to students for working hard to gain more in examinations.
                             </p>
-                            {/* <div style={{ display: "flex", justifyContent: "center" ,margin:"20px 0" }}>
+                            <div style={{ display: "flex", justifyContent: "center" ,margin:"20px 0" }}>
                             <button className="mybtn" id="mybtn">Learn More</button> 
-                        </div> */}
+                        </div>
                         </div>
                     </div>
-                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" data-aos="zoom-in" >
+                    <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12"  >
                         <div className="sub-facility">
                             <h2 align="center">Multipurpose Hall</h2>
                             <div class="header">
                                 <p ><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
                             </div>
-                            <p>It has over 250 sitting capacity Hall. It is airy with ample windows and fans. The decoraive backdrop, dice, podium are added advantage. It has LCD projector as added advantage. It has LCD projector as advanced teaching aids for students. Built in sound and light system, POP designed ceilling make elligant look of multipurpose hall.
+                            <p className="facility-p">It has over 250 sitting capacity Hall. It is airy with ample windows and fans. The decoraive backdrop, dice, podium are added advantage. It has LCD projector as added advantage. It has LCD projector as advanced teaching aids for students. Built in sound and light system, POP designed ceilling make elligant look of multipurpose hall.
                             </p>
-                            {/* <div style={{ display: "flex", justifyContent: "center" ,margin:"20px 0" }}>
+                            <div style={{ display: "flex", justifyContent: "center" ,margin:"20px 0" }}>
                             <button className="mybtn" id="mybtn">Learn More</button> 
-                        </div> */}
+                        </div>
                         </div>
                     </div>
 
@@ -292,8 +294,8 @@ const Home = () => {
             {/* // contact  */}
             <br /> <br />
 
-            <div class="Facility-row ">
-                <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" data-aos="zoom-in" >
+            <div class="Facility-row " data-aos="zoom-in" >
+                <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12"  >
                     <div className="sub-facility" style={{ display: "grid", placeItems: "center" }}>
                         <br />
                         <h2 align="center"><i style={{ fontSize: "40px", color:"red"}} class="fa fa-map-marker" aria-hidden="true"></i></h2>
@@ -306,7 +308,7 @@ const Home = () => {
                         </p>
                     </div>
                 </div>
-                <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" data-aos="zoom-in">
+                <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" >
                     <div className="sub-facility" style={{ display: "grid", placeItems: "center" }}>
                         <br />
                         <h2 align="center">	<i style={{ fontSize: "40px" }} class="fa fa-mobile" aria-hidden="true"></i></h2>
@@ -318,7 +320,7 @@ const Home = () => {
                         </p>
                     </div>
                 </div>
-                <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" data-aos="zoom-in">
+                <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" >
                     <div className="sub-facility" style={{ display: "grid", placeItems: "center" }}>
                         <br />
                         <h2 align="center"> <i style={{ fontSize: "40px",color:"red" }} class="fa fa-envelope-o" aria-hidden="true"></i></h2>
