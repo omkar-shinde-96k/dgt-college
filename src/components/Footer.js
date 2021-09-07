@@ -60,7 +60,7 @@ function Footer() {
                 </div>
                 <div class="copy_right">
                     <div class="container-fluid">
-                        <p>© 2021 DGTC. All rights reserved | Design by <a target="_blank" href="https://omkarshinde.vercel.app"><b style={{color:"blue"}}>Omkar Shinde</b></a></p>
+                        <p>© 2021 DGTC. All rights reserved | Design by <a target="_blank" href="https://hanzalakathewadi.herokuapp.com/"><b style={{color:"blue"}}>Hanzala Kathewadi</b></a></p>
                     </div>
                 </div>
         </>
