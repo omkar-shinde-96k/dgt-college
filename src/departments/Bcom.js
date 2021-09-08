@@ -52,7 +52,7 @@ The Department has the pride of being one of the best departments in our college
                 href="https://drive.google.com/file/d/1JAWwDXv3avQe2bXKasEGEOaWyrNvg_79/view?usp=sharing" role="tab" aria-controls="profile">S.Y. Bcom Syllabus </a>
 
               <a class="list-group-item active list-group-item-action text-center" id="list-messages-list" data-toggle="list"
-                href="../documents/bms/tybms.pdf" role="tab" aria-controls="messages"> T.Y. Bcom Syllabus</a>
+                href="https://drive.google.com/file/d/1ViFci40ZJzNg9Lfu-CrJgRzIOmgo9DEG/view?usp=sharing" role="tab" aria-controls="messages"> T.Y. Bcom Syllabus</a>
 
             </div>
           </div>
