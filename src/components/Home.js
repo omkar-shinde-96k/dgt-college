@@ -50,12 +50,12 @@ const Home = () => {
   
                 <h1  >Welcome to our college</h1>
                 <p >
-                    Mangaon Shikshan Prasarak Mandal, Mangaon and its President Adv. Rajivji Sable laid the foundation stone of higher education in Mangaon on 1993. It was that time known as Arts’ Senior College. Later It was named as D.G.Tatkare College on 10th January 2010.
+                <span  style={{fontSize:"5rem",float:"left",textShadow:"none", margin: "1.2rem .2em 0.3rem 0",color:"orange"}}>M</span>angaon Shikshan Prasarak Mandal, Mangaon and its President Adv. Rajivji Sable laid the foundation stone of higher education in Mangaon on 1993. It was that time known as Arts’ Senior College. Later It was named as D.G.Tatkare College on 10th January 2010.
                 </p>
                 <div className="social-icons">
                     <a href="tel:02140-263928" style={{ color: "sky" }} class="fa fa-phone"></a>
                     <a href="#" style={{ color: "blue" }} class="fa fa-facebook-square"></a>
-                    <a href="#" style={{ color: "red" }} class="fa fa-envelope"></a>
+                    <a href="mailto:mspmmangaonseniorcollege@gmail.com" style={{ color: "red" }} class="fa fa-envelope"></a>
                 </div>
 
                 <div style={{ display: "flex", color: "white" }}>
@@ -89,7 +89,7 @@ const Home = () => {
                 </div>
                 <div class="col-md-9 " style={{ padding: "auto auto auto 20px", display: "flex", height: "100%", alignItems: "center", justifyContent: "center" }}>
                     <p >
-                        Man is not born, man is made. Making of the man is education. Higher education is third level education. Higher education is higher making of the man. Mangaon Shikshan Prasarak Mandal, Mangaon and its President Adv. Rajivji Sable laid a foundation stone of higher education in Mangaon on 1993. It is that time known as Arts’ Senior College. Later It is named as D.G.Tatkare College on 10th January 2010. At present the college caters Arts, Science, Commerce, Information Technology(IT) and Management  Course. The college is affiliated to University of Mumbai.
+                        <span  style={{fontSize:"5rem",float:"left", margin: "1.2rem .2em 0.3rem 0",color:"orange"}}>M</span>an is not born, man is made. Making of the man is education. Higher education is third level education. Higher education is higher making of the man. Mangaon Shikshan Prasarak Mandal, Mangaon and its President Adv. Rajivji Sable laid a foundation stone of higher education in Mangaon on 1993. It is that time known as Arts’ Senior College. Later It is named as D.G.Tatkare College on 10th January 2010. At present the college caters Arts, Science, Commerce, Information Technology(IT) and Management  Course. The college is affiliated to University of Mumbai.
                         The college putting every effort to provide value based, quality based and activity oriented education. The qualified teaching staff and academic syllabus of University of Mumbai provides quality based education. National Social Services and Life Long Learning and extension like activities are for value based education. The Sport activity, Practicals, Computer courses, Vermicomposting, Dance & Drama like cultural activities orient the activity based education to students.
                         Nurturing the students to create a competent role models for the society by college organize essay, elocution, debate like activities. Seminars, Presentation, Viva-voce as regular part of higher education makes the student resourceful for facing the challenges of ever changing society. Malhar and Anand-Tarang are the great events to infuse versatility in the personality of the students. College honoured over one thousand trophies, mementoes to students ranked in academic and co- curricular activities. It motivates the Students to undertake responsibility connected to the chosen field. College organized four national seminars in Arts, Science, Commerce, IT, Management and Library sciences, students presented over hundred research papers in National Seminar. Research-innovation like activities offer intellectually stimulating environment in the campus.
                     </p>
@@ -108,18 +108,18 @@ const Home = () => {
                 <div class="col-md-6 w3l_about_bottom_left"  >
                     <div class="video-grid-single-page-agileits">
                         <div data-video="kmKlYMBiwXk" allowfullscreen id="video"> <img
-                            src="images/clg-front-view/4.jpg" alt="" class="img-responsive"
+                            src="images/clg-front-view/4.jpg" alt="" className="img-responsive"
                             style={{ width: "100%", height: "100%" }} /> </div>
                     </div>
                 </div>
                 <div class="col-md-5 " style={{ padding: "35px 0px 0px 20px" }}>
                     <h3 class="text-warning">Welcome to Our College</h3>
-                    <p> Mangaon Shikshan Prasarak Mandal, Mangaon and its President Adv. Rajivji Sable laid a
+                    <p> <span  style={{fontSize:"6rem",float:"left", margin: "1.2rem .2em 0.3rem 0",color:"orange"}}>M</span>angaon Shikshan Prasarak Mandal, Mangaon and its President Adv. Rajivji Sable laid a
                         foundation stone of higher education in Mangaon on 1993. It was that time known as Arts’
                         Senior College. Later It is named as D.G.Tatkare College on 10th January 2010.</p>
                     <div class="container-fluid" style={{ display: "flex", marginTop: "50px" }}>
                         <a href="#" class="mybtn " ><span><NavLink to="/aboutsansta">Read More </NavLink></span></a>  &nbsp; &nbsp; &nbsp; &nbsp;
-                        <a href="#contact" class="mybtn scroll" ><span >Contact Us</span></a>
+                        <a href="#contact" className="front-btn mybtn scroll" ><span >Contact Us</span></a>
                     </div>
                 </div>
                 <div class="clearfix"> </div>
@@ -130,7 +130,7 @@ const Home = () => {
                         <div class="modal-dialog" role="document">
                             <div class="modal-content">
                                 <div class="modal-header">
-                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">close</button>
+                                    <button type="button" className="close" data-dismiss="modal" aria-label="Close">close</button>
                                 </div>
                                 <div class="modal-body">
                                     <img src="images/dgtc.PNG"></img>
@@ -165,7 +165,7 @@ const Home = () => {
                             <p className="facility-p"> It is enriched with books over 10,000; periodical over 17; daily news papers over 13. Library is with daily book issuing counter and reading room. In near future, the library will be equipped with e-issuing counter computers.
                             </p>
                             <div style={{ display: "flex", justifyContent: "center", margin: "20px 0" }}>
-                                <NavLink to="library" className="mybtn" id="mybtn" >Learn More</NavLink>
+                                <NavLink to="library" style={{color:"white",borderColor:"white"}}  className="mybtn" id="mybtn" >Learn More</NavLink>
                             </div>
                         </div>
                     </div>
@@ -179,7 +179,7 @@ const Home = () => {
                                 Separate reading room is there at Terace. It is of about 150 student's capacity. Cool breeze of nature with natural light enhances environment for study. Reading room provides place to learn for students. It is added advantage to students for working hard to gain more in examinations.
                             </p>
                             <div style={{ display: "flex", justifyContent: "center", margin: "20px 0" }}>
-                                <button className="mybtn" id="mybtn">Learn More</button>
+                                <button className="mybtn" style={{color:"white",borderColor:"white"}}  id="mybtn">Learn More</button>
                             </div>
                         </div>
                     </div>
@@ -193,7 +193,7 @@ const Home = () => {
                             <p className="facility-p" >It is natural venue for students. Inside the college campus students can enjoy natural joy. It is 'SPACE' for students. The place is for dine, chit-chat, write the applications, to wait for friends, share the feelings, help to each other to build bond of friendship. It has lawn, natural roof, Drinking water facilities with water purifier.
                             </p>
                             <div style={{ display: "flex", justifyContent: "center", margin: "20px 0" }}>
-                                <button className="mybtn" id="mybtn">Learn More</button>
+                                <button className="mybtn" style={{color:"white",borderColor:"white"}}  id="mybtn">Learn More</button>
                             </div>
                         </div>
                     </div>
@@ -210,7 +210,7 @@ const Home = () => {
                             <p className="facility-p">Gymnasium - Carrom board, Chess boards, Table tennis, Volley ball, badminton, physical exercise equipment are well maintained. Bat, balls, stumps, net and mat are for student to play cricket. On play ground, special grounds are maintained for kho-kho, kabbadi, volley ball, cricket pitch facilities are available.
                             </p>
                             <div style={{ display: "flex", justifyContent: "center", margin: "20px 0" }}>
-                                <button className="mybtn" id="mybtn" >Learn More</button>
+                                <button className="mybtn" id="mybtn" style={{color:"white",borderColor:"white"}} >Learn More</button>
                             </div>
                         </div>
                     </div>
@@ -224,7 +224,7 @@ const Home = () => {
                                 Separate reading room is there at Terace. It is of about 150 student's capacity. Cool breeze of nature with natural light enhances environment for study. Reading room provides place to learn for students. It is added advantage to students for working hard to gain more in examinations.
                             </p>
                             <div style={{ display: "flex", justifyContent: "center", margin: "20px 0" }}>
-                                <button className="mybtn" id="mybtn">Learn More</button>
+                                <button className="mybtn" style={{color:"white",borderColor:"white"}}  id="mybtn">Learn More</button>
                             </div>
                         </div>
                     </div>
@@ -237,7 +237,7 @@ const Home = () => {
                             <p className="facility-p">It has over 250 sitting capacity Hall. It is airy with ample windows and fans. The decoraive backdrop, dice, podium are added advantage. It has LCD projector as added advantage. It has LCD projector as advanced teaching aids for students. Built in sound and light system, POP designed ceilling make elligant look of multipurpose hall.
                             </p>
                             <div style={{ display: "flex", justifyContent: "center", margin: "20px 0" }}>
-                                <button className="mybtn" id="mybtn">Learn More</button>
+                                <button className="mybtn" style={{color:"white",borderColor:"white"}}  id="mybtn">Learn More</button>
                             </div>
                         </div>
                     </div>
@@ -337,22 +337,22 @@ const Home = () => {
 
             <div class="Facility-row " data-aos="zoom-in" >
                 <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12"  >
-                    <div className="sub-facility" style={{ display: "grid", placeItems: "center" }}>
-                        <br />
-                        <h2 align="center"><i style={{ fontSize: "40px", color: "red" }} class="fa fa-map-marker" aria-hidden="true"></i></h2>
+                    <div className="sub-facility" style={{background:"none" , display: "grid", placeItems: "center" }}>
+                        <br/>
+                        <h2 align="center"><i style={{ fontSize: "40px", color: "orange" }} class="fa fa-map-marker" aria-hidden="true"></i></h2>
                         <br />
                         <p style={{ display: "flex", flexDirection: "column", height: "150px", placeItems: "center" }}>
                             <h3>Address</h3>
                             <br />
-                            <p>Near District Cort, </p>
-                            <p>Old Mangaon,Raidad Maharastra 402104,</p>
+                            <p>Near District Cort - Old Mangaon, </p>
+                            <p>Raigad,Maharastra 402104,</p>
                         </p>
                     </div>
                 </div>
                 <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" >
-                    <div className="sub-facility" style={{ display: "grid", placeItems: "center" }}>
+                    <div className="sub-facility" style={{ display: "grid", placeItems: "center",background:"none" }}>
                         <br />
-                        <h2 align="center">	<i style={{ fontSize: "40px" }} class="fa fa-mobile" aria-hidden="true"></i></h2>
+                        <h2 align="center">	<i style={{ fontSize: "40px", color:"blueviolet" }} class="fa fa-mobile" aria-hidden="true"></i></h2>
                         <br />
                         <p style={{ display: "flex", flexDirection: "column", height: "150px", placeItems: "center" }}>
                             <h3>Phone</h3>
@@ -363,7 +363,7 @@ const Home = () => {
                     </div>
                 </div>
                 <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" >
-                    <div className="sub-facility" style={{ display: "grid", placeItems: "center" }}>
+                    <div className="sub-facility" style={{background:"none" , display: "grid", placeItems: "center" }}>
                         <br />
                         <h2 align="center"> <i style={{ fontSize: "40px", color: "red" }} class="fa fa-envelope-o" aria-hidden="true"></i></h2>
                         <br />

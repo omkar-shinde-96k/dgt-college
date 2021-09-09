@@ -18,7 +18,7 @@ function Footer() {
                         <div class="col-md-3 col-xs-3  footer_grid_left1">
                             <h4>Navigation</h4>
                             <ul>
-                                <li><i class="fa fa-angle-double-right" aria-hidden="true"></i><a><NavLink to="/">Home</NavLink></a></li>
+                                <li><i class="fa fa-angle-double-right primary" aria-hidden="true"></i><a><NavLink to="/">Home</NavLink></a></li>
  
                                 <li><i class="fa fa-angle-double-right" aria-hidden="true"></i><a><NavLink to="/chemistry">Bsc Chemistry</NavLink></a></li>
                                 <li><i class="fa fa-angle-double-right" aria-hidden="true"></i><a><NavLink to="/bscit#">Bsc IT</NavLink></a></li>

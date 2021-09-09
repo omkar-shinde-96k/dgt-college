@@ -13,7 +13,7 @@ const AboutSansta = () => {
                 <h5>EARLY DAYS OF 1950:</h5>
                 <br />
                 <p>
-                In those days, Mangaon was a small village. Its population was about 3000. A quiet
+                <span  style={{fontSize:"5rem",float:"left", margin: "1.2rem .2em 0.3rem 0",color:"orange"}}>I</span>n those days, Mangaon was a small village. Its population was about 3000. A quiet
                 village just along the main road. The main business was farming. It was post
                 independence era. Education was treated as hard nut to shell, milk of tigress who is
                 brave to have it.Education institutes were treated as social mission. sacred place of knowledge godess.
@@ -23,7 +23,7 @@ const AboutSansta = () => {
                 to meet daily needs.</p>
                 <br /><br />
                 <h4>EDUCATIONAL SCENARIO OF MANGAON IN EARLY 1950</h4><br />
-                <p> There was only Local Board Primary School in Mangaon. It was upto fourth standard.
+                <p> <span  style={{fontSize:"5rem",float:"left", margin: "1.2rem .2em 0.3rem 0",color:"orange"}}>T</span>here was only Local Board Primary School in Mangaon. It was upto fourth standard.
                 Aspirants has to go to Goregaon or Morba for high school. There was no high school in
                 Mangaon.
                 Mangaonians were and are hard worker. sincere and excited to achieve high goals. In
@@ -31,7 +31,7 @@ const AboutSansta = () => {
                 <br /><br />
 
                 <h4> EDUCATION SUN RISES - THE MSPM :</h4><br />
-                <p>The trust of education increased. Many more aspirants seek interest for high school
+                <p><span  style={{fontSize:"5rem",float:"left", margin: "1.2rem .2em 0.3rem 0",color:"orange"}}>T</span>he trust of education increased. Many more aspirants seek interest for high school
                 education. In those days Bran (Food), Yarn (Cloth) and Ashiyan (house) were first
                 priority. Learn (Education) was never on first need side.
                 However, the basic essence of education was waved, increased. Mangaonians felt the
@@ -44,7 +44,7 @@ const AboutSansta = () => {
                 first ray of education sun in Mangaon horizon.<br /><br />
                 <h4>ESTABLISHMENT OF MANGAON SHIKSHAN PRASARAK MANDAL,
                     MANGAON :</h4><br />
-                Dr. Dhansay and Adv. Kelkar along with Ganpat Balkrushna Gandhi, Anant Keshav
+                    <span  style={{fontSize:"5rem",float:"left", margin: "1.2rem .2em 0.3rem 0",color:"orange"}}>D</span>r. Dhansay and Adv. Kelkar along with Ganpat Balkrushna Gandhi, Anant Keshav
                 Mauskar, Dhanaji Doluchand Doshi. Motiram Pitambar Gandhi. Vithal Namdev Sali.
                 Lalji Metha. Yashwant B. Vedpathak were laid foundation stone of Mangaon Shikshan
                 Prasarak Mandal. It&#39;s logo is ‘Character of human is his ornament, pride, prestige.&#39; Mangaon

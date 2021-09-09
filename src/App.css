@@ -23,7 +23,7 @@ body{
 	background:#fff;
 	position:relative;
 	font-family: 'Nunito', sans-serif;
-	scroll-behavior: smooth;
+	scroll-behavior: smooth !important;
 }
 body a{
     transition:0.5s all;
@@ -203,15 +203,17 @@ div#bs-example-navbar-collapse-1 {
   .main h1{ 
 	color: white;   
 	font-size: 40px;
+	text-shadow: 0px 0px 5px blue, 0px 0px 5px violet, 0px 0px 5px blue;
   } 
   .main p{
 	max-width: 750px;  
-	color:white;
+	color:#fff;
 	font-weight: bold;
-	text-shadow: 0px 0px 15px black, 0px 0px 15px black, 0px 0px 15px black;
+	text-shadow: 0px 0px 5px blue, 0px 0px 5px violet, 0px 0px 5px blue;
 	margin: 20px 20px 20px 0px;
   }
   .social-icons a{ 
+
 	font-size: 30px;
 	margin: 40px 10px  ; 
 	background: #ffffff;
@@ -222,9 +224,14 @@ div#bs-example-navbar-collapse-1 {
 	text-decoration: none;   
 	box-shadow: inset -2px -2px 5px rgba(0, 0, 0, 0.72),inset 3px 3px 5px rgb(255, 255, 255),inset 3px 3px 5px white,inset 3px 3px 10px white;
 	transition:0.3s; 
+	
   } 
   .social-icons a:hover{
 	transform: scale(1.2);
+  }
+
+  .front-btn{
+	box-shadow: 0px 0px 5px blue, 0px 0px 5px violet, 0px 0px 5px blue;
   }
 
 
@@ -335,10 +342,21 @@ h3.title {
 /*-- services / facility --*/  
 .facility , .sub-facility{
 	border-radius: 5px;
+	
 }
-.sub-facility{
-	margin: 10px;
-
+.sub-facility {
+	margin: 10px; 
+	background:linear-gradient(145deg,rgba(0, 0, 0, 0.193),rgba(0, 0, 0, 0.459)),url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKkBXQpzeRAzYYybj5Z_enXuKbyPQfjYYR8A&usqp=CAU'); 
+	background-repeat: no-repeat, repeat;
+	background-size: cover;
+}
+.sub-facility:hover{
+	background:linear-gradient(145deg,rgba(0, 0, 0, 0.815),rgba(0, 0, 0, 0.459)),url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKkBXQpzeRAzYYybj5Z_enXuKbyPQfjYYR8A&usqp=CAU'); 
+	background-repeat: no-repeat, repeat;
+	background-size: cover;
+}
+.sub-facility h2{ 
+	color: white;
 }
  .Facility-row .facility .sub-facility{
 	box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.487),3px 3px 6px rgba(0, 0, 0, 0.419);
@@ -350,7 +368,8 @@ h3.title {
 	min-height: 18rem !important;
 	display: flex;
 	align-items: center;
-	justify-content: center;
+	justify-content: center; 
+	color: white;
  }
 
  .sub-facility:hover{
@@ -538,7 +557,13 @@ text-align:center;
 }
 /*-- footer --*/
 
+/* .footer{
 
+
+} */
+
+
+ 
 .footer_grid_left {
     padding: 4em 0;
 }
@@ -550,7 +575,7 @@ text-align:center;
     position: relative;
     padding-bottom: .5em;
     margin-bottom: 1.5em;
-    letter-spacing: 1px;
+    letter-spacing: 1px; 
 }
 .footer_grid_left1 h4:after{	
 	content: '';
@@ -559,27 +584,27 @@ text-align:center;
     width: 20%;
     position: absolute;
     bottom: 0%;
-    left: 0%;
+    left: 0%; 
 }
 .footer_grid_left1 p{
 	color:#999;
-	line-height:2em;
+	line-height:2em; 
 }
 .footer_grid_left1 ul li {
     list-style-type: none;
     color: #ffb71c;
     margin-bottom: 1em;
-    letter-spacing: 1px;
+    letter-spacing: 1px; 
 }
 .footer_grid_left1 ul li i{
-	padding-right:1em;
+	padding-right:1em; 
 }
 .footer_grid_left1 ul li:last-child,.footer_grid_right1 ul li:last-child{
 	margin:0;
 }
 .footer_grid_left1 ul li a,.footer_grid_right1 ul li a{
 	color:#212121;
-	text-decoration:none;
+	text-decoration:none; 
 }
 .footer_grid_left1 ul li a:hover{
 	color:#ffb71c;
@@ -615,6 +640,7 @@ text-align:center;
 	background:-moz-linear-gradient(#ffd985,#e69f06);
 	background:-ms-linear-gradient(#ffd985,#e69f06);
     background: linear-gradient(to right bottom,#ffd985,#e69f06);
+	background: rgb(0, 110, 255) !important;
 }
 .copy_right p {
     color: #fff;
@@ -656,7 +682,14 @@ text-align:center;
 	filter: alpha(opacity=0);
 }
 /*-- //to-top --*/ 
-
+@media(min-width: 995px){
+	.footer{
+	    background: linear-gradient(150deg, rgba(0, 0, 255, 0.842) , rgb(124, 0, 182));
+	}
+		.footer_grid_left1 h4,.footer_grid_left1 ul li ,.footer_grid_left1 ul li a,.footer_grid_left1 p{
+			color:white;
+		} 
+}
 /*--responsive--*/
 
 @media(max-width: 1680px){
@@ -1083,10 +1116,10 @@ text-align:center;
 	.contact-top1 {
 		padding: 2.5em 1em 3em;
 	}
-	#map {
+	/* #map {
 		height: 330px;
 		width: 100%;
-	}
+	} */
 	.fb_icons2 li a {
 		width: 22px;
 		height: 22px;
@@ -1296,8 +1329,11 @@ text-align:center;
 	   justify-content: center;
 	   align-items: center;
 	   margin: 0;
-	   padding: 0
- } 
+	   padding: 0;
+	
+	   
+ }  
+
  .facility-img img {
 	   height: 100%;
 	   width: 50%;

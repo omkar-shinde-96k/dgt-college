@@ -32,16 +32,16 @@ function Tstaff() {
 
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
                             <div class="about_img"><img src="images/t-staff/Pandey.jpg" height="100%" alt="" />
-                                <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}> Asst. Pro. Jayshankar Pandey </span><span style={{ fontSize: "15px" }}>IQAC-Coordinator</span></h5>
+                                <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}> Asst. Pro. Jayshankar Pandey </span><span style={{ fontSize: "15px" }}>HOD (Hindi Department )</span></h5>
                                 <div class="about_opa">
-                                    <p >HOD - Hindi Department</p>
+                                    <p >HOD (Hindi Department )</p>
                                 </div>
                             </div>
                         </div>
  
                         <div class="clearfix"></div>
                     </div>
-
+<br/>
                     <div class="team-w3l-grid grid-2-team">
 
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
@@ -72,7 +72,7 @@ function Tstaff() {
                         </div>
                         <div class="clearfix"></div>
                     </div>
-
+<br/>
                     
                     <div class="team-w3l-grid grid-2-team">
                         
@@ -104,7 +104,7 @@ function Tstaff() {
                         </div> 
                         <div class="clearfix"></div>
                     </div>
-
+                    <br/>
                     <div class="team-w3l-grid grid-2-team">
                         
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
@@ -137,7 +137,7 @@ function Tstaff() {
                         <div class="clearfix"></div>
                     </div>
 
-
+                    <br/>
                     <div class="team-w3l-grid grid-2-team">
                         
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
@@ -169,7 +169,7 @@ function Tstaff() {
                         
                         <div class="clearfix"></div>
                     </div>
-
+                    <br/>
 
                     <div class="team-w3l-grid grid-2-team">
                         
@@ -202,7 +202,7 @@ function Tstaff() {
                         
                         <div class="clearfix"></div>
                     </div>
-
+                    <br/>
 
                     <div class="team-w3l-grid grid-2-team">
                         
@@ -235,6 +235,7 @@ function Tstaff() {
                         
                         <div class="clearfix"></div>
                     </div>
+                    <br/>
                     <div class="team-w3l-grid grid-2-team">
                         
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
@@ -266,6 +267,7 @@ function Tstaff() {
                         
                         <div class="clearfix"></div>
                     </div>
+                    <br/>
                     <div class="team-w3l-grid grid-2-team">
                         
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
@@ -297,6 +299,7 @@ function Tstaff() {
                         
                         <div class="clearfix"></div>
                     </div>
+                    <br/>
                     <div class="team-w3l-grid grid-2-team">
                         
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
@@ -328,6 +331,7 @@ function Tstaff() {
                         
                         <div class="clearfix"></div>
                     </div>
+                    <br/>
                     <div class="team-w3l-grid grid-2-team">
                         
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
@@ -359,6 +363,7 @@ function Tstaff() {
                         
                         <div class="clearfix"></div>
                     </div>
+                    <br/>
                     {/* <div class="team-w3l-grid grid-2-team">
                         
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">

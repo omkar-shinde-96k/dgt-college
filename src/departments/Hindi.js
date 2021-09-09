@@ -11,7 +11,7 @@ function Hindi() {
                             <div class="team-w3l-grid" style={{border:"1px solid black"}}>
                                 <div class="  about-poleft t1">
                                     <div class="about_img"><img src="images/t-staff/Pandey.jpg" height="100%" alt="" />
-                                        <h5 style={{lineHeight:"20px"}}> <span style={{fontSize:"20px",marginTop:"10px"}}>पाण्डेय जे.आर. </span><span style={{fontSize:"15px"}}>HOD of Hindi</span></h5>
+                                        <h5 style={{lineHeight:"20px"}}> <span style={{fontSize:"20px",marginTop:"10px"}}>पाण्डेय जे.आर. </span><span style={{fontSize:"15px"}}>हिन्दी विभागाध्यक्ष</span></h5>
                                         <div class="about_opa">
                                             <p > HOD of Hindi Department</p>
                                         </div>
