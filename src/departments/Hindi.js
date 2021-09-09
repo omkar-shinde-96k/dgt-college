@@ -57,7 +57,7 @@ function Hindi() {
                             <br />
 
                             <a class="list-group-item list-group-item-action active .listclass" id="list-home-list"
-                                data-toggle="list" href="../documents/hindi/fyba.pdf" role="tab" aria-controls="home">F.Y.B.A
+                                data-toggle="list" href="../documents/hindi/fyba2.pdf" role="tab" aria-controls="home">F.Y.B.A
                                 Syllabus </a>
 
                             <a class="list-group-item  list-group-item-action" id="list-profile-list" data-toggle="list"

@@ -52,6 +52,10 @@ const TimeTable = loadable({
   loader: () => import("./other-compo/TimeTables"),
   loading: () => <> <Loadingtwo /> </>
 }) 
+const ssr = loadable({
+  loader: () => import("./naac/ssr"),
+  loading: () => <> <Loadingtwo /> </>
+})
 const Naac = loadable({
   loader: () => import("./other-compo/Naac"),
   loading: () => <> <Loadingtwo /> </>
@@ -143,6 +147,7 @@ const ToggleHandler=()=>{
           <Route path='/library-schedule' component={TimeTable} />
           <Route path='/examination-schedule' component={TimeTable} /> 
           <Route path='/naac' component={Naac} />
+          <Route path='/ssr' component={ssr} />
           <Route path='/nss' component={Nss} />
 
           <Route path='/aboutsansta' component={AboutSansta} />
