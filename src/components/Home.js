@@ -114,7 +114,7 @@ const Home = () => {
                 </div>
                 <div class="col-md-5 " style={{ padding: "35px 0px 0px 20px" }}>
                     <h3 class="text-warning">Welcome to Our College</h3>
-                    <p> <span  style={{fontSize:"6rem",float:"left", margin: "1.2rem .2em 0.3rem 0",color:"orange"}}>M</span>angaon Shikshan Prasarak Mandal, Mangaon and its President Adv. Rajivji Sable laid a
+                    <p> <span  style={{fontSize:"5rem",float:"left", margin: "1.2rem .2em 0.3rem 0",color:"orange"}}>M</span>angaon Shikshan Prasarak Mandal, Mangaon and its President Adv. Rajivji Sable laid a
                         foundation stone of higher education in Mangaon on 1993. It was that time known as Arts’
                         Senior College. Later It is named as D.G.Tatkare College on 10th January 2010.</p>
                     <div class="container-fluid" style={{ display: "flex", marginTop: "50px" }}>

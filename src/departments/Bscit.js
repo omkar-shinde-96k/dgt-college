@@ -3,7 +3,7 @@ function Bscit() {
     return (
         <>
         <br/>
-            <h1 align="center"><b>Department Of Information technology</b> </h1>
+            <h1 id="top" align="center"><b>Department Of Information technology</b> </h1>
             <br />
             <div class="container">
                 <p>

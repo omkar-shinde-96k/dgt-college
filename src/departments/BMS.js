@@ -6,12 +6,11 @@ function BMS() {
             <h1 align="center"><b> Welcome To BMS Department</b> </h1>
             <br />
 
-            <div class="container">
-
+            <div class="container"> 
 
                 <h2> Introduction:</h2>
                 <p>
-                    The accelerated pace and global scope of business today has made it extremely crucial for educational
+                <span  style={{fontSize:"5rem",float:"left",textShadow:"none", margin: "1.2rem .2em 0.3rem 0",color:"orange"}}>T</span>he accelerated pace and global scope of business today has made it extremely crucial for educational
                     institutions to churn out those students who are leaders, who have mastered the latest concepts and
                     practices and are also self-assured individuals, willing to take on any challenge in life. Until now,
                     management programmes were imparted to graduate students from any stream. That is until the Bachelor of
@@ -79,10 +78,10 @@ function BMS() {
                 
         <div class="team-w3l" id="team">
           <div class="container">
-            <h3 class="w3l-title">Our Skilled Lecturers</h3>
-            <div class="w3layouts_header">
-              <p><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
-            </div>
+          <h3 class="title">Our Skilled Lecturers</h3>
+            <div class="header">
+                            <p><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
+                        </div>
             <div class="team-w3l-grid">
             <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
                 <div class="about_img"><img src="images/t-staff/tamsil.jpg" alt=""></img>
@@ -116,21 +115,14 @@ function BMS() {
             </div>
             <div class="team-w3l-grid grid-2-team">
             <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                <div class="about_img"><img src="images/t-staff/sushmita.jpg" alt=""></img>
-                    <h5> <span  style={{fontSize:"20px"}}>Asst.Prof.Sushmita Mhamunkar</span>  <span> M.Com , Lecturar</span></h5>
+                <div class="about_img"><img src="images/t-staff/umama.jpg" alt="umama jalgaonkar"></img>
+                    <h5> <span  style={{fontSize:"20px"}}>Asst.Prof. Umama Jalgaonkar</span>  <span>  Lecturar</span></h5>
                     <div class="about_opa">
-                        <p>M.Com , Lecturar</p>
+                        <p>  Lecturar</p>
                     </div>
                 </div>
               </div>
-              <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                <div class="about_img"><img src="images/t-staff/snehal.jpg"  ></img>
-                    <h5> <span>Asst.Prof.Snehal Ghone</span> <span> M.Sc I.T , Lecturar</span></h5>
-                    <div class="about_opa">
-                        <p>M.Sc I.T , Lecturar</p>
-                    </div>
-                </div>
-              </div>
+            
               <div class="clearfix"></div>
             </div>
           </div>

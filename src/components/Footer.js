@@ -63,6 +63,7 @@ function Footer() {
                         <p>© 2021 DGTC. All rights reserved | Design by <a target="_blank" href="https://hanzalakathewadi.herokuapp.com/"><b style={{color:"blue"}}>Hanzala Kathewadi</b></a></p>
                     </div>
                 </div>
+                <a href="#" style={{position:"fixed",bottom:"30px",right:"30px",color:"blue",fontSize:"43px",textDecoration:"none"}} class="fa fa-arrow-up"></a>
         </>
     );
 }
