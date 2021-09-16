@@ -364,18 +364,18 @@ function Tstaff() {
                         <div class="clearfix"></div>
                     </div>
                     <br/>
-                    {/* <div class="team-w3l-grid grid-2-team">
+                     <div class="team-w3l-grid grid-2-team">
                         
                         <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                            <div class="about_img"><img src="images/t-staff/noimg.jpg" height="100%" alt="" />
-                                <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}> Prof. Ayesha Bade </span><span style={{ fontSize: "15px" }}>Asst. Prof</span></h5>
+                            <div class="about_img"><img src="images/t-staff/sushmita.jpg" height="100%" alt="" />
+                                <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}>Prof. Sushmita Mahamunkar </span><span style={{ fontSize: "15px" }}>Asst. Prof</span></h5>
                                 <div class="about_opa">
                                     <p > Asst. Prof</p>
                                 </div>
                             </div>
                         </div>
                         
-                        <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
+                        {/* <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
                             <div class="about_img"><img src="images/t-staff/noimg.jpg" height="100%" alt="" />
                                 <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}> name </span><span style={{ fontSize: "15px" }}>Asst. Prof</span></h5>
                                 <div class="about_opa">
@@ -391,10 +391,12 @@ function Tstaff() {
                                     <p > Asst. Prof</p>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
                         
                         <div class="clearfix"></div>
-                    </div> */}
+                        <br/>
+                    </div>  
+               
                     
                        
                 </div>

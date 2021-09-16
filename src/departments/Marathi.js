@@ -72,15 +72,15 @@ function Marathi() {
 
                             <a class="list-group-item active list-group-item-action" id="list-messages-list" data-toggle="list"
                                 href="../documents/marathi/tyba.pdf" role="tab" aria-controls="messages"> T.Y.B.A Syllabus</a>
-
+<br/>
                             <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list"
                                 href="../documents/marathi/ma1.pdf" role="tab" aria-controls="settings">M.A. 1st Syllabus</a>
 
                             <a class="list-group-item list-group-item-action active .listclass" id="list-home-list"
                                 data-toggle="list" href="../documents/marathi/ma2.pdf" role="tab" aria-controls="home">M.A. 2nd Syllabus</a>
 
-                            <NavLink class="list-group-item list-group-item-action   .listclass" id="list-home-list"
-                                data-toggle="list" to="/marathi-vangmay" role="tab" aria-controls="home">Marathi Vangmay Mandal</NavLink>
+                            {/* <NavLink class="list-group-item list-group-item-action   .listclass" id="list-home-list"
+                                data-toggle="list" to="/marathi-vangmay" role="tab" aria-controls="home">Marathi Vangmay Mandal</NavLink> */}
 
                         </div>
                     </div>

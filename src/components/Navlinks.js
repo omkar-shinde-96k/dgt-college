@@ -100,16 +100,16 @@ const Navlinks = ({ toggle }) => {
                         <i class="fa fa-caret-down"></i>
                         <ul class="subdrop">
                             <li>
-                                <a onClick={toggle} href="../documents/dlle/project.pdf"  >Sport deparment profile</a>
+                                <a onClick={toggle} href="../documents/"  >Sport deparment profile</a>
                             </li>
                             <li>
-                                <a onClick={toggle} href="../documents/dlle/enrollment-strength.jpg">Available Facilities</a>
+                                <a onClick={toggle} href="../documents/">Available Facilities</a>
                             </li> 
                             <li>
                                 <a onClick={toggle} href="https://mu.ac.in/wp-content/uploads/2021/02/Draft-University-Ghatna-_After-webinar-correction.pdf"  >Rules and Regulation </a>
                             </li> 
                             <li>
-                                <a onClick={toggle} href="../documents/dlle/DLLE-event-report.pdf"  >Student Participation Number</a>
+                                <a onClick={toggle} href="../documents/"  >Student Participation Number</a>
                             </li>
                         </ul></a>
 
@@ -146,9 +146,9 @@ const Navlinks = ({ toggle }) => {
                                 <a onClick={toggle} href="../documents/WDC/WDC EVENT REPORT.pdf">WDC Event Report</a>
                             </li> 
                         </ul></a>
-                    <NavLink onClick={toggle} to="/student-council">student Council</NavLink>
-                    <NavLink onClick={toggle} to="/scholarship">special cell and scholarship</NavLink>
-                    <NavLink onClick={toggle} to="/placement-help">placement help - Committee</NavLink>
+                    <NavLink onClick={toggle} to="/student-council">Student Council</NavLink>
+                    <NavLink onClick={toggle} to="/scholarship">Special cell and scholarship</NavLink>
+                    <NavLink onClick={toggle} to="/placement-help">Placement help - Committee</NavLink>
                     <NavLink onClick={toggle} to="/marathi-vangmay"> CGRC  </NavLink>
                     <NavLink onClick={toggle} to="/marathi-vangmay"> College Alumni  </NavLink>
                 </div> 
@@ -194,7 +194,15 @@ const Navlinks = ({ toggle }) => {
                 </div>
             </li> 
 
-            <li className="dropdown"><NavLink class="dropbtn" onClick={toggle} to="/naac">NAAC/IQAC</NavLink></li>
+            <li class="dropdown">
+                <a class="dropbtn">NAAC/IQAC &nbsp;
+                    <i class="fa fa-caret-down"></i>
+                </a>
+                <div class="dropdown-content">
+                    <NavLink onClick={toggle} to="/naac">IQAC</NavLink>
+                    <NavLink onClick={toggle} to="/ssr">SSR</NavLink>
+                </div>
+            </li>
 
             <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
             </ul>

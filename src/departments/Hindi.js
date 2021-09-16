@@ -57,19 +57,19 @@ function Hindi() {
                             <br />
 
                             <a class="list-group-item list-group-item-action active .listclass" id="list-home-list"
-                                data-toggle="list" href="../documents/hindi/fyba2.pdf" role="tab" aria-controls="home">F.Y.B.A
+                                data-toggle="list" download="fy-ba-hindi-syllabus"  href="../documents/hindi/fyba2.pdf" role="tab" aria-controls="home">F.Y.B.A
                                 Syllabus </a>
 
-                            <a class="list-group-item  list-group-item-action" id="list-profile-list" data-toggle="list"
+                            <a class="list-group-item  list-group-item-action" id="list-profile-list" data-toggle="list"  download="sy-ba-hindi-syllabus" 
                                 href="../documents/hindi/syba.pdf" role="tab" aria-controls="profile">S.Y.B.A Syllabus </a>
 
-                            <a class="list-group-item active list-group-item-action" id="list-messages-list" data-toggle="list"
+                            <a class="list-group-item active list-group-item-action" id="list-messages-list" data-toggle="list"  download="ty-ba-hindi-syllabus" 
                                 href="../documents/hindi/tyba.pdf" role="tab" aria-controls="messages"> T.Y.B.A Syllabus</a>
 
-                            <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list"
+                            <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list"  download="F.Y MA-hindi-syllabus" 
                                 href="../documents/hindi/ma1.pdf" role="tab" aria-controls="settings">M.A. 1st Syllabus</a>
 
-                            <a class="list-group-item list-group-item-action active .listclass" id="list-home-list"
+                            <a class="list-group-item list-group-item-action active .listclass" id="list-home-list"   download="S.Y MA-hindi-syllabus" 
                                 data-toggle="list" href="../documents/hindi/ma2.pdf" role="tab" aria-controls="home">M.A. 2nd Syllabus</a>
                         </div>
                     </div>
