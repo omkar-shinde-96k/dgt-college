@@ -36,8 +36,8 @@ function Antiragging() {
 
                         <a class="col-sm-12 col-lg-6" href="../documents/anti ragging/Poster making & Eassy competition-2.jpeg"><img
                             src="../documents/anti ragging/Poster making & Eassy competition-2.jpeg" /></a>
-                    </div>
-                  
+                    </div> 
+                   
                 </div>
 
 
