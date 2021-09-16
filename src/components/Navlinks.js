@@ -93,8 +93,33 @@ const Navlinks = ({ toggle }) => {
                 <a class="dropbtn">Co-curriculam   &nbsp;
                     <i class="fa fa-caret-down"></i>
                 </a>
-                <div class="dropdown-content">
-                    <NavLink onClick={toggle} to="/cultural">Cultural</NavLink>
+                <div class="dropdown-content"> 
+
+                    <a>Cultural &nbsp;
+                        <i class="fa fa-caret-down"></i>
+                        <ul class="subdrop">
+                            <li>
+                                <a onClick={toggle} href="../documents/culture/cul-member.pdf"  >Cultural Commitiee Member</a>
+                            </li>
+                            <li>
+                                <a onClick={toggle} href="../documents/culture/rules.pdf">Rules & Regulations</a>
+                            </li> 
+                            <li>
+                                <a onClick={toggle} href="../documents/culture/">Cultural Report</a>
+                            </li> 
+                        
+                            <li>
+                                <a onClick={toggle} href="../documents/culture/stud-parti-report.pdf"  >Student Participation Report</a>
+                            </li>
+                            <li>
+                                <a onClick={toggle} href="../documents/culture/great-achivments.pdf">Great Achivements </a>
+                            </li> 
+                            <li>
+                                <a onClick={toggle} href="../documents/culture/mega-event-report.pdf">Mega Events Report</a>
+                            </li> 
+                        </ul></a>
+
+ 
 
                         <a>Sport &nbsp;
                         <i class="fa fa-caret-down"></i>
@@ -185,6 +210,9 @@ const Navlinks = ({ toggle }) => {
                             </li>
                         </ul>
                     </a>
+                    <li>
+                        <NavLink onClick={toggle} to="/anti-ragging"> Anti-Raggging   </NavLink>
+                    </li>
                     <li>
                         <NavLink onClick={toggle} to="/marathi"> Scholarship   </NavLink>
                     </li>

@@ -3,7 +3,7 @@ function Bcom() {
   return (
     <>
       <br />
-      <h1 align="center"><b>Department of B.Com</b> </h1>
+      <h2 align="center"><b>Department of B.Com and BAAF</b> </h2>
       <br />
 
       <div class="container">
@@ -58,6 +58,7 @@ The Department has the pride of being one of the best departments in our college
           </div>
         </div>
       </div>
+
       {/* {{!-- syllybus end --}} */}
 
 
@@ -92,19 +93,19 @@ The Department has the pride of being one of the best departments in our college
 
               <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
                 <div class="about_img"><img src="images/t-staff/sushmita.jpg" alt=""></img>
-                  <h5> <span>Prof. Sushmita Mahamunkar</span>  <span> Lecturar</span></h5>
+                  <h5> <span>Prof.Sushmita Mahamunkar</span>  <span> Lecturar</span></h5>
                   <div class="about_opa">
                     <p>Lecturar</p>
                   </div>
                 </div>
               </div>
 
-              <div class="clearfix"></div>
+              <div class="clearfix"></div> <br/>
             </div>
             <div class="team-w3l-grid grid-2-team">
               <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                <div class="about_img"><img src="images/t-staff/adil.jpg" alt=""></img>
-                  <h5> <span>Prof. Adil Bade</span>  <span> Lecturar</span></h5>
+                <div class="about_img"><img src="images/t-staff/aadil.jpg" alt=""></img>
+                  <h5> <span>Prof. Aadil Bade</span>  <span> Lecturar</span></h5>
                   <div class="about_opa">
                     <p>Lecturar</p>
                   </div>
@@ -119,7 +120,7 @@ The Department has the pride of being one of the best departments in our college
                   </div>
                 </div>
               </div>
-              <div class="clearfix"></div>
+              <div class="clearfix"></div>  <br/>
             </div>
           </div>
         </div>

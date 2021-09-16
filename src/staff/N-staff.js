@@ -1,10 +1,9 @@
-
 function Marathi() {
     return (
         <>
             <div class="team-w3l" id="team">
                 <div class="container">
-                    <h3 class="title">COLLEGE TEACHING STAFF </h3>
+                    <h3 class="title">COLLEGE NON-TEACHING STAFF </h3>
                     <br />
                     <div class="header">
                         <p><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
@@ -38,7 +37,7 @@ function Marathi() {
                             </div>
                         </div>
 
-                        <div class="clearfix"></div>
+                        <div class="clearfix"></div> <br/>
                     </div>
 
                     <div class="team-w3l-grid grid-2-team">
@@ -69,7 +68,7 @@ function Marathi() {
                                 </div>
                             </div>
                         </div>
-                        <div class="clearfix"></div>
+                        <div class="clearfix"></div> <br/>
                     </div>
 
                     
@@ -101,7 +100,7 @@ function Marathi() {
                                 </div>
                             </div>
                         </div> 
-                        <div class="clearfix"></div>
+                        <div class="clearfix"></div> <br/>
                     </div>
 
                     <div class="team-w3l-grid grid-2-team">
@@ -133,7 +132,7 @@ function Marathi() {
                             </div>
                         </div>
 
-                        <div class="clearfix"></div>
+                        <div class="clearfix"></div> <br/>
                     </div> 
 
                     <div class="team-w3l-grid grid-2-team">
@@ -156,7 +155,7 @@ function Marathi() {
                         </div>
                       
                          
-                        <div class="clearfix"></div>
+                        <div class="clearfix"></div> <br/>
                     </div>
   
                 </div>
