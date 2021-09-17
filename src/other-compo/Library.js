@@ -43,9 +43,9 @@ const Library = () => {
                 <h2 align="center">Information About Library Staff</h2>
                 <br />
 
-                <div class="container">
+                <div className="container">
                     <h3>Librarian :</h3>
-                    <table class="table">
+                    <table className="table">
                         <tbody>
                             <tr>
                                 <td>Name:   </td>
@@ -78,9 +78,9 @@ const Library = () => {
 
 
 
-                <div class="container">
+                <div className="container">
                     <h3>Library Attendance  :</h3>
-                    <table class="table">
+                    <table className="table">
                         <tbody>
                             <tr>
                                 <td>Name </td>
@@ -111,9 +111,9 @@ const Library = () => {
                 </div>
 
 
-                <div class="container">
+                <div className="container">
                     <h3>Peon :</h3>
-                    <table class="table">
+                    <table className="table">
                         <tbody>
                             <tr>
                                 <td>Name:   </td>
@@ -143,9 +143,9 @@ const Library = () => {
                     </table>
                 </div>
 
-                <div class="container">
+                <div className="container">
                     <h3>Peon :</h3>
-                    <table class="table">
+                    <table className="table">
                         <tbody>
                             <tr>
                                 <td>Name:</td>
@@ -172,9 +172,9 @@ const Library = () => {
                 </div>
 
 
-                <div class="container">
+                <div className="container">
                     <h3>Librarian Profile :</h3>
-                    <table class="table">
+                    <table className="table">
                         <tbody>
                             <tr>
                                 <td>Name:   </td>
@@ -371,9 +371,9 @@ const Library = () => {
 
                 <h3 align="center">Library Department Rules Regulations & Schedule</h3>
                 <br />
-                <div class="container">
+                <div className="container">
 
-                    <table class="table">
+                    <table className="table">
                         <tbody>
                             <tr>
                                 <td> On working Days     </td>
@@ -413,11 +413,11 @@ const Library = () => {
 
                 <br></br>
 
-                <div class="container">
-                    <table class="table">
+                <div className="container">
+                    <table className="table">
                         <thead>
                             <tr>
-                                <th>Class</th>
+                                <th>className</th>
                                 <th>Text Book Issue in One Week</th>
                                 <th>Per Day Late Fine Rs.</th>
                             </tr>
@@ -458,7 +458,7 @@ const Library = () => {
 
                 <br/>
 
-                <div class="container">
+                <div className="container">
                     <ul>
                         <li>Automation : With Library Software (E-Granthalaya)
                         </li>
@@ -487,7 +487,7 @@ const Library = () => {
 
 
 
-                    <table class="table">
+                    <table className="table">
                         <tbody>
                             <tr>
                                 <td> Academic Journals    </td>
@@ -693,10 +693,10 @@ const Library = () => {
                 </div>
                 <hr />
                 <br />
-                <div class="container">
+                <div className="container">
                     <h2>Library Advisory Committee</h2>
 
-                    <table class="table">
+                    <table className="table">
                         <thead>
                             <tr>
                                 <th>Sr. No.</th>
@@ -812,10 +812,10 @@ const Library = () => {
 
                 <hr />
 
-                <div class="container">
+                <div className="container">
                     <h2>List of News Paper</h2>
 
-                    <table class="table">
+                    <table className="table">
                         <thead>
                             <tr>
                                 <th>Sr. No.</th>
@@ -864,14 +864,14 @@ const Library = () => {
                     </table>
                 </div>
                 <hr />
-                <div class="container">
+                <div className="container">
                     <h2>List of Magazine</h2>
                     <thead>
                         <tr>
                             <th>Sr. No.</th>
                         </tr>
                     </thead>
-                    <table class="table">
+                    <table className="table">
                         <tbody>
                             <tr>
                                 <td> 1</td>
@@ -933,10 +933,10 @@ const Library = () => {
 
                 <hr />
 
-                <div class="container">
+                <div className="container">
                     <h2>List of Journals</h2>
 
-                    <table class="table">
+                    <table className="table">
                         <tbody>
                             <tr>
                                 <td> 1</td>
@@ -1018,7 +1018,7 @@ const Library = () => {
 
                 <hr />
 
-                <div class="container">
+                <div className="container">
                     <h2>List of Library Registers / File</h2>
                     <thead>
                         <tr>
@@ -1027,7 +1027,7 @@ const Library = () => {
 
                         </tr>
                     </thead>
-                    <table class="table">
+                    <table className="table">
                         <tbody>
                             <tr>
                                 <td> 1     </td>

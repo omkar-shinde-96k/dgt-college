@@ -3,9 +3,9 @@ function Nss() {
     return (
         <>
         <br></br>
-  <div class="container-fluid">
-        <ul class="nav nav-tabs">
-            <li class="active"><a href="#home">Departments rules & regulations</a></li>
+  <div className="container-fluid">
+        <ul className="nav nav-tabs">
+            <li className="active"><a href="#home">Departments rules & regulations</a></li>
             <li><a href="#menu5">Faculty</a></li>
             <li><a href="#menu1">Faculty mumbers and students</a></li>
             <li><a href="#menu2">Students inrollment strenth</a></li>
@@ -14,9 +14,9 @@ function Nss() {
 
         </ul>
 
-        <div class="tab-content">
+        <div className="tab-content">
 
-            <div id="home" class="tab-pane fade in active container">
+            <div id="home" className="tab-pane fade in active container">
             <br/>
                 <h1>Departments rules & regulations</h1>
                 <br/>
@@ -79,7 +79,7 @@ function Nss() {
 
             {/* {{!-- ****************Departments rules & regulations*************** --}} */}
 
-            <div id="menu1" class="tab-pane fade container">
+            <div id="menu1" className="tab-pane fade container">
                 <h1>faculty mumbers and students</h1>
                 <p>
 
@@ -162,11 +162,11 @@ function Nss() {
             </div>
             {/* {{!-- *****************Students inrollment strenth**************************** --}} */}
 
-            <div id="menu2" class="tab-pane fade container">
+            <div id="menu2" className="tab-pane fade container">
                 <h3>Students inrollment strenth</h3>
                 <p>
-                <div class="container">
-                    <table class="table table-striped">
+                <div className="container">
+                    <table className="table table-striped">
                         <thead>
                             <tr>
                                 <th>NSS STUDENT ENROLLMENT LIST</th>
@@ -201,7 +201,7 @@ function Nss() {
 
             {/* {{!-- **************************************************************** --}} */}
 
-            <div id="menu3" class="tab-pane fade"> 
+            <div id="menu3" className="tab-pane fade"> 
 
                     <iframe src="../documents/nss/wowslider.html" style={{width:"100%" , height:"720px" , maxWidth:"100%" , overflow:"hidden" , border:"none", padding:"0",margin:"0 auto", display:"block", marginheight:"0", marginwidth:"0"}}/> 
                    
@@ -209,7 +209,7 @@ function Nss() {
 
             {/* {{!-- **************************************************************** --}} */}
 
-            <div id="menu4" class="tab-pane fade container">
+            <div id="menu4" className="tab-pane fade container">
                 <p>
                 <br/>
                 <h2 style={{color: "red"}}>Best Achievement</h2>
@@ -232,102 +232,102 @@ function Nss() {
                 </p>
             </div>
 
-            <div id="menu5" class="tab-pane fade container">
+            <div id="menu5" className="tab-pane fade container">
                 <p>
                 <h2>Faculty</h2>
 
                 {/* {{!-- our skilled teachers --}} */}
-                <div class="team-w3l" id="team">
-                    <div class="container">
-                        <h3 class="w3l-title">Our Skilled Lecturers</h3>
-                        <div class="w3layouts_header">
-                            <p><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
+                <div clclassNameass="team-w3l" id="team">
+                    <div className="container">
+                        <h3 className="w3l-title">Our Skilled Lecturers</h3>
+                        <div className="w3layouts_header">
+                            <p><i className="fa fa-graduation-cap" aria-hidden="true"></i></p>
                         </div>
-                        <div class="team-w3l-grid">
-                            <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                                <div class="about_img"><img src="../documents/nss/Sandesh.jpg" />
+                        <div className="team-w3l-grid">
+                            <div className="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
+                                <div className="about_img"><img src="../documents/nss/Sandesh.jpg" />
                                     <h5 style={{fontSize: "20px", lineHeight:"21px" }}>Asst.Prof. Sandesh Gavade <br/>
                                         Designation : Programme Officer<br/>
                                         Experience : 5 Years</h5>
-                                    <div class="about_opa">
-                                        <ul class="fb_icons2 text-center">
-                                            <li><a class="fa fa-facebook" href="#"></a></li>
-                                            <li><a class="fa fa-twitter" href="#"></a></li>
-                                            <li><a class="fa fa-google" href="#"></a></li>
-                                            <li><a class="fa fa-linkedin" href="#"></a></li>
-                                            <li><a class="fa fa-pinterest-p" href="#"></a></li>
+                                    <div className="about_opa">
+                                        <ul className="fb_icons2 text-center">
+                                            <li><a className="fa fa-facebook" href="#"></a></li>
+                                            <li><a className="fa fa-twitter" href="#"></a></li>
+                                            <li><a className="fa fa-google" href="#"></a></li>
+                                            <li><a className="fa fa-linkedin" href="#"></a></li>
+                                            <li><a className="fa fa-pinterest-p" href="#"></a></li>
                                         </ul>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                                <div class="about_img"><img src="../documents/nss/Sushmita.jpg" />
+                            <div className="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
+                                <div className="about_img"><img src="../documents/nss/Sushmita.jpg" />
                                     <h5 style={{fontSize: "20px", lineHeight:"21px" }}>Asst.Prof. Sushmita Mhamunkar<br/>
                                         Designation : Programme Officer<br/>
                                         Experience : Fresh
                                     </h5>
-                                    <div class="about_opa">
+                                    <div className="about_opa">
                                         <p>Asst.Prof. Sushmita Mhamunkar<br/>
                                             Designation : Programme Officer<br/>
                                             Experience : Fresh
                                         </p>
-                                        <ul class="fb_icons2 text-center">
-                                            <li><a class="fa fa-facebook" href="#"></a></li>
-                                            <li><a class="fa fa-twitter" href="#"></a></li>
-                                            <li><a class="fa fa-google" href="#"></a></li>
-                                            <li><a class="fa fa-linkedin" href="#"></a></li>
-                                            <li><a class="fa fa-pinterest-p" href="#"></a></li>
+                                        <ul className="fb_icons2 text-center">
+                                            <li><a className="fa fa-facebook" href="#"></a></li>
+                                            <li><a className="fa fa-twitter" href="#"></a></li>
+                                            <li><a className="fa fa-google" href="#"></a></li>
+                                            <li><a className="fa fa-linkedin" href="#"></a></li>
+                                            <li><a className="fa fa-pinterest-p" href="#"></a></li>
                                         </ul>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                                <div class="about_img"><img src="../documents/nss/Neha.jpg" />
+                            <div className="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
+                                <div className="about_img"><img src="../documents/nss/Neha.jpg" />
                                     <h5 style={{fontSize: "20px", lineHeight:"21px" }}>Asst.Prof. Neha Turai<br/>
                                         Designation : Committee Member<br/>
                                         Experience : 2 Years
                                     </h5>
-                                    <div class="about_opa">
+                                    <div className="about_opa">
                                         <p>Asst.Prof. Neha Turai<br/>
                                             Designation : Committee Member<br/>
                                             Experience : 2 Years</p>
-                                        <ul class="fb_icons2 text-center">
-                                            <li><a class="fa fa-facebook" href="#"></a></li>
-                                            <li><a class="fa fa-twitter" href="#"></a></li>
-                                            <li><a class="fa fa-google" href="#"></a></li>
-                                            <li><a class="fa fa-linkedin" href="#"></a></li>
-                                            <li><a class="fa fa-pinterest-p" href="#"></a></li>
+                                        <ul className="fb_icons2 text-center">
+                                            <li><a className="fa fa-facebook" href="#"></a></li>
+                                            <li><a className="fa fa-twitter" href="#"></a></li>
+                                            <li><a className="fa fa-google" href="#"></a></li>
+                                            <li><a className="fa fa-linkedin" href="#"></a></li>
+                                            <li><a className="fa fa-pinterest-p" href="#"></a></li>
                                         </ul>
                                     </div>
                                 </div>
                             </div>
-                            <div class="clearfix"></div>
+                            <div className="clearfix"></div>
                         </div>
 
-                        <div class="team-w3l-grid grid-2-team">
-                            <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                                <div class="about_img"><img src="../documents/nss/Abhi.jpg" />
+                        <div className="team-w3l-grid grid-2-team">
+                            <div className="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
+                                <div className="about_img"><img src="../documents/nss/Abhi.jpg" />
                                     <h5 style={{fontSize: "20px", lineHeight:"21px" }}>Mr.Abhishek Gharve<br/>
                                         Designation : Committee Member<br/>
                                         Experience : 2 Years
                                     </h5>
-                                    <div class="about_opa">
+                                    <div className="about_opa">
                                         <p>Mr.Abhishek Gharve
                                             Designation : Committee Member
                                             Experience : 2 Years
                                         </p>
-                                        <ul class="fb_icons2 text-center">
-                                            <li><a class="fa fa-facebook" href="#"></a></li>
-                                            <li><a class="fa fa-twitter" href="#"></a></li>
-                                            <li><a class="fa fa-google" href="#"></a></li>
-                                            <li><a class="fa fa-linkedin" href="#"></a></li>
-                                            <li><a class="fa fa-pinterest-p" href="#"></a></li>
+                                        <ul className="fb_icons2 text-center">
+                                            <li><a className="fa fa-facebook" href="#"></a></li>
+                                            <li><a className="fa fa-twitter" href="#"></a></li>
+                                            <li><a className="fa fa-google" href="#"></a></li>
+                                            <li><a className="fa fa-linkedin" href="#"></a></li>
+                                            <li><a className="fa fa-pinterest-p" href="#"></a></li>
                                         </ul>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="clearfix"></div>
+                            <div className="clearfix"></div>
                         </div>
                     </div>
                 </div>

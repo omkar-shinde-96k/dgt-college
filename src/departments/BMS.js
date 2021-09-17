@@ -6,7 +6,7 @@ function BMS() {
             <h1 align="center"><b> Welcome To BMS Department</b> </h1>
             <br />
 
-            <div class="container"> 
+            <div className="container"> 
 
                 <h2> Introduction:</h2>
                 <p>
@@ -43,28 +43,28 @@ function BMS() {
 
             </div>
 
-            <div class="container text-center">
+            <div className="container text-center">
                 <p style={{ color: "blue", textAlign: "center" }}>click on image to zoom </p>
                 <a href="../documents/bms/table.jpg"><img id="tableid" src="../documents/bms/table.jpg" width="100%" height="100%"/></a>
             </div>
 
             {/* {{!-- syllybus start --}} */}
 
-            <div class="container" style={{ fontSize: "1.5rem" }}>
-                <div class="row">
-                    <div class="col-4" style={{ height: "100%", minWidth: "90%!important" }}>
+            <div className="container" style={{ fontSize: "1.5rem" }}>
+                <div className="row">
+                    <div className="col-4" style={{ height: "100%", minWidth: "90%!important" }}>
 
-                        <div class="list-group" id="list-tab" role="tablist" style={{ height: " 100%", width: "100%" }}>
-                            <h1 style={{ marginTop: "15px" }} class="text-center"> BMS Syllabus </h1>
+                        <div className="list-group" id="list-tab" role="tablist" style={{ height: " 100%", width: "100%" }}>
+                            <h1 style={{ marginTop: "15px" }} className="text-center"> BMS Syllabus </h1>
                             <br />
 
-                            <a class="list-group-item list-group-item-action active .listclass" id="list-home-list"
+                            <a className="list-group-item list-group-item-action active .listclass" id="list-home-list"
                                 data-toggle="list" href="https://drive.google.com/file/d/1a_ziynwzvdPOI6v3CtNYhfSnZpF28AQB/view?usp=sharing" role="tab" aria-controls="home">F.Y.BMS Syllabus </a>
 
-                            <a class="list-group-item  list-group-item-action" id="list-profile-list" data-toggle="list"
+                            <a className="list-group-item  list-group-item-action" id="list-profile-list" data-toggle="list"
                                 href="https://drive.google.com/file/d/1p0WhVulw0472FTky8QzysYeUoN3EDJvP/view?usp=sharing" role="tab" aria-controls="profile">S.Y. BMS Syllabus </a>
 
-                            <a class="list-group-item active list-group-item-action" id="list-messages-list" data-toggle="list"
+                            <a className="list-group-item active list-group-item-action" id="list-messages-list" data-toggle="list"
                                 href="https://drive.google.com/file/d/1a3Ucm9VD47OIjYmyJRKlDhqawk_tM53Y/view?usp=sharing" role="tab" aria-controls="messages"> T.Y. BMS Syllabus</a>
 
                         </div>
@@ -72,169 +72,169 @@ function BMS() {
                 </div>
             </div>
             {/* {{!-- syllybus end --}} */} 
-            <div class="secoundnav">
+            <div className="secoundnav">
  
                  {/* {{!-- our skilled teachers --}} */}
                 
-        <div class="team-w3l" id="team">
-          <div class="container">
-          <h3 class="title">Our Skilled Lecturers</h3>
-            <div class="header">
-                            <p><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
+        <div className="team-w3l" id="team">
+          <div className="container">
+          <h3 className="title">Our Skilled Lecturers</h3>
+            <div className="header">
+                            <p><i className="fa fa-graduation-cap" aria-hidden="true"></i></p>
                         </div>
-            <div class="team-w3l-grid">
-            <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                <div class="about_img"><img src="images/t-staff/tamsil.jpg" alt=""></img>
+            <div className="team-w3l-grid">
+            <div className="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
+                <div className="about_img"><img src="images/t-staff/tamsil.jpg" alt=""></img>
                     <h5> <span  style={{fontSize:"15px"}}>Asst.Prof. Shahajahan Tamseel </span>  <span style={{fontSize:"15px"}}> SET(Chemistry,Management),M.Sc.,MBA,B.Ed, HOD in BMS </span></h5>
-                    <div class="about_opa">
+                    <div className="about_opa">
                         <p style={{fontSize:"15px"}}>SET(Chemistry,Management),M.Sc.,MBA,B.Ed HOD in Management</p>
                     </div>
                 </div>
               </div>
 
-              <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                <div class="about_img"><img src="images/t-staff/Pooja Sakhre.jpg" alt=""></img>
+              <div className="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
+                <div className="about_img"><img src="images/t-staff/Pooja Sakhre.jpg" alt=""></img>
                     <h5> <span>Asst. Prof. Pooja Sakhare</span>  <span> M.Com , Lecturar</span></h5>
-                    <div class="about_opa">
+                    <div className="about_opa">
                         <p> M.Com , Lecturar</p>
                       
                     </div>
                 </div>   
               </div>
 
-              <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                <div class="about_img"><img src="images/t-staff/Nigar Dhansay.jpg" alt=""></img>
+              <div className="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
+                <div className="about_img"><img src="images/t-staff/Nigar Dhansay.jpg" alt=""></img>
                     <h5> <span>Asst. Prof. Nigar Dhansay</span>  <span> MBA , Lecturar</span></h5>
-                    <div class="about_opa">
+                    <div className="about_opa">
                         <p>MBA , Lecturar</p>
                     </div>
                 </div>
               </div>
  
-              <div class="clearfix"></div>
+              <div className="clearfix"></div>
             </div>
-            <div class="team-w3l-grid grid-2-team">
-            <div class="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                <div class="about_img"><img src="images/t-staff/umama.jpg" alt="umama jalgaonkar"></img>
+            <div className="team-w3l-grid grid-2-team">
+            <div className="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
+                <div className="about_img"><img src="images/t-staff/umama.jpg" alt="umama jalgaonkar"></img>
                     <h5> <span  style={{fontSize:"20px"}}>Asst.Prof. Umama Jalgaonkar</span>  <span>  Lecturar</span></h5>
-                    <div class="about_opa">
+                    <div className="about_opa">
                         <p>  Lecturar</p>
                     </div>
                 </div>
               </div>
             
-              <div class="clearfix"></div>
+              <div className="clearfix"></div>
             </div>
           </div>
         </div>
 
         {/* {{!-- our skilled teachers end --}} */}
 
-                <h1 class="event-heading" align="center"><a>Events Of BMS Department</a> </h1> <br />
+                <h1 className="event-heading" align="center"><a>Events Of BMS Department</a> </h1> <br />
                 <br />
 
-                <div class="events">
-                    <h3 class="events-title" align="center"> <span> Visit to Ellora Caves </span>- 08-02-2020 </h3> <br /> 
-                    <div class="row events-imdg"> 
+                <div className="events">
+                    <h3 className="events-title" align="center"> <span> Visit to Ellora Caves </span>- 08-02-2020 </h3> <br /> 
+                    <div className="row events-imdg"> 
                         <a width="100%" href="../documents/bms/events/ellora.jpg"><img
                             src="../documents/bms/events/ellora.jpg"  width="100%"/></a> 
                     </div>
                 </div>
 
-                <div class="events">
-                    <h3 class="events-title" align="center"> <span> Visit to Ajanta Caves  </span>- 07-02-2020 </h3> <br /> 
-                    <div class="row events-imdg"> 
+                <div className="events">
+                    <h3 className="events-title" align="center"> <span> Visit to Ajanta Caves  </span>- 07-02-2020 </h3> <br /> 
+                    <div className="row events-imdg"> 
                         <a width="100%" href="../documents/bms/events/ajanta.jpg"><img
                             src="../documents/bms/events/ajanta.jpg"  width="100%"/></a> 
                     </div>
                 </div>
 
-                <div class="events">
-                    <h3 class="events-title" align="center"> <span> Visit to Handcraft Silk Factory, Aurangabad  </span>- 08-02-2020 </h3> <br /> 
-                    <div class="row events-imdg"> 
+                <div className="events">
+                    <h3 className="events-title" align="center"> <span> Visit to Handcraft Silk Factory, Aurangabad  </span>- 08-02-2020 </h3> <br /> 
+                    <div className="row events-imdg"> 
                         <a width="100%" href="../documents/bms/events/Silk-Factory.jpg"><img
                             src="../documents/bms/events/Silk-Factory.jpg"  width="100%"/></a> 
                     </div>
                 </div>
 
-                <div class="events">
-                    <h3 class="events-title" align="center"> <span> Indian Culture Representation   </span>- 27-01-2019 </h3> <br />
-                    <p class="events-details">   </p>
+                <div className="events">
+                    <h3 className="events-title" align="center"> <span> Indian Culture Representation   </span>- 27-01-2019 </h3> <br />
+                    <p className="events-details">   </p>
                     <br />
-                    <div class="row events-imdg"> 
+                    <div className="row events-imdg"> 
                         <a width="100%" href="../documents/bms/event/Culture.jpg"><img
                             src="../documents/bms/events/Culture.jpg"  width="100%"/></a> 
                     </div>
                 </div>
 
 
-                <div class="events">
-                    <h3 class="events-title" align="center"> <span> TYBMS hattrick batch 100 percent 18-2-19 </span>- 2019 </h3> <br />
+                <div className="events">
+                    <h3 className="events-title" align="center"> <span> TYBMS hattrick batch 100 percent 18-2-19 </span>- 2019 </h3> <br />
       
                     <br />
-                    <div class="row events-imdg"> 
+                    <div className="row events-imdg"> 
                         <a width="100%" href="../documents/bms/events/100-2019.jpg"><img
                             src="../documents/bms/events/100-2019.jpg"  width="100%"/></a> 
                     </div>
                 </div>
 
                
-               <div class="events">
-                    <h3 class="events-title" align="center"> <span> 3rd 100 Percent Result Celebration</span>-  24-02-2019  </h3> <br /> 
-                    <div class="row events-imdg"> 
+               <div className="events">
+                    <h3 className="events-title" align="center"> <span> 3rd 100 Percent Result Celebration</span>-  24-02-2019  </h3> <br /> 
+                    <div className="row events-imdg"> 
                         <a width="100%" href="../documents/bms/events/3rd100.jpg"><img
                             src="../documents/bms/events/3rd100.jpg"  width="100%"/></a> 
                     </div>
                 </div>
 
-                <div class="events">
-                    <h3 class="events-title" align="center"> <span> Degree Distribution  </span>- 08-01-2018 </h3> <br />
+                <div className="events">
+                    <h3 className="events-title" align="center"> <span> Degree Distribution  </span>- 08-01-2018 </h3> <br />
  
                     <br />
-                    <div class="row events-imdg"> 
+                    <div className="row events-imdg"> 
                         <a width="100%" href="../documents/bms/events/degree18.jpg"><img
                             src="../documents/bms/events/degree18.jpg"   width="100%"/></a> 
                     </div>
                 </div>
-                <div class="events">
-                    <h3 class="events-title" align="center"> <span> First 100 Percent Result Celebration </span>- 22-02-2018  </h3> <br /> 
-                    <div class="row events-imdg"> 
+                <div className="events">
+                    <h3 className="events-title" align="center"> <span> First 100 Percent Result Celebration </span>- 22-02-2018  </h3> <br /> 
+                    <div className="row events-imdg"> 
                         <a width="100%" href="../documents/bms/events/100-2018.jpg"><img
                             src="../documents/bms/events/100-2018.jpg"  width="100%"/></a> 
                     </div>
                 </div>
 
-                <div class="events">
-                    <h3 class="events-title" align="center"> <span> Students Performance </span>-  26-01-2018 </h3> <br /> 
-                    <div class="row events-imdg"> 
+                <div className="events">
+                    <h3 className="events-title" align="center"> <span> Students Performance </span>-  26-01-2018 </h3> <br /> 
+                    <div className="row events-imdg"> 
                         <a width="100%" href="../documents/bms/events/Students Performance 26-1-18.jpg"><img
                             src="../documents/bms/events/Students Performance 26-1-18.jpg" width="100%" /></a> 
                     </div>
                 </div>
 
-                <div class="events">
-                    <h3 class="events-title" align="center"> <span> farewell party  </span>- 2017-2018 </h3> <br />
-                    <p class="events-details"> eventDescription </p>
+                <div className="events">
+                    <h3 className="events-title" align="center"> <span> farewell party  </span>- 2017-2018 </h3> <br />
+                    <p className="events-details"> eventDescription </p>
                     <br />
-                    <div class="row events-imdg"> 
+                    <div className="row events-imdg"> 
                         <a width="100%" href="../documents/bms/events/farewell party 2017-2018.jpg"><img
                             src="../documents/bms/events/farewell party 2017-2018.jpg"  width="100%"/></a> 
                     </div>
                 </div>
 
-                <div class="events">
-                    <h3 class="events-title" align="center"> <span> Visit to Oldage home Borewadi  </span>- 01-10-2016 </h3> <br /> 
-                    <div class="row events-imdg"> 
+                <div className="events">
+                    <h3 className="events-title" align="center"> <span> Visit to Oldage home Borewadi  </span>- 01-10-2016 </h3> <br /> 
+                    <div className="row events-imdg"> 
                         <a width="100%" href="../documents/bms/events/Visit to Oldage home Borewadi 01-10-2016.jpg"><img
                             src="../documents/bms/events/Visit to Oldage home Borewadi 01-10-2016.jpg"  width="100%" /></a> 
                     </div>
                 </div>
 
-                <div class="events">
-                    <h3 class="events-title" align="center"> <span> Visit </span>-  3-9-16 </h3> <br />
-                    <p class="events-details">  Visit To Yusuf Maher Ally Centre Pancel </p>
+                <div className="events">
+                    <h3 className="events-title" align="center"> <span> Visit </span>-  3-9-16 </h3> <br />
+                    <p className="events-details">  Visit To Yusuf Maher Ally Centre Pancel </p>
                     <br />
-                    <div class="row events-imdg"> 
+                    <div className="row events-imdg"> 
                         <a width="100%" href="../documents/bms/events/Visit To Yusuf Maher Ally Centre Pancel 3-9-16.jpg"><img
                             src="../documents/bms/events/Visit To Yusuf Maher Ally Centre Pancel 3-9-16.jpg" width="100%"/></a> 
                     </div>

@@ -54,7 +54,7 @@ const Home = () => {
                 </p>
                 <div className="social-icons">
                     <a href="tel:02140-263928" style={{ color: "sky" }} class="fa fa-phone"></a>
-                    <a href="#" style={{ color: "blue" }} class="fa fa-facebook-square"></a>
+                    <a href="/" style={{ color: "blue" }} class="fa fa-facebook-square"></a>
                     <a href="mailto:mspmmangaonseniorcollege@gmail.com" style={{ color: "red" }} class="fa fa-envelope"></a>
                 </div>
 
@@ -107,7 +107,7 @@ const Home = () => {
                 </div>
                 <div class="col-md-6 w3l_about_bottom_left"  >
                     <div class="video-grid-single-page-agileits">
-                        <div data-video="kmKlYMBiwXk" allowfullscreen id="video"> <img
+                        <div data-video="kmKlYMBiwXk" id="video"> <img
                             src="images/clg-front-view/4.jpg" alt="" className="img-responsive"
                             style={{ width: "100%", height: "100%" }} /> </div>
                     </div>
@@ -118,7 +118,7 @@ const Home = () => {
                         foundation stone of higher education in Mangaon on 1993. It was that time known as Arts’
                         Senior College. Later It is named as D.G.Tatkare College on 10th January 2010.</p>
                     <div class="container-fluid" style={{ display: "flex", marginTop: "50px" }}>
-                        <a href="#" class="mybtn " ><span><NavLink to="/aboutsansta">Read More </NavLink></span></a>  &nbsp; &nbsp; &nbsp; &nbsp;
+                        <a href="/" class="mybtn " ><span><NavLink to="/aboutsansta">Read More </NavLink></span></a>  &nbsp; &nbsp; &nbsp; &nbsp;
                         <a href="#contact" className="front-btn mybtn scroll" ><span >Contact Us</span></a>
                     </div>
                 </div>
@@ -126,7 +126,7 @@ const Home = () => {
             </div>
             <div class="services" id="services">
                 <div class="container">
-                    <div class="modal about-modal agileits fade" id="facilitymodal" tabindex="-1" role="dialog">
+                    <div class="modal about-modal agileits fade" id="facilitymodal" tabIndex="-1" role="dialog">
                         <div class="modal-dialog" role="document">
                             <div class="modal-content">
                                 <div class="modal-header">
@@ -249,85 +249,85 @@ const Home = () => {
             {/* Gallery  */}
             <hr />
 
-            <section class="portfolio-w3ls" id="gallery" data-aos="zoom-in">
-                <h3 class="title">
+            <section className="portfolio-w3ls" id="gallery" data-aos="zoom-in">
+                <h3 className="title">
                     Our Gallery
                 </h3>
-                <div class="header">
-                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
+                <div className="header">
+                    <p><i className="fa fa-graduation-cap" aria-hidden="true"></i></p>
                 </div>
-                <div class="col-md-3 col-xs-3 gallery-grid gallery1" >
-                    <a href="images/tour/Readingroom.jpg" class="swipebox"><img src="images/tour/Readingroom.jpg"
-                        class="img-responsive" alt="/"></img>
-                        <div class="textbox">
+                <div className="col-md-3 col-xs-3 gallery-grid gallery1" >
+                    <a href="images/tour/Readingroom.jpg" className="swipebox"><img src="images/tour/Readingroom.jpg"
+                        className="img-responsive" alt="/"></img>
+                        <div className="textbox">
                             <h4>DGTC</h4>
-                            <p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
+                            <p><i className="fa fa-picture-o" aria-hidden="true"></i></p>
                         </div>
                     </a>
                 </div>
-                <div class="col-md-3 col-xs-3 gallery-grid gallery1" >
-                    <a href="images/tour/sports.jpg" class="swipebox"><img src="images/tour/sports.jpg"
-                        class="img-responsive" alt="/"></img>
-                        <div class="textbox">
+                <div className="col-md-3 col-xs-3 gallery-grid gallery1" >
+                    <a href="images/tour/sports.jpg" className="swipebox"><img src="images/tour/sports.jpg"
+                        className="img-responsive" alt="/"></img>
+                        <div className="textbox">
                             <h4>DGTC</h4>
-                            <p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
+                            <p><i className="fa fa-picture-o" aria-hidden="true"></i></p>
                         </div>
                     </a>
                 </div>
-                <div class="col-md-3 col-xs-3 gallery-grid gallery1" >
-                    <a href="images/tour/garden.jpg" class="swipebox"><img src="images/tour/garden.jpg"
-                        class="img-responsive" alt="/"></img>
-                        <div class="textbox">
+                <div className="col-md-3 col-xs-3 gallery-grid gallery1" >
+                    <a href="images/tour/garden.jpg" className="swipebox"><img src="images/tour/garden.jpg"
+                        className="img-responsive" alt="/"></img>
+                        <div className="textbox">
                             <h4>DGTC</h4>
-                            <p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
+                            <p><i className="fa fa-picture-o" aria-hidden="true"></i></p>
                         </div>
                     </a>
                 </div>
-                <div class="col-md-3 col-xs-3 gallery-grid gallery1" >
-                    <a href="images/tour/ground.jpg" class="swipebox"><img src="images/tour/ground.jpg"
-                        class="img-responsive" alt="/"></img>
-                        <div class="textbox">
+                <div className="col-md-3 col-xs-3 gallery-grid gallery1" >
+                    <a href="images/tour/ground.jpg" className="swipebox"><img src="images/tour/ground.jpg"
+                        className="img-responsive" alt="/"></img>
+                        <div className="textbox">
                             <h4>DGTC</h4>
-                            <p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
+                            <p><i className="fa fa-picture-o" aria-hidden="true"></i></p>
                         </div>
                     </a>
                 </div>
-                <div class="col-md-3 col-xs-3 gallery-grid gallery1" >
-                    <a href="images/tour/multipurpose.jpg" class="swipebox"><img src="images/tour/Greendgt.jpg"
-                        class="img-responsive" alt="/"></img>
-                        <div class="textbox">
+                <div className="col-md-3 col-xs-3 gallery-grid gallery1" >
+                    <a href="images/tour/multipurpose.jpg" className="swipebox"><img src="images/tour/Greendgt.jpg"
+                        className="img-responsive" alt="/"></img>
+                        <div className="textbox">
                             <h4>DGTC</h4>
-                            <p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
+                            <p><i className="fa fa-picture-o" aria-hidden="true"></i></p>
                         </div>
                     </a>
                 </div>
-                <div class="col-md-3 col-xs-3 gallery-grid gallery1" >
-                    <a href="images/tour/scorner1.jpg" class="swipebox"><img src="images/tour/scorner1.jpg"
-                        class="img-responsive" alt="/"></img>
-                        <div class="textbox">
+                <div className="col-md-3 col-xs-3 gallery-grid gallery1" >
+                    <a href="images/tour/scorner1.jpg" className="swipebox"><img src="images/tour/scorner1.jpg"
+                        className="img-responsive" alt="/"></img>
+                        <div className="textbox">
                             <h4>DGTC</h4>
-                            <p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
+                            <p><i className="fa fa-picture-o" aria-hidden="true"></i></p>
                         </div>
                     </a>
                 </div>
-                <div class="col-md-3 col-xs-3 gallery-grid gallery1" >
-                    <a href="images/tour/physics.jpg" class="swipebox"><img src="images/tour/physics.jpg"
-                        class="img-responsive" alt="/"></img>
-                        <div class="textbox">
+                <div className="col-md-3 col-xs-3 gallery-grid gallery1" >
+                    <a href="images/tour/physics.jpg" className="swipebox"><img src="images/tour/physics.jpg"
+                        className="img-responsive" alt="/"></img>
+                        <div className="textbox">
                             <h4>DGTC</h4>
-                            <p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
+                            <p><i className="fa fa-picture-o" aria-hidden="true"></i></p>
                         </div>
                     </a>
                 </div>
-                <div id="contact" class="col-md-3 col-xs-3 gallery-grid gallery1" >
-                    <a href="images/tour/scorner.jpg" class="swipebox"><img src="images/tour/scorner.jpg"></img>
-                        <div class="textbox">
+                <div id="contact" className="col-md-3 col-xs-3 gallery-grid gallery1" >
+                    <a href="images/tour/scorner.jpg" className="swipebox"><img src="images/tour/scorner.jpg"></img>
+                        <div className="textbox">
                             <h4>DGTC</h4>
-                            <p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
+                            <p><i className="fa fa-picture-o" aria-hidden="true"></i></p>
                         </div>
                     </a>
                 </div>
-                <div class="clearfix"> </div>
+                <div className="clearfix"> </div>
             </section>
 
             {/* //gallery */}
@@ -335,11 +335,11 @@ const Home = () => {
             {/* // contact  */}
             <br /> <br />
 
-            <div class="Facility-row " data-aos="zoom-in" >
-                <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12"  >
+            <div className="Facility-row " data-aos="zoom-in" >
+                <div className="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12"  >
                     <div className="sub-facility" style={{background:"none" , display: "grid", placeItems: "center" }}>
                         <br/>
-                        <h2 align="center"><i style={{ fontSize: "40px", color: "orange" }} class="fa fa-map-marker" aria-hidden="true"></i></h2>
+                        <h2 align="center"><i style={{ fontSize: "40px", color: "orange" }} className="fa fa-map-marker" aria-hidden="true"></i></h2>
                         <br />
                         <p style={{ display: "flex", flexDirection: "column", height: "150px", placeItems: "center" }}>
                             <h3>Address</h3>
@@ -349,10 +349,10 @@ const Home = () => {
                         </p>
                     </div>
                 </div>
-                <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" >
+                <div className="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" >
                     <div className="sub-facility" style={{ display: "grid", placeItems: "center",background:"none" }}>
                         <br />
-                        <h2 align="center">	<i style={{ fontSize: "40px", color:"blueviolet" }} class="fa fa-mobile" aria-hidden="true"></i></h2>
+                        <h2 align="center">	<i style={{ fontSize: "40px", color:"blueviolet" }} className="fa fa-mobile" aria-hidden="true"></i></h2>
                         <br />
                         <p style={{ display: "flex", flexDirection: "column", height: "150px", placeItems: "center" }}>
                             <h3>Phone</h3>
@@ -362,10 +362,10 @@ const Home = () => {
                         </p>
                     </div>
                 </div>
-                <div class="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" >
+                <div className="facility col-xl-4 col-lg-4 col-md-4 col-sm-6 col-xs-12" >
                     <div className="sub-facility" style={{background:"none" , display: "grid", placeItems: "center" }}>
                         <br />
-                        <h2 align="center"> <i style={{ fontSize: "40px", color: "red" }} class="fa fa-envelope-o" aria-hidden="true"></i></h2>
+                        <h2 align="center"> <i style={{ fontSize: "40px", color: "red" }} className="fa fa-envelope-o" aria-hidden="true"></i></h2>
                         <br />
                         <p style={{ display: "flex", flexDirection: "column", height: "150px", placeItems: "center" }}>
                             <h3>Email</h3>

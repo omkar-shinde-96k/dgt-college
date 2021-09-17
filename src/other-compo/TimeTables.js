@@ -5,10 +5,10 @@ function TimeTable() {
 
 
 
-<div class="container">
+<div className="container">
                 <h2>Termwise Academic Schedule</h2>
 
-                <table class="table">
+                <table className="table">
                     <thead>
                         <tr> 
                         </tr>
@@ -24,10 +24,10 @@ function TimeTable() {
                 </table>
             </div> 
 
-            <div class="container">
+            <div className="container">
                 <h2>Daywise Academic Schedule</h2>
 
-                <table class="table">
+                <table className="table">
                     <thead>
                         <tr>
                             <th>No.</th>
@@ -104,9 +104,9 @@ function TimeTable() {
             <br />
             <hr />
             <br />
-            <div class="container">
+            <div className="container">
                 <h2>Office Work schedule</h2>
-                <table class="table">
+                <table className="table">
                     <tbody>
                         <tr>
                             <td>9.00 am to 5.00 pm </td>
@@ -119,9 +119,9 @@ function TimeTable() {
             <br />
             <hr />
             <br />
-            <div class="container">
+            <div className="container">
                 <h2>Library Book Issuing Schedule</h2> 
-                <table class="table">
+                <table className="table">
                     <tbody>
                         <tr>
                             <td>9.00 am to 5.00 pm </td>

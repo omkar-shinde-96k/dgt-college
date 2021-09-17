@@ -17,8 +17,8 @@ const Loading = () => {
 
 const Loadingtwo = () => {
     return ( 
-      <div class="mainload2">
-	<div class="loader"></div>
+      <div className="mainload2">
+	<div className="loader"></div>
 </div> 
     )
 }

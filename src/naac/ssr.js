@@ -4,19 +4,19 @@ const ssr = () => {
     return (
         <>
 
-            <div class="post-1 blog_1">
-                <div class="post_1_area blog-area">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-sm-12 post_left-side">
-                                <div class="row">
+            <div className="post-1 blog_1">
+                <div className="post_1_area blog-area">
+                    <div className="container">
+                        <div className="row">
+                            <div className="col-sm-12 post_left-side">
+                                <div className="row">
 
-                                    <div class="container">
+                                    <div className="container">
                                         <br />
                                         <h3 style={{ textAlign: "center" }}>Self Study Report</h3>
-                                        <div class="row">
+                                        <div className="row">
 
-                                            <table class="table table-bordered table-hover" style={{ fontSize: "16px", marginTop: "20px" }}>
+                                            <table className="table table-bordered table-hover" style={{ fontSize: "16px", marginTop: "20px" }}>
                                                 <tbody>
                                                     <tr>
                                                         <th style={{ textAlign: "center",color:"black" }}>NAAC CYCLE IV SSR 2019-20</th>
@@ -27,7 +27,7 @@ const ssr = () => {
                                                 </tbody>
                                             </table>
                                             <br />
-                                            <table class="table table-bordered table-hover" style={{ fontSize: "16px", marginTop: "20px" }}>
+                                            <table className="table table-bordered table-hover" style={{ fontSize: "16px", marginTop: "20px" }}>
                                                 <tbody>
 
                                                     <tr>
@@ -46,18 +46,18 @@ const ssr = () => {
                                         <div id="item_features_table">
 
                                             {/* ******* */}
-                                            <div class="row">
-                                                <div class="col-sm-12" id="srs">
+                                            <div className="row">
+                                                <div className="col-sm-12" id="srs">
 
                                                     <div id="item_features_table">
 
                                                         {/* *************************************************************************************************** */}
-                                                        <div class="row">
-                                                            <div class="col-md-12 " style={{ textAlign: " center" }}>
+                                                        <div className="row">
+                                                            <div className="col-md-12 " style={{ textAlign: " center" }}>
                                                                 <div >
                                                                     <strong  > Criterion I: - Curricular Aspects</strong>
                                                                 </div>
-                                                                <table class="table table-bordered table-hover"
+                                                                <table className="table table-bordered table-hover"
                                                                     style={{ fontSize: "16px", marginTop: "20px" }}>
                                                                     <tbody>
                                                                         <tr>
@@ -73,7 +73,7 @@ const ssr = () => {
                                                                                 <ul>
                                                                                     <li> <a href=" " target="_blank"><span>1.1.1 Session plan link</span></a></li>
                                                                                     <li> <a href=" " target="_blank"><span>1.1.1 Departmental Meetings</span></a></li>
-                                                                                    <li> <a href=" " target="_blank"><span>1.1.1 Google Classrooms</span></a></li>
+                                                                                    <li> <a href=" " target="_blank"><span>1.1.1 Google classNamerooms</span></a></li>
                                                                                     <li> <a href=" " target="_blank"><span>1.1.1 Feedbacks</span></a></li>
                                                                                     <li> <a href=" " target="_blank"><span>1.1.1 policy letter</span></a></li>
                                                                                     <li> <a href=" " target="_blank"><span>1.1.1 Workload</span></a></li>
@@ -226,14 +226,14 @@ const ssr = () => {
 
 
 
-                                                        {/* <div class="row">
-                                                            <div class="col-md-12 "
+                                                        {/* <div className="row">
+                                                            <div className="col-md-12 "
                                                                 style={{ textAlign: "center" }}>
                                                                 <div>
                                                                     <strong> Criterion II - Teaching- Learning and
                                                                         Evaluation</strong>
                                                                 </div>
-                                                                <table class="table table-bordered table-hover"
+                                                                <table className="table table-bordered table-hover"
                                                                     style={{ fontSize: "16px", marginTop: "20px" }}>
                                                                     <tbody>
                                                                         <tr>
@@ -430,9 +430,9 @@ const ssr = () => {
                                                                             <td>2.3.2</td>
                                                                             <td style={{ textAlign: "left" }}>
                                                                                 <ul>
-                                                                                    <li> <a href="2 Google classroom record.pdf"
+                                                                                    <li> <a href="2 Google classNameroom record.pdf"
                                                                                         target="_blank"><span>2.3.2 Google
-                                                                                            Classroom record</span></a> </li>
+                                                                                            classNameroom record</span></a> </li>
                                                                                     <li> <a href="2 ICT tools English Dept_1.pdf"
                                                                                         target="_blank"><span>2.3.2 ICT
                                                                                             Tools</span></a> </li>
@@ -644,14 +644,14 @@ const ssr = () => {
                                                         {/* *************************************************************************************************** */}
 
 
-                                                        {/* <div class="row">
-                                                            <div class="col-md-12 "
+                                                        {/* <div className="row">
+                                                            <div className="col-md-12 "
                                                                 style={{ textAlign: "center" }}>
                                                                 <div>
                                                                     <strong> Criterion III - Research, Innovations and
                                                                         Extension</strong>
                                                                 </div>
-                                                                <table class="table table-bordered table-hover"
+                                                                <table className="table table-bordered table-hover"
                                                                     style={{ fontSize: "16px", marginTop: "20px" }}>
                                                                     <tbody>
                                                                         <tr>
@@ -850,14 +850,14 @@ const ssr = () => {
 
 
 
-                                                        {/* <div class="row">
-                                                            <div class="col-md-12 "
+                                                        {/* <div className="row">
+                                                            <div className="col-md-12 "
                                                                 style={{ textAlign: "center" }}>
                                                                 <div>
                                                                     <strong> Criterion IV - Infrastructure and Learning
                                                                         Resources</strong>
                                                                 </div>
-                                                                <table class="table table-bordered table-hover"
+                                                                <table className="table table-bordered table-hover"
                                                                     style={{ fontSize: "16px", marginTop: "20px" }}>
                                                                     <tbody>
                                                                         <tr>
@@ -880,9 +880,9 @@ const ssr = () => {
                                                                                     <li> <a href="1 Infrastructure Area.pdf"
                                                                                         target="_blank"><span>4.1.1
                                                                                             Infrastructure Area</span></a>  </li>
-                                                                                    <li> <a href="1 Classrooms.pdf"
+                                                                                    <li> <a href="1 classNamerooms.pdf"
                                                                                         target="_blank"><span>4.1.1
-                                                                                            Classrooms</span></a>  </li>
+                                                                                            classNamerooms</span></a>  </li>
                                                                                     <li> <a href="1 Departments.pdf"
                                                                                         target="_blank"><span>4.1.1
                                                                                             Departments</span></a>  </li>
@@ -963,9 +963,9 @@ const ssr = () => {
                                                                             <td>4.1.3</td>
                                                                             <td style={{ textAlign: "left" }}>
                                                                                 <ul>
-                                                                                    <li> <a href="3 ICT Classrooms.pdf"
+                                                                                    <li> <a href="3 ICT classNamerooms.pdf"
                                                                                         target="_blank"><span>4.1.3 ICT
-                                                                                            Classrooms</span></a>  </li>
+                                                                                            classNamerooms</span></a>  </li>
                                                                                 </ul>
                                                                             </td>
                                                                         </tr>
@@ -1120,14 +1120,14 @@ const ssr = () => {
 
                                                         {/* *************************************************************************************************** */}
 
-                                                        {/* <div class="row">
-                                                            <div class="col-md-12 "
+                                                        {/* <div className="row">
+                                                            <div className="col-md-12 "
                                                                 style={{ textAlign: "center" }}>
                                                                 <div>
                                                                     <strong> Criterion V - Student Support and
                                                                         Progression</strong>
                                                                 </div>
-                                                                <table class="table table-bordered table-hover"
+                                                                <table className="table table-bordered table-hover"
                                                                     style={{ fontSize: "16px", marginTop: "20px" }}>
                                                                     <tbody>
                                                                         <tr>
@@ -1367,14 +1367,14 @@ const ssr = () => {
 
 
 
-                                                        {/* <div class="row">
-                                                            <div class="col-md-12 "
+                                                        {/* <div className="row">
+                                                            <div className="col-md-12 "
                                                                 style={{ textAlign: "center" }}>
                                                                 <div>
                                                                     <strong> Criterion VI - Governance, Leadership and
                                                                         Management</strong>
                                                                 </div>
-                                                                <table class="table table-bordered table-hover"
+                                                                <table className="table table-bordered table-hover"
                                                                     style={{ fontSize: "16px", marginTop: "20px" }}>
                                                                     <tbody>
                                                                         <tr>
@@ -1709,7 +1709,7 @@ const ssr = () => {
                                                                                 <ul>
                                                                                     <li> <a href=" " target="_blank"><span>6.5.2
                                                                                         ICT
-                                                                                        workshops G Classroom, MOODLE,
+                                                                                        workshops G classNameroom, MOODLE,
                                                                                         KOHA</span></a>  </li>
                                                                                     <li> <a href=" " target="_blank"><span>6.5.2
                                                                                         Teachers
@@ -1732,14 +1732,14 @@ const ssr = () => {
 
 {/* 
 
-                                                        <div class="row">
-                                                            <div class="col-md-12 "
+                                                        <div className="row">
+                                                            <div className="col-md-12 "
                                                                 style={{ textAlign: "center" }}>
                                                                 <div>
                                                                     <strong> Criteria VII - Institutional Values and Best
                                                                         Practices</strong>
                                                                 </div>
-                                                                <table class="table table-bordered table-hover"
+                                                                <table className="table table-bordered table-hover"
                                                                     style={{ fontSize: "16px", marginTop: "20px" }}>
                                                                     <tbody>
                                                                         <tr>

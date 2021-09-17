@@ -3,15 +3,15 @@ import { NavLink } from "react-router-dom";
 import '../App.css';
 const Navlinks = ({ toggle }) => {
     return (
-        <ul class="nav navbar-nav myDropdown" id="top" >
+        <ul className="nav navbar-nav myDropdown" id="top" >
 
-            <li class="dropdown"> <NavLink onClick={toggle} class="dropbtn" to="/">Home</NavLink> </li>
+            <li className="dropdown"> <NavLink onClick={toggle} className="dropbtn" to="/">Home</NavLink> </li>
 
-            <li class="dropdown">
-                <a class="dropbtn">About &nbsp;
-                    <i class="fa fa-caret-down"></i>
+            <li className="dropdown">
+                <a className="dropbtn">About &nbsp;
+                    <i className="fa fa-caret-down"></i>
                 </a>
-                <div class="dropdown-content">
+                <div className="dropdown-content">
                     <NavLink onClick={toggle} to="/aboutsansta">About Institute </NavLink>
                     <NavLink onClick={toggle} to="/founderofmnsp">Founder of MSPM</NavLink>
                     <NavLink onClick={toggle} to="/governingbodyofmspm">Governing Body MSPM</NavLink>
@@ -25,15 +25,15 @@ const Navlinks = ({ toggle }) => {
                 </div>
             </li>
 
-            <li class="dropdown">
-                <a class="dropbtn">Courses &nbsp;
-                    <i class="fa fa-caret-down"></i>
+            <li className="dropdown">
+                <a className="dropbtn">Courses &nbsp;
+                    <i className="fa fa-caret-down"></i>
                 </a>
-                <div class="dropdown-content">
+                <div className="dropdown-content">
 
                     <a>BA &nbsp;
-                        <i class="fa fa-caret-down"></i>
-                        <ul class="subdrop">
+                        <i className="fa fa-caret-down"></i>
+                        <ul className="subdrop">
                             <li>
                                 <NavLink onClick={toggle} to="/history">History</NavLink>
                             </li>
@@ -54,8 +54,8 @@ const Navlinks = ({ toggle }) => {
                     <NavLink onClick={toggle} to="/Bcom">B.com</NavLink>
 
                     <a>PG &nbsp;
-                        <i class="fa fa-caret-down"></i>
-                        <ul class="subdrop">
+                        <i className="fa fa-caret-down"></i>
+                        <ul className="subdrop">
                             <li>
                                 <NavLink onClick={toggle} to="/history">M.A. History</NavLink>
                             </li>
@@ -76,11 +76,11 @@ const Navlinks = ({ toggle }) => {
                 </div>
             </li>
 
-            <li class="dropdown">
-                <a class="dropbtn">Academics &nbsp;
-                    <i class="fa fa-caret-down"></i>
+            <li className="dropdown">
+                <a className="dropbtn">Academics &nbsp;
+                    <i className="fa fa-caret-down"></i>
                 </a>
-                <div class="dropdown-content">
+                <div className="dropdown-content">
                     <NavLink onClick={toggle} to="/termwise-schedule">Termwise Schedule</NavLink>
                     <NavLink onClick={toggle} to="/daywise-schedule">Daywise Schedule</NavLink>
                     <NavLink onClick={toggle} to="/office-schedule"> OfficeWork Schedule</NavLink>
@@ -89,15 +89,15 @@ const Navlinks = ({ toggle }) => {
                 </div>
             </li>
 
-            <li class="dropdown">
-                <a class="dropbtn">Co-curriculam   &nbsp;
-                    <i class="fa fa-caret-down"></i>
+            <li className="dropdown">
+                <a className="dropbtn">Co-curriculam   &nbsp;
+                    <i className="fa fa-caret-down"></i>
                 </a>
-                <div class="dropdown-content"> 
+                <div className="dropdown-content"> 
 
                     <a>Cultural &nbsp;
-                        <i class="fa fa-caret-down"></i>
-                        <ul class="subdrop">
+                        <i className="fa fa-caret-down"></i>
+                        <ul className="subdrop">
                             <li>
                                 <a onClick={toggle} href="../documents/culture/cul-member.pdf"  >Cultural Commitiee Member</a>
                             </li>
@@ -122,8 +122,8 @@ const Navlinks = ({ toggle }) => {
  
 
                         <a>Sport &nbsp;
-                        <i class="fa fa-caret-down"></i>
-                        <ul class="subdrop">
+                        <i className="fa fa-caret-down"></i>
+                        <ul className="subdrop">
                             <li>
                                 <a onClick={toggle} href="../documents/"  >Sport deparment profile</a>
                             </li>
@@ -141,8 +141,8 @@ const Navlinks = ({ toggle }) => {
                     <NavLink onClick={toggle} to="/nss">NSS</NavLink>
 
                     <a>DLLE &nbsp;
-                        <i class="fa fa-caret-down"></i>
-                        <ul class="subdrop">
+                        <i className="fa fa-caret-down"></i>
+                        <ul className="subdrop">
                             <li>
                                 <a onClick={toggle} href="../documents/dlle/project.pdf"  >Departments Rules & Regulations</a>
                             </li>
@@ -159,8 +159,8 @@ const Navlinks = ({ toggle }) => {
                     </a>
 
                     <a>WDC &nbsp;
-                        <i class="fa fa-caret-down"></i>
-                        <ul class="subdrop">
+                        <i className="fa fa-caret-down"></i>
+                        <ul className="subdrop">
                             <li>
                                 <a onClick={toggle} href="../documents/WDC/WDC vison mission.pdf"  >WDC Vision,Mission </a>
                             </li>
@@ -179,28 +179,28 @@ const Navlinks = ({ toggle }) => {
                 </div> 
             </li>
 
-            <li class="dropdown">
-                <a class="dropbtn">Staff &nbsp;
-                    <i class="fa fa-caret-down"></i>
+            <li className="dropdown">
+                <a className="dropbtn">Staff &nbsp;
+                    <i className="fa fa-caret-down"></i>
                 </a>
-                <div class="dropdown-content">
+                <div className="dropdown-content">
                     <NavLink onClick={toggle} to="/teaching-staff">Teaching staff</NavLink>
                     <NavLink onClick={toggle} to="/non-teach-staff">Non-teaching staff</NavLink>
                 </div>
             </li>
 
-            <li className="dropdown"><NavLink class="dropbtn" onClick={toggle} to="/library">Library</NavLink></li>
+            <li className="dropdown"><NavLink className="dropbtn" onClick={toggle} to="/library">Library</NavLink></li>
  
 
-            <li class="dropdown">
-                <a class="dropbtn">Student Corner &nbsp;
-                    <i class="fa fa-caret-down"></i>
+            <li className="dropdown">
+                <a className="dropbtn">Student Corner &nbsp;
+                    <i className="fa fa-caret-down"></i>
                 </a>
-                <div class="dropdown-content">
+                <div className="dropdown-content">
 
                     <a>Admission &nbsp;
-                        <i class="fa fa-caret-down"></i>
-                        <ul class="subdrop">
+                        <i className="fa fa-caret-down"></i>
+                        <ul className="subdrop">
                             <li>
                                 <NavLink onClick={toggle} to="/history">Addmission Schedule</NavLink>
                             </li>
@@ -222,17 +222,17 @@ const Navlinks = ({ toggle }) => {
                 </div>
             </li> 
 
-            <li class="dropdown">
-                <a class="dropbtn">NAAC/IQAC &nbsp;
-                    <i class="fa fa-caret-down"></i>
+            <li className="dropdown">
+                <a className="dropbtn">NAAC/IQAC &nbsp;
+                    <i className="fa fa-caret-down"></i>
                 </a>
-                <div class="dropdown-content">
+                <div className="dropdown-content">
                     <NavLink onClick={toggle} to="/naac">IQAC</NavLink>
                     <NavLink onClick={toggle} to="/ssr">SSR</NavLink>
                 </div>
             </li>
 
-            <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+            <ul className="dropdown-menu" role="menu" aria-labelledby="dLabel">
             </ul>
         </ul>
     )
