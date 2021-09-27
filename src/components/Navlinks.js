@@ -50,8 +50,18 @@ const Navlinks = ({ toggle }) => {
                     </a>
                     <NavLink onClick={toggle} to="/chemistry">B.Sc (Chemistry)</NavLink>
                     <NavLink onClick={toggle} to="/bscit#top">B.Sc IT</NavLink>
-                    <NavLink onClick={toggle} to="/BMS">B.M.S</NavLink>
-                    <NavLink onClick={toggle} to="/Bcom">B.com</NavLink>
+                    <NavLink onClick={toggle} to="/BMS">B.M.S</NavLink> 
+                    <a>Commerce &nbsp;
+                        <i className="fa fa-caret-down"></i>
+                        <ul className="subdrop">
+                            <li>
+                                <NavLink onClick={toggle} to="/Bcom">B.Com</NavLink>
+                            </li>
+                            <li>
+                                <NavLink onClick={toggle} to="/baf">BAF</NavLink>
+                            </li> 
+                        </ul>
+                    </a>
 
                     <a>PG &nbsp;
                         <i className="fa fa-caret-down"></i>
@@ -70,6 +80,9 @@ const Navlinks = ({ toggle }) => {
                             </li>
                             <li>
                                 <NavLink onClick={toggle} to="/bscit#top">M.Sc I.T</NavLink>
+                            </li> 
+                            <li>
+                                <NavLink onClick={toggle} to="/Bcom">M.Com</NavLink>
                             </li> 
                         </ul>
                     </a> 
@@ -162,10 +175,10 @@ const Navlinks = ({ toggle }) => {
                         <i className="fa fa-caret-down"></i>
                         <ul className="subdrop">
                             <li>
-                                <a onClick={toggle} href="../documents/WDC/WDC vison mission.pdf"  >WDC Vision,Mission </a>
+                                <a onClick={toggle} href="../documents/WDC/WDC vison mission.pdf">WDC Vision,Mission </a>
                             </li>
                             <li>
-                                <a onClick={toggle} href="../documents/WDC/WDC Committee Report.pdf"  >WDC Commitiee </a>
+                                <a onClick={toggle} href="../documents/WDC/WDC Committee Report.pdf">WDC Commitiee </a>
                             </li>
                             <li>
                                 <a onClick={toggle} href="../documents/WDC/WDC EVENT REPORT.pdf">WDC Event Report</a>
@@ -205,19 +218,18 @@ const Navlinks = ({ toggle }) => {
                                 <NavLink onClick={toggle} to="/history">Addmission Schedule</NavLink>
                             </li>
                             <li>
-                                <a onClick={toggle} href="../documents/stud corner/eligibility criteria.pdf"  >Eligibility
-                                    Criteria</a> 
+                                <a onClick={toggle} href="../documents/stud corner/eligibility criteria.pdf"  >Eligibility Criteria</a> 
                             </li>
                         </ul>
                     </a>
                     <li>
-                        <NavLink onClick={toggle} to="/anti-ragging"> Anti-Raggging   </NavLink>
+                        <NavLink onClick={toggle} to="/anti-ragging"> Anti-Raggging</NavLink>
                     </li>
                     <li>
-                        <NavLink onClick={toggle} to="/marathi"> Scholarship   </NavLink>
+                        <NavLink onClick={toggle} to="/notfound"> Scholarship</NavLink>
                     </li>
                     <li>
-                        <NavLink onClick={toggle} to="/marathi"> Notice   </NavLink>
+                        <NavLink onClick={toggle} to="/marathi"> Notice</NavLink>
                     </li> 
                 </div>
             </li> 

@@ -3,7 +3,7 @@ function Bcom() {
   return (
     <>
       <br />
-      <h2 align="center"><b>Department of B.Com and BAAF</b> </h2>
+      <h2 align="center"><b>Department Of Commerce</b> </h2>
       <br />
 
       <div className="container">
@@ -53,6 +53,15 @@ The Department has the pride of being one of the best departments in our college
 
               <a className="list-group-item active list-group-item-action text-center" id="list-messages-list" data-toggle="list"
                 href="https://drive.google.com/file/d/1ViFci40ZJzNg9Lfu-CrJgRzIOmgo9DEG/view?usp=sharing" role="tab" aria-controls="messages"> T.Y. Bcom Syllabus</a>
+
+                <br/>
+                <br/>
+
+              <a className="list-group-item  list-group-item-action text-center" id="list-profile-list" data-toggle="list"
+                href="../documents/commerce/fymcom.pdf" role="tab" aria-controls="profile">M.Com Part 1</a>
+
+              <a className="list-group-item active list-group-item-action text-center" id="list-messages-list" data-toggle="list"
+                href="../documents/commerce/symcom.pdf" role="tab" aria-controls="messages"> M.Com Part 2</a>
 
             </div>
           </div>

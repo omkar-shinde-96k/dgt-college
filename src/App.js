@@ -20,6 +20,10 @@ const BMS = loadable({
   loader: () => import("./departments/BMS"),
   loading: () => <> <Loadingtwo /> </>
 })
+const Baf = loadable({
+  loader: () => import("./departments/Baf"),
+  loading: () => <> <Loadingtwo /> </>
+})
 const Bcom = loadable({
   loader: () => import("./departments/Bcom"),
   loading: () => <> <Loadingtwo /> </>
@@ -137,6 +141,7 @@ const ToggleHandler=()=>{
           <Route path='/chemistry' component={Chemistry} />
           <Route path='/BMS' component={BMS} />
           <Route path='/Bcom' component={Bcom} />
+          <Route path='/baf' component={Baf} />
           <Route path='/marathi' component={Marathi} />
           <Route path='/hindi' component={Hindi} />
           <Route path='/history' component={History} />
