@@ -7,7 +7,7 @@ function Naac() {
                     <div className="col-4" style={{ height: "100%", minWidth: "90%!important" }}>
                         <div className="list-group" id="list-tab" role="tablist" style={{ height: "100%", width: "100%" }}>
                             <h1 style={{ marginTop: "15px", color: "tomato", textShadow: "3px 3px 5px blue;" }} className="text-center">NACC/IQAC
-                </h1>
+                            </h1>
                             <br />
 
                             <a className="list-group-item list-group-item-action active .listclass" id="list-home-list"
@@ -24,7 +24,7 @@ function Naac() {
 
                             <a className="list-group-item list-group-item-action active .listclass" id="list-home-list"
                                 data-toggle="list" href="../documents/naac/AQAR 2016-17.pdf" role="tab" aria-controls="home">AQAR
-                    2016-17</a>
+                                2016-17</a>
 
                             <a className="list-group-item list-group-item-action" id="list-profile-list" data-toggle="list"
                                 href="../documents/naac/AQAR 2017-18.pdf" role="tab" aria-controls="profile">AQAR 2017-18</a>
@@ -41,13 +41,18 @@ function Naac() {
                             <a className="list-group-item   list-group-item-action" id="list-messages-list" data-toggle="list"
                                 href="../documents/naac/iqac.png" role="tab" aria-controls="messages">IQAC Committee</a>
 
+                            <a className="list-group-item  active  list-group-item-action" id="list-messages-list" data-toggle="list"
+                                href="../documents/naac/iqac.png" role="tab" aria-controls="messages">Meeting Minutes</a>
+
+                            <a className="list-group-item   list-group-item-action" id="list-messages-list" data-toggle="list"
+                                href="../documents/naac/iqac.png" role="tab" aria-controls="messages">Events</a>
+   
                         </div>
                     </div>
                 </div>
             </div>
 
 
-            <Footer />
         </>
     );
 }

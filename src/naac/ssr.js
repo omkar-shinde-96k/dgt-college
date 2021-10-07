@@ -19,9 +19,9 @@ const ssr = () => {
                                             <table className="table table-bordered table-hover" style={{ fontSize: "16px", marginTop: "20px" }}>
                                                 <tbody>
                                                     <tr>
-                                                        <th style={{ textAlign: "center",color:"black" }}>NAAC CYCLE IV SSR 2019-20</th>
+                                                        <th style={{ textAlign: "center", color: "black" }}>NAAC CYCLE IV SSR 2019-20</th>
                                                         <th style={{ textAlign: "center" }}>
-                                                           <a href=" " target="_blank"><span>SSR 2019-20</span></a>  
+                                                            <a href=" " target="_blank"><span>SSR 2019-20</span></a>
                                                         </th>
                                                     </tr>
                                                 </tbody>
@@ -31,9 +31,9 @@ const ssr = () => {
                                                 <tbody>
 
                                                     <tr>
-                                                        <th style={{ textAlign: "center",color:"black" }}>Permanent Affiliation Letter</th>
+                                                        <th style={{ textAlign: "center", color: "black" }}>Permanent Affiliation Letter</th>
                                                         <th style={{ textAlign: "center" }}>
-                                                             <a href=" " target="_blank"><span>Affiliation Letter and List of Programmes</span></a> 
+                                                            <a href=" " target="_blank"><span>Affiliation Letter and List of Programmes</span></a>
                                                         </th>
 
                                                     </tr>
@@ -42,7 +42,7 @@ const ssr = () => {
                                         </div>
 
                                         <h3 style={{ textAlign: "center" }}>SSR Supporting Documents</h3>
-                                        <br/>
+                                        <br />
                                         <div id="item_features_table">
 
                                             {/* ******* */}
@@ -75,10 +75,10 @@ const ssr = () => {
                                                                                     <li> <a href=" " target="_blank"><span>1.1.1 Departmental Meetings</span></a></li>
                                                                                     <li> <a href=" " target="_blank"><span>1.1.1 Google classNamerooms</span></a></li>
                                                                                     <li> <a href=" " target="_blank"><span>1.1.1 Feedbacks</span></a></li>
-                                                                                    <li> <a href=" " target="_blank"><span>1.1.1 policy letter</span></a></li>
+                                                                                    <li> <a href="https://drive.google.com/uc?export=download&id=1tVwbmS9P9DrK8JBzUiwRKmsiDTOtqTFh" target="_blank"><span>1.1.1 policy letter</span></a></li>
                                                                                     <li> <a href=" " target="_blank"><span>1.1.1 Workload</span></a></li>
                                                                                     <li> <a href=" " target="_blank"><span>1.1.1 Time-Table</span></a></li>
- 
+        
                                                                                 </ul>
                                                                             </td>
                                                                         </tr>
@@ -86,9 +86,9 @@ const ssr = () => {
                                                                             <td>1.1.2</td>
                                                                             <td style={{ textAlign: "left" }}>
                                                                                 <ul>
-                                                                                <li> <a href=" " target="_blank"><span>1.1.2 Internal Time-Table</span></a></li>
-                                                                                <li> <a href=" " target="_blank"><span>1.1.2 Academic Calender</span></a></li>
- 
+                                                                                    <li> <a href=" " target="_blank"><span>1.1.2 Internal Time-Table</span></a></li>
+                                                                                    <li> <a href=" " target="_blank"><span>1.1.2 Academic Calender</span></a></li>
+
                                                                                 </ul>
                                                                             </td>
                                                                         </tr>
@@ -96,9 +96,9 @@ const ssr = () => {
                                                                             <td>1.1.3</td>
                                                                             <td style={{ textAlign: "left" }}>
                                                                                 <ul>
-                                                                                <li> <a href=" " target="_blank"><span>1.1.3 List of teachers</span></a></li>
-                                                                                <li> <a href=" " target="_blank"><span>1.1.3 Appointment letters</span></a></li>
-                                                                                <li> <a href=" " target="_blank"><span>1.1.3 Add-on Teachers list</span></a></li>
+                                                                                    <li> <a href=" " target="_blank"><span>1.1.3 List of teachers</span></a></li>
+                                                                                    <li> <a href=" " target="_blank"><span>1.1.3 Appointment letters</span></a></li>
+                                                                                    <li> <a href=" " target="_blank"><span>1.1.3 Add-on Teachers list</span></a></li>
 
                                                                                 </ul>
                                                                             </td>
@@ -108,10 +108,10 @@ const ssr = () => {
                                                                             <td>1.2.1</td>
                                                                             <td style={{ textAlign: "left" }}>
                                                                                 <ul>
-                                                                                <li> <a href=" " target="_blank"><span>1.2.1 UG Programmes</span></a></li>
-                                                                                <li> <a href=" " target="_blank"><span>1.2.1 PG Programmes</span></a></li>
-                                                                                <li> <a href=" " target="_blank"><span>1.2.1 University Circular UG</span></a></li>
-                                                                                <li> <a href=" " target="_blank"><span>1.2.1 University Circular PG</span></a></li>
+                                                                                    <li> <a href=" " target="_blank"><span>1.2.1 UG Programmes</span></a></li>
+                                                                                    <li> <a href=" " target="_blank"><span>1.2.1 PG Programmes</span></a></li>
+                                                                                    <li> <a href=" " target="_blank"><span>1.2.1 University Circular UG</span></a></li>
+                                                                                    <li> <a href=" " target="_blank"><span>1.2.1 University Circular PG</span></a></li>
 
                                                                                 </ul>
                                                                             </td>
@@ -120,14 +120,19 @@ const ssr = () => {
                                                                             <td>1.2.2 and 1.2.3</td>
                                                                             <td style={{ textAlign: "left" }}>
                                                                                 <ul>
-                                                                             
+
+
+                                                                                    <li>  <a href=" " target="_blank"><span>1.2.2 and 1.2.3 Add on and Certificate 2015-16 </span></a> </li>
+                                                                                    <li>  <a href=" " target="_blank"><span>1.2.2 and 1.2.3 Add on and Certificate 2016-17 </span></a> </li>
+                                                                                    <li>  <a href=" " target="_blank"><span>1.2.2 and 1.2.3 Add on and Certificate 2017-18 </span></a> </li>
+                                                                                    <li>  <a href=" " target="_blank"><span>1.2.2 and 1.2.3 Add on and Certificate 2018-19 </span></a> </li>
+                                                                                    <li>  <a href=" " target="_blank"><span>1.2.2 and 1.2.3 Add on and Certificate 2019-20 </span></a> </li>
+                                                                                    <li>  <a href=" " target="_blank"><span>1.2.2 and 1.2.3 Add on and Certificate 2020-21 </span></a> </li>
+
                                                                                     <li> <a href=" "
                                                                                         target="_blank"><span>1.2.2 and
                                                                                             1.2.3 Governing Council Approval
                                                                                             for Courses</span></a> </li>
-
-                                                                                            <li>  <a href=" " target="_blank"><span>1.2.2 and
-                                                                                            1.2.3 Add on and Certificate </span></a> </li>
 
                                                                                 </ul>
                                                                             </td>
@@ -156,20 +161,20 @@ const ssr = () => {
                                                                                     <li> <a href=" "
                                                                                         target="_blank"><span>1.3.2 and
                                                                                             1.3.3 Project Work/ Field Work
-                                                                                    / Internship of the
+                                                                                            / Internship of the
                                                                                             Syllabus</span></a> </li>
 
-                                                                                <li> <a href=" " target="_blank"><span>1.3.2 and 1.3.3 Inclusive in Syllabus</span></a></li>
-                                                                                       
+                                                                                    <li> <a href=" " target="_blank"><span>1.3.2 and 1.3.3 Inclusive in Syllabus</span></a></li>
+
                                                                                     <li> <a href=" "
                                                                                         target="_blank"><span>1.3.2 and
                                                                                             1.3.3 Industrial Visit
                                                                                             Permission</span></a> </li>
 
-                                                                                            <li><a href=""
+                                                                                    <li><a href=""
                                                                                         target="_blank"><span>1.3.2 and
                                                                                             1.3.3 List of Programmes (Year-wise)</span></a> </li>
-                                                         
+
 
                                                                                 </ul>
                                                                             </td>
@@ -193,7 +198,7 @@ const ssr = () => {
                                                                                         target="_blank"><span>1.4.1 Analysis
                                                                                             of Teachers Feedback</span></a> </li>
 
-                                                                                            <li> <a href=" "
+                                                                                    <li> <a href=" "
                                                                                         target="_blank"><span>1.4.1 Analysis
                                                                                             of Parents Feedback</span></a> </li>
 
@@ -1730,7 +1735,7 @@ const ssr = () => {
 
 
 
-{/* 
+                                                        {/* 
 
                                                         <div className="row">
                                                             <div className="col-md-12 "
