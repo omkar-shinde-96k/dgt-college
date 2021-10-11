@@ -107,6 +107,73 @@ function Bscit() {
 
                 <h1 className="event-heading" align="center"><a>Events Of IT Department</a> </h1> <br />
                 <br />
+                <div className="events">
+                    <h3 className="events-title" align="center"> <span> National Level Webnair on Intellactural Property Rights </span>- 06-10-2021</h3> <br />
+                    
+                    <br />
+                    <div className="row md-2 events-img">
+
+                        <a className="col-sm-12 col-lg-6" href="../documents/it/event/2021-10-07-1.jpg"><img
+                            src="../documents/it/event/2021-10-07-1.jpg" /></a>
+
+                        <a className="col-sm-12 col-lg-6" href="../documents/it/event/2021-10-07.jpg"><img
+                            src="../documents/it/event/2021-10-07.jpg" /></a>
+                    </div>
+                </div>
+                
+                <div className="events">
+                    <h3 className="events-title" align="center"> <span> Guest Lecture For Next Genaration technology Pratical of TY.BSC.IT Sem V</span>- 30-09-2021</h3> <br />
+                    
+                    <br />
+                    <div className="row md-2 events-img">
+
+                        <a className="col-sm-12 col-lg-6" href="../documents/it/event/2021-09-30-1.jpg"><img
+                            src="../documents/it/event/2021-09-30-1.jpg" /></a>
+
+                        <a className="col-sm-12 col-lg-6" href="../documents/it/event/2021-09-30.jpg"><img
+                            src="../documents/it/event/2021-09-30.jpg" /></a>
+                    </div>
+                </div>
+                <div className="events">
+                    <h3 className="events-title" align="center"> <span>Guest Lecture For Next Genaration technology of TY.BSC.IT Sem V </span>- 06-09-2021 </h3> <br />
+                    
+                    <br />
+                    <div className="row md-2 events-img">
+
+                        <a className="col-sm-12 col-lg-6" href="../documents/it/event/2021-09-06-1.jpg"><img
+                            src="../documents/it/event/2021-09-06-1.jpg" /></a>
+
+                        <a className="col-sm-12 col-lg-6" href="../documents/it/event/2021-09-06.jpg"><img
+                            src="../documents/it/event/2021-09-06.jpg" /></a>
+                    </div>
+                </div>
+                <div className="events">
+                    <h3 className="events-title" align="center"> <span>Guest Lecture For Computer Network of SY.BSC.IT sem III </span>- 04-09-2021 </h3> <br />
+                    
+                    <br />
+                    <div className="row md-2 events-img">
+
+                        <a className="col-sm-12 col-lg-6" href="../documents/it/event/2021-09-04-1.jpg"><img
+                            src="../documents/it/event/2021-09-04-1.jpg" /></a>
+
+                        <a className="col-sm-12 col-lg-6" href="../documents/it/event/2021-09-04.jpg"><img
+                            src="../documents/it/event/2021-09-04.jpg" /></a>
+                    </div>
+                </div>
+                <div className="events">
+                    <h3 className="events-title" align="center"> <span>Guest Lecture For Internet of things of TY.BSC.IT Sem V </span>- 29-07-2021 </h3> <br />
+                    
+                    <br />
+                    <div className="row md-2 events-img">
+
+                        <a className="col-sm-12 col-lg-6" href="../documents/it/event/2021-07-29.jpg"><img
+                            src="../documents/it/event/2021-07-29.jpg" /></a>
+
+                        <a className="col-sm-12 col-lg-6" href="../documents/it/event/2021-07-29-1.jpg"><img
+                            src="../documents/it/event/2021-07-29-1.jpg" /></a>
+                    </div>
+                </div>
+               
 
                 <div className="events">
                     <h3 className="events-title" align="center"> <span>Educational Tour </span>- 27/02/2020 To 29/02/2020 </h3> <br />
