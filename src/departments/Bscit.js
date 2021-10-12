@@ -107,6 +107,20 @@ function Bscit() {
 
                 <h1 className="event-heading" align="center"><a>Events Of IT Department</a> </h1> <br />
                 <br />
+                    <div className="events">
+                    <h3 className="events-title" align="center"> <span> National Level Webnair on Research Methodology </span>- 07-10-2021</h3> <br />
+                    
+                    <br />
+                    <div className="row md-2 events-img">
+
+                        <a className="col-sm-12 col-lg-6" href="../documents/it/event/2021-10-06-1.jpg"><img
+                            src="../documents/it/event/2021-10-06-1.jpg" /></a>
+
+                        <a className="col-sm-12 col-lg-6" href="../documents/it/event/2021-10-06.jpg"><img
+                            src="../documents/it/event/2021-10-06.jpg" /></a>
+                    </div>
+                </div>
+                
                 <div className="events">
                     <h3 className="events-title" align="center"> <span> National Level Webnair on Intellactural Property Rights </span>- 06-10-2021</h3> <br />
                     
