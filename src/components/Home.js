@@ -23,6 +23,9 @@ const Home = () => {
                             <div className="item">
                                 <img src="images/clg-front-view/4.jpg" alt="New york"style={{width:"100%",height:"100%",filter:" brightness(50%)"}}/>
                             </div>
+ <div className="item">
+                                <img src="images/clg-front-view/3.jpg" alt="New york"style={{width:"100%",height:"100%",filter:" brightness(50%)"}}/>
+                            </div>
 
                             <div className="item">
                                 <img src="images/clg-front-view/College Building 3.jpg" alt="Chicago"style={{width:"100%",height:"100%",filter:" brightness(50%)"}}/>
