@@ -28,13 +28,9 @@ function Baf() {
                             <br />
 
                             <a className="list-group-item list-group-item-action active .listclass text-center" id="list-home-list"
-                                data-toggle="list" href="https://drive.google.com/file/d/1aVTkwmhDn5XKHsZsSYZ-AJkDCc1hNz5C/view?usp=sharing" role="tab" aria-controls="home">F.Y.Bcom Syllabus </a>
+                                data-toggle="list" href="./documents/commerce/BAF.pdf" role="tab" aria-controls="home">BAF Syllabus </a>
 
-                            <a className="list-group-item  list-group-item-action text-center" id="list-profile-list" data-toggle="list"
-                                href="https://drive.google.com/file/d/1JAWwDXv3avQe2bXKasEGEOaWyrNvg_79/view?usp=sharing" role="tab" aria-controls="profile">S.Y. Bcom Syllabus </a>
-
-                            <a className="list-group-item active list-group-item-action text-center" id="list-messages-list" data-toggle="list"
-                                href="https://drive.google.com/file/d/1ViFci40ZJzNg9Lfu-CrJgRzIOmgo9DEG/view?usp=sharing" role="tab" aria-controls="messages"> T.Y. Bcom Syllabus</a>
+                            
 
                         </div>
                     </div>

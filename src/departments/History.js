@@ -55,8 +55,25 @@ function History() {
                         </div>
                     </div>
                 </div>
-            </div> 
+            
             <br />
+            <h1 className="event-heading" align="center"><a>Events Of History</a> </h1> <br />
+                <br />
+                    <div className="events">
+                    <h3 className="events-title" align="center"> <span> History  M.Gandhi program </span>- 02-10-2021</h3> <br />
+                    
+                    <br />
+                    <div className="row md-2 events-img">
+
+                        <a className="col-sm-12 col-lg-6" href="../documents/history/Events/1.jpg"><img
+                            src="../documents/history/Events/1.jpg" /></a>
+
+                        <a className="col-sm-12 col-lg-6" href="../documents/history/Events/2.jpg"><img
+                            src="../documents/history/Events/2.jpg" /></a>
+                    </div>
+                </div>
+                </div>
+                
             {/* <div className="container" style={{ fontSize: "2rem", display: "flex", justifyContent: "center" }}>
                 <a href="">Results and Achievement </a>
             </div> */}
