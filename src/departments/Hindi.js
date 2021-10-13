@@ -85,26 +85,42 @@ function Hindi() {
             <div className="secoundnav">
                 <h1 className="event-heading" align="center"><a>Events Of 2020-21</a> </h1> <br />
                 <br />
-
-
-
-
+                <div className="events" >
+                    <h3 className="events-title" align="center"> <span>Guest Lecture </span>- 04-05-2021 </h3> <br />
+                    {/* <p className="events-details">Organize educational tour at murud-janjira for TY BA students on 07-03-2020 </p> */}
+                    <br />
+                    <div className="row md-2 events-img">
+                        <a className="col-sm-12 col-lg-6" href="../documents/hindi/hindi-events/04-05-21.jpg"><img src="../documents/hindi/hindi-events/04-05-21.jpg" /></a>
+                        <a className="col-sm-12 col-lg-6" href="../documents/hindi/hindi-events/04-05-21-1.jpg"><img src="../documents/hindi/hindi-events/04-05-21-1.jpg" /></a>
+                    </div>
+                </div>
+                <div className="events" >
+                    <h3 className="events-title" align="center"> <span>Guest Lecture </span>- 25-03-2021 </h3> <br />
+                   
+                    <br />
+                    <div className="row md-2 events-img">
+                        <a className="col-sm-12 col-lg-6" href="../documents/hindi/hindi-events/25-03-21.jpg"><img src="../documents/hindi/hindi-events/25-03-21.jpg" /></a>
+                        <a className="col-sm-12 col-lg-6" href="../documents/hindi/hindi-events/25-03-21-1.jpg"><img src="../documents/hindi/hindi-events/25-03-21-1.jpg" /></a>
+                    </div>
+                </div>
+                <div className="events" >
+                    <h3 className="events-title" align="center"> <span>Guest Lecture </span>- 03-04-2020 </h3> <br />
+                  
+                    <br />
+                    <div className="row md-2 events-img">
+                        <a className="col-sm-12 col-lg-6" href="../documents/hindi/hindi-events/03-04-20.jpeg"><img src="../documents/hindi/hindi-events/03-04-20.jpeg" /></a>
+                        <a className="col-sm-12 col-lg-6" href="../documents/hindi/hindi-events/03-04-20-1.jpg"><img src="../documents/hindi/hindi-events/03-04-20-1.jpg" /></a>
+                    </div>
+                </div>      
                 <div className="events" >
                     <h3 className="events-title" align="center"> <span>Educational tour </span>- 07-03-2020 </h3> <br />
                     <p className="events-details">Organize educational tour at murud-janjira for TY BA students on 07-03-2020 </p>
                     <br />
                     <div className="row md-2 events-img">
-
                         <a className="col-sm-12 col-lg-6" href="../documents/hindi/hindi-events/trip.jpg"><img src="../documents/hindi/hindi-events/trip.jpg" /></a>
-
                         <a className="col-sm-12 col-lg-6" href="../documents/hindi/hindi-events/trip2.jpg"><img src="../documents/hindi/hindi-events/trip2.jpg" /></a>
-                        
                     </div>
                 </div>
-
-
-
-
                 <div className="events"  >
                     <h3 className="events-title" align="center"> <span> Hindi translation and employment</span> 22-08-2019</h3> <br />
                     <p className="events-details">Organize guest lecture on ‘Hindi translation and employment’ for FY,SY,TY  BA students chief guest is Prof. Bamane D. K.  , Bhausaheb Nene College Pen on 22-08-2019</p>

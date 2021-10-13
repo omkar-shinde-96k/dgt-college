@@ -132,7 +132,15 @@ function BMS() {
 
                 <h1 className="event-heading" align="center"><a>Events Of BMS Department</a> </h1> <br />
                 <br />
-
+                <div className="events" >
+                    <h3 className="events-title" align="center"> <span>National Level webinar   </span>- 03-10-2021 </h3> <br />
+                    <p className="events-details">BMS IQAC Department we have successfully organized One Day National Level Webinar on Development of Entrepreneurship Skills. We have received 395 responses and 176 beneficiaries were present for the webinar and submitted the feedback form. All the participants will be receiving their certificates on their respective mail address which they have filled during feedback form submission.</p>
+                    <br />
+                    <div className="row md-2 events-img">
+                        <a className="col-sm-12 col-lg-6" href="../documents/bms/events/bms-gusetlec21-1.jpg"><img src="../documents/bms/events/bms-gusetlec21-1.jpg" /></a>
+                        <a className="col-sm-12 col-lg-6" href="../documents/bms/events/bms-gusetlec21.jpg"><img src="../documents/bms/events/bms-gusetlec21.jpg" /></a>
+                    </div>
+                </div>        
                 <div className="events">
                     <h3 className="events-title" align="center"> <span> Visit to Ellora Caves </span>- 08-02-2020 </h3> <br /> 
                     <div className="row events-imdg"> 

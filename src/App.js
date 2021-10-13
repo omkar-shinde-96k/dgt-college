@@ -116,6 +116,10 @@ const Library = loadable({
   loader: () => import("./other-compo/Library"),
   loading: () => <> <Loadingtwo /> </>
 })
+const libraryEvent = loadable({
+  loader:() => import("./other-compo/libraryEvent"),
+  loading:() => <> <Loadingtwo /> </>
+})
 const Antiragging = loadable({
   loader: () => import("./other-compo/anti-ragging"),
   loading: () => <> <Loadingtwo /> </>
@@ -171,6 +175,7 @@ const ToggleHandler=()=>{
           <Route path='/DlleFacultyMember' component={DlleFacultyMember} /> 
           <Route path='/marathi-vangmay' component={Vangmay} /> 
           <Route path='/library' component={Library} /> 
+          <Route path='/libraryEvent' component={libraryEvent} />
           <Route path='/anti-ragging' component={Antiragging} /> 
 
           <Route component={Error} />

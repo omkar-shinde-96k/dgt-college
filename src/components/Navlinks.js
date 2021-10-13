@@ -202,7 +202,16 @@ const Navlinks = ({ toggle }) => {
                 </div>
             </li>
 
-            <li className="dropdown"><NavLink className="dropbtn" onClick={toggle} to="/library">Library</NavLink></li>
+                {/* <li className="dropdown"><NavLink className="dropbtn" onClick={toggle} to="/library">Library</NavLink></li> */}
+                <li className="dropdown">
+                <a className="dropbtn">Library &nbsp;
+                    <i className="fa fa-caret-down"></i>
+                </a>
+                <div className="dropdown-content">
+                    <NavLink onClick={toggle} to="/library">Library Profile</NavLink>
+                    <NavLink onClick={toggle} to="/libraryEvent">Library Events</NavLink>
+                </div>
+            </li>
  
 
             <li className="dropdown">
