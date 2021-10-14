@@ -185,13 +185,12 @@ const Navlinks = ({ toggle }) => {
                             </li> 
                         </ul></a>
                     <NavLink onClick={toggle} to="/student-council">Student Council</NavLink>
-                    <NavLink onClick={toggle} to="/scholarship">Special cell and scholarship</NavLink>
+                    <a onClick={toggle} href="../documents/stud corner/Scholarship.jpg"  >Special cell and scholarship</a>
                     <NavLink onClick={toggle} to="/placement-help">Placement help - Committee</NavLink>
                     <NavLink onClick={toggle} to="/marathi-vangmay"> CGRC  </NavLink>
-                    <NavLink onClick={toggle} to="/marathi-vangmay"> College Alumni  </NavLink>
+                    <NavLink onClick={toggle} to="/CollegeAlumi"> College Alumni  </NavLink>
                 </div> 
             </li>
-
             <li className="dropdown">
                 <a className="dropbtn">Staff &nbsp;
                     <i className="fa fa-caret-down"></i>
@@ -202,8 +201,8 @@ const Navlinks = ({ toggle }) => {
                 </div>
             </li>
 
-            {/* <li className="dropdown"><NavLink className="dropbtn" onClick={toggle} to="/library">Library</NavLink></li> */}
-            <li className="dropdown">
+                {/* <li className="dropdown"><NavLink className="dropbtn" onClick={toggle} to="/library">Library</NavLink></li> */}
+                <li className="dropdown">
                 <a className="dropbtn">Library &nbsp;
                     <i className="fa fa-caret-down"></i>
                 </a>
@@ -212,7 +211,7 @@ const Navlinks = ({ toggle }) => {
                     <NavLink onClick={toggle} to="/libraryEvent">Library Events</NavLink>
                 </div>
             </li>
-
+ 
 
             <li className="dropdown">
                 <a className="dropbtn">Student Corner &nbsp;
@@ -224,7 +223,7 @@ const Navlinks = ({ toggle }) => {
                         <i className="fa fa-caret-down"></i>
                         <ul className="subdrop">
                             <li>
-                                <NavLink onClick={toggle} to="/history">Addmission Schedule</NavLink>
+                                <NavLink onClick={toggle} to="/addmissionSchedule">Addmission Schedule</NavLink>
                             </li>
                             <li>
                                 <a onClick={toggle} href="../documents/stud corner/eligibility criteria.pdf"  >Eligibility Criteria</a> 
@@ -235,10 +234,11 @@ const Navlinks = ({ toggle }) => {
                         <NavLink onClick={toggle} to="/anti-ragging"> Anti-Raggging</NavLink>
                     </li>
                     <li>
-                        <NavLink onClick={toggle} to="/notfound"> Scholarship</NavLink>
+                    <a onClick={toggle} href="../documents/stud corner/Scholarship.jpg"  >Scholarship</a> 
+                        {/* <NavLink onClick={toggle} to="/notfound"> Scholarship</NavLink> */}
                     </li>
                     <li>
-                        <NavLink onClick={toggle} to="/marathi"> Notice</NavLink>
+                        <NavLink onClick={toggle} to="/Notice"> Notice</NavLink>
                     </li> 
                 </div>
             </li> 

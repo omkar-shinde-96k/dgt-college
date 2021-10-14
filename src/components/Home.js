@@ -23,6 +23,10 @@ const Home = () => {
                             <div className="item">
                                 <img src="images/clg-front-view/4.jpg" alt="New york"style={{width:"100%",height:"100%",filter:" brightness(50%)"}}/>
                             </div>
+ 
+ <div className="item">
+                                <img src="images/clg-front-view/3.jpg" alt="New york"style={{width:"100%",height:"100%",filter:" brightness(50%)"}}/>
+                            </div>  
 
                             <div className="item">
                                 <img src="images/clg-front-view/College Building 3.jpg" alt="Chicago"style={{width:"100%",height:"100%",filter:" brightness(50%)"}}/>
@@ -108,7 +112,10 @@ const Home = () => {
                 <div class="col-md-6 w3l_about_bottom_left"  >
                     <div class="video-grid-single-page-agileits">
                         <div data-video="kmKlYMBiwXk" id="video"> <img
+ 
                             src="images/clg-front-view/4.jpg" alt="" className="img-responsive"
+ 
+                            src="images/clg-front-view/dgt2.jpg" alt="" className="img-responsive" 
                             style={{ width: "100%", height: "100%" }} /> </div>
                     </div>
                 </div>

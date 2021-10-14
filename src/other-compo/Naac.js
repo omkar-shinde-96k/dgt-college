@@ -56,6 +56,7 @@ function Naac() {
 {/* EVENTS code start */}
 <h1 className="event-heading" align="center"><a>Events Of Naac</a> </h1> <br />
                 <br />
+   
                 <div className="events">
                     <h3 className="events-title" align="center"> <span>Webinar on clean Energy sources and solid waste Management by Dr.Nitin Lingayat</span>- 11/08/2021  </h3> <br />
                   
