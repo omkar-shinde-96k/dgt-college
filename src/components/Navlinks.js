@@ -244,7 +244,7 @@ const Navlinks = ({ toggle }) => {
             </li> 
 
             <li className="dropdown">
-                <a className="dropbtn">NAAC/IQAC &nbsp;
+                <a className="dropbtn">NAAC &nbsp;
                     <i className="fa fa-caret-down"></i>
                 </a>
                 <div className="dropdown-content">
