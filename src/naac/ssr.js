@@ -71,7 +71,7 @@ const ssr = () => {
                                                                             <td>1.1.1</td>
                                                                             <td style={{ textAlign: "left" }}>
                                                                                 <ul>
-                                                                                    <li> <a href=" " target="_blank"><span>1.1.1 Session plan link</span></a></li>
+                                                                                    <li> <a href=" " target="_blank"><span>1.1.1 Session plan</span></a></li>
                                                                                     <li> <a href=" " target="_blank"><span>1.1.1 Departmental Meetings</span></a></li>
                                                                                     <li> <a href=" " target="_blank"><span>1.1.1 Google classNamerooms</span></a></li>
                                                                                     <li> <a href=" " target="_blank"><span>1.1.1 Feedbacks</span></a></li>
