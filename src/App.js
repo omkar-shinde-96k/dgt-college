@@ -128,7 +128,18 @@ const Facilities = loadable({
   loader: () => import("./other-compo/Facilities"),
   loading: () => <> <Loadingtwo /> </>
 })
-  
+const Notice = loadable({
+  loader: () => import("./other-compo/Notice"),
+  loading: () => <> <Loadingtwo /> </>
+})
+const addmissionSchedule = loadable({
+  loader: () => import("./other-compo/addmissionSchedule"),
+  loading: () => <> <Loadingtwo /> </>
+})
+const CollegeAlumi = loadable({
+  loader: () => import("./other-compo/CollegeAlumi"),
+  loading: () => <> <Loadingtwo /> </>
+})
 function App() {
   const [DrawerToggle, setDrawerToggle] = useState(false) 
 const ToggleHandler=()=>{
@@ -151,7 +162,7 @@ const ToggleHandler=()=>{
           <Route path='/history' component={History} />
           <Route path='/geography' component={Geo} />
 
-          <Route path='/teaching-staff' component={Tstaff} />
+         <Route path='/teaching-staff' component={Tstaff} />
           <Route path='/non-teach-staff' component={Nstaff} />
 
           <Route path='/termwise-schedule' component={TimeTable} />
@@ -177,7 +188,9 @@ const ToggleHandler=()=>{
           <Route path='/library' component={Library} /> 
           <Route path='/libraryEvent' component={libraryEvent} />
           <Route path='/anti-ragging' component={Antiragging} /> 
-
+          <Route path='/Notice' component={Notice} /> 
+          <Route path='/addmissionSchedule' component={addmissionSchedule} /> 
+          <Route path='/CollegeAlumi' component={CollegeAlumi} /> 
           <Route component={Error} />
         </Switch>
         <Footer />
