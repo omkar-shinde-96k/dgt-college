@@ -136,7 +136,7 @@ function TimeTable() {
                             <td>Book issuing timing for teaching - Non teaching Staff</td>
                         </tr>
                         <tr>
-                            <td>9.00 am to 4.00 pm </td>
+                            <td>1.00 pm to 1.30 pm </td>
                             <td>Lunch Time</td>
                         </tr>
                     </tbody>
