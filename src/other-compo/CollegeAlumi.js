@@ -9,7 +9,9 @@ function CollegeAlumi() {
         <br/>
         <h1 className="event-heading" align="center"><a>Alumni Meeting</a> </h1> <br />
         <div className="events" style={{backgroundColor: "lightblue"}} >
-                    <h3 className="events-title" align="center" > <span>College silver Jubilee Program With Alumi Students</span>- 27-01-2019 </h3> <br />
+
+                    <h3 className="events-title" align="center" > <span>College silver Jubilee Program With Alumni Students</span>- 27-01-2019 </h3> <br />
+
                     
                     <br />
                     <div className="row md-2 events-img">
