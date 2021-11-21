@@ -288,9 +288,9 @@ function Tstaff() {
 
                         <div className="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
                             <div className="about_img"><img src="images/t-staff/tamsil.jpg" height="100%" alt="" />
-                                <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}>  Asst.Prof. Sahajhan Tamseel </span><span style={{ fontSize: "15px" }}>Asst. Prof</span></h5>
+                                <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}> Asst.Prof. Shahajahan Tamseel  </span><span style={{ fontSize: "15px" }}>Asst. Prof</span></h5>
                                 <div className="about_opa">
-                                    <p > Asst. Prof</p>
+                                    <p >HOD of BMS department</p>
                                 </div>
                             </div>
                         </div>
@@ -342,6 +342,14 @@ function Tstaff() {
                         </div>
                        
 
+                        <div className="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
+                            <div className="about_img"><img src="images/t-staff//umama.jpg" height="100%" alt="" />
+                                <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}> Asst.Prof. Umama Jalgaonkar </span><span style={{ fontSize: "15px" }}>Asst. Prof</span></h5>
+                                <div className="about_opa">
+                                    <p > Asst. Prof</p>
+                                </div>
+                            </div>
+                        </div>
                         <div className="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
                             <div className="about_img"><img src="images/t-staff/Azima Rohekar.jpg" height="100%" alt="" />
                                 <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}>  Asst.Prof. Azima Rohekar  </span><span style={{ fontSize: "15px" }}>Asst. Prof</span></h5>

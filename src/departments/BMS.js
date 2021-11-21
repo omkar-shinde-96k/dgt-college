@@ -101,24 +101,24 @@ function BMS() {
                     </div>
                 </div>   
               </div>
-
               <div className="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                <div className="about_img"><img src="images/t-staff/Azima Rohekar.jpg" alt=""></img>
-                    <h5> <span>Asst. Prof. Azima Rohekar</span>  <span> M.COM , Lecturar</span></h5>
+                <div className="about_img"><img src="images/t-staff/umama.jpg" alt="umama jalgaonkar"></img>
+                    <h5> <span  style={{fontSize:"20px"}}>Asst.Prof. Umama Jalgaonkar</span>  <span>  Lecturar</span></h5>
                     <div className="about_opa">
-                        <p>M.COM , Lecturar</p>
+                        <p>  Lecturar</p>
                     </div>
                 </div>
               </div>
+              
  
               <div className="clearfix"></div>
             </div>
             <div className="team-w3l-grid grid-2-team">
             <div className="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                <div className="about_img"><img src="images/t-staff/umama.jpg" alt="umama jalgaonkar"></img>
-                    <h5> <span  style={{fontSize:"20px"}}>Asst.Prof. Umama Jalgaonkar</span>  <span>  Lecturar</span></h5>
+                <div className="about_img"><img src="images/t-staff/Azima Rohekar.jpg" alt=""></img>
+                    <h5> <span>Asst. Prof. Azima Rohekar</span>  <span> M.COM , Lecturar</span></h5>
                     <div className="about_opa">
-                        <p>  Lecturar</p>
+                        <p>M.COM , Lecturar</p>
                     </div>
                 </div>
               </div>
