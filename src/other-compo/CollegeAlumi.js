@@ -18,7 +18,15 @@ function CollegeAlumi() {
                         <a className="col-sm-12 col-lg-6" href="../documents/college alumi/1.jpg"><img src="../documents//college alumi/1.jpg" /></a>
                         <a className="col-sm-12 col-lg-6" href="../documents/college alumi/2.jpg"><img src="../documents/college alumi/2.jpg" /></a>
                     </div>
-                </div> 
+                    <h3 className="events-title" align="center" > <span>College Alumni Registration</span></h3> <br />
+
+                    <div className="events" align="center">
+                    <div className="row events-imdg"> 
+                        <a width="25%" href="../documents/college alumi/alumiregestration.jpg"><img
+                            src="../documents/college alumi/alumiregestration.jpg" width="25%"/></a> 
+                    </div>
+                </div> </div>
+                
                     <br/>
                     <br/>
                     <br/>

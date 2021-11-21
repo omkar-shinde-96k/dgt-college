@@ -218,7 +218,39 @@ function Chemistry() {
 
         <h1 className="event-heading" align="center"><a>Events Of Chemistry Department</a> </h1> <br />
         <br />
+        <div className="events" >
+                    <h3 className="events-title" align="center"> <span>National Level webinar   </span>- 17 OCT 2021 </h3> <br />
+                    <p className="events-details">BSC IQAC Department we have successfully organized One Day National Level Webinar on IPR. All the participants will be receiving their certificates on their respective mail address which they have filled during feedback form submission.</p>
+                    <br />
+                    <div className="row md-2 events-img">
+                        <a className="col-sm-12 col-lg-6" href="../documents/chemistry/Event 2020-21/1.jpg"><img src="../documents/chemistry/Event 2020-21/1.jpg" /></a>
+                        <a className="col-sm-12 col-lg-6" href="../documents/chemistry/Event 2020-21/2.jpg"><img src="../documents/chemistry/Event 2020-21/2.jpg" /></a>
+                    </div>
+                </div>
+        <div className="events">
+          <h3 className="events-title" align="center"> <span>NDS FLIM WORLD TRIP  </span></h3> <br />
 
+          <div className="row events-imdg">
+            <a width="100%" href="../documents/chemistry/Event 2020-21/4.jpg"><img
+              src="../documents/chemistry/Event 2020-21/4.jpg" width="100%" alt="img" /></a>
+          </div>
+        </div>
+        <div className="events">
+          <h3 className="events-title" align="center"> <span>  Sports championship 2019-20 </span></h3> <br />
+
+          <div className="row events-imdg">
+            <a width="100%" href="../documents/chemistry/Event 2020-21/3.jpg"><img
+              src="../documents/chemistry/Event 2020-21/3.jpg" width="100%" alt="img" /></a>
+          </div>
+        </div>
+ <div className="events">
+          <h3 className="events-title" align="center"> <span> हिरवळ प्रतिष्ठान आणि ग्लोबल कोकण यांचा विद्यमनाने आयोजित पाणी वाचवा या भाषण स्पर्धेचा विजेता  </span></h3> <br />
+
+          <div className="row events-imdg">
+            <a width="100%" href="../documents/chemistry/Event 2020-21/5.jpg"><img
+              src="../documents/chemistry/Event 2020-21/5.jpg" width="100%" alt="img" /></a>
+          </div>
+        </div>
 
         <div className="events">
           <h3 className="events-title" align="center"> <span>  Events Of 2019-20 </span>  </h3> <br />

@@ -129,6 +129,15 @@ The Department has the pride of being one of the best departments in our college
                   </div>
                 </div>
               </div>
+              <div className="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
+                <div className="about_img"><img src="images/t-staff/Sandesh.jpg" alt=""></img>
+                  <h5> <span>Prof. Sandesh Gawade</span>  <span> Lecturar</span></h5>
+                  <div className="about_opa">
+                    <p>Lecturar</p>
+                  </div>
+                </div>
+              </div>
+             
               <div className="clearfix"></div>  <br/>
             </div>
           </div>
