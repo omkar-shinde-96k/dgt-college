@@ -116,7 +116,7 @@ function BMS() {
             <div className="team-w3l-grid grid-2-team">
             <div className="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
                 <div className="about_img"><img src="images/t-staff/Azima Rohekar.jpg" alt=""></img>
-                    <h5> <span>Asst. Prof. Azima Rohekar</span>  <span> M.COM , Lecturar</span></h5>
+                    <h5> <span>Asst. Prof. Azmina Rohekar</span>  <span> M.COM , Lecturar</span></h5>
                     <div className="about_opa">
                         <p>M.COM , Lecturar</p>
                     </div>
