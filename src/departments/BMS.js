@@ -103,10 +103,10 @@ function BMS() {
               </div>
 
               <div className="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                <div className="about_img"><img src="images/t-staff/Nigar Dhansay.jpg" alt=""></img>
-                    <h5> <span>Asst. Prof. Nigar Dhansay</span>  <span> MBA , Lecturar</span></h5>
+                <div className="about_img"><img src="images/t-staff/Azima Rohekar.jpg" alt=""></img>
+                    <h5> <span>Asst. Prof. Azima Rohekar</span>  <span> M.COM , Lecturar</span></h5>
                     <div className="about_opa">
-                        <p>MBA , Lecturar</p>
+                        <p>M.COM , Lecturar</p>
                     </div>
                 </div>
               </div>
