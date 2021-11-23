@@ -244,12 +244,12 @@ function Chemistry() {
           </div>
         </div>
  <div className="events">
-          <h3 className="events-title" align="center"> <span> हिरवळ प्रतिष्ठान आणि ग्लोबल कोकण यांचा विद्यमनाने आयोजित पाणी वाचवा या भाषण स्पर्धेचा विजेता  </span></h3> <br />
+           <h3 className="events-title" align="center"> <span> हिरवळ प्रतिष्ठान आणि ग्लोबल कोकण यांचा विद्यमनाने आयोजित पाणी वाचवा या भाषण स्पर्धेचा विजेता  Nov 2017 </span></h3> <br />
 
-          <div className="row events-imdg">
-            <a width="100%" href="../documents/chemistry/Event 2020-21/5.jpg"><img
-              src="../documents/chemistry/Event 2020-21/5.jpg" width="100%" alt="img" /></a>
-          </div>
+          <div className="row md-2 events-img">
+                        <a className="col-sm-12 col-lg-6" href="../documents/chemistry/Event 2020-21/5.jpg"><img src="../documents/chemistry/Event 2020-21/5.jpg" /></a>
+                        <a className="col-sm-12 col-lg-6" href="../documents/chemistry/Event 2020-21/6.jpg"><img src="../documents/chemistry/Event 2020-21/6.jpg" /></a>
+                    </div>
         </div>
 
         <div className="events">
