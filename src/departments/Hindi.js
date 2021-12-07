@@ -3,7 +3,7 @@ function Hindi() {
     return (
         <>
             <br />
-            <h1 align="center" ><b>हिंदी  विभाग</b> </h1>
+            <h1 align="center" ><b>हिंदी विभाग</b> </h1>
             <br />
             <div className="container-fluid">
                 <div className="row">
