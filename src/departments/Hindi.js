@@ -86,7 +86,7 @@ function Hindi() {
                 <h1 className="event-heading" align="center"><a>Events Of 2020-21</a> </h1> <br />
                 <br />
                 <div className="events" >
-                    <h3 className="events-title" align="center"> <span>Guest Lecture </span>- 04-05-2021 </h3> <br />
+                    <h3 className="events-title" align="center"> <span>Guest Lecture </span>- 05-05-2021 </h3> <br />
                     {/* <p className="events-details">Organize educational tour at murud-janjira for TY BA students on 07-03-2020 </p> */}
                     <br />
                     <div className="row md-2 events-img">
