@@ -158,20 +158,20 @@ const ssr = () => {
                                                                             <td>1.3.2 and 1.3.3</td>
                                                                             <td style={{ textAlign: "left" }}>
                                                                                 <ul>
-                                                                                    <li> <a href=" "
+                                                                                    <li> <a href="https://drive.google.com/uc?export=download&id=1k6C0kw4BUzdApmlqgrh1zw6RxeCnu3qo"
                                                                                         target="_blank"><span>1.3.2 and
                                                                                             1.3.3 Project Work/ Field Work
                                                                                             / Internship of the
                                                                                             Syllabus</span></a> </li>
 
-                                                                                    <li> <a href=" " target="_blank"><span>1.3.2 and 1.3.3 Inclusive in Syllabus</span></a></li>
+                                       
 
-                                                                                    <li> <a href=" "
+                                                                                    <li> <a href="https://drive.google.com/uc?export=download&id=1K9wISqvkk7PXD4AEClhyKg677vIzBq-u"
                                                                                         target="_blank"><span>1.3.2 and
                                                                                             1.3.3 Industrial Visit
                                                                                             Permission</span></a> </li>
 
-                                                                                    <li><a href=""
+                                                                                    <li><a href="https://drive.google.com/uc?export=download&id=1b_aRKxzUMSZYlQJAf2E_VTOhQx3iqgFa"
                                                                                         target="_blank"><span>1.3.2 and
                                                                                             1.3.3 List of Programmes (Year-wise)</span></a> </li>
 
