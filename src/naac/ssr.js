@@ -86,8 +86,8 @@ const ssr = () => {
                                                                             <td>1.1.2</td>
                                                                             <td style={{ textAlign: "left" }}>
                                                                                 <ul>
-                                                                                    <li> <a href=" " target="_blank"><span>1.1.2 Internal Time-Table</span></a></li>
-                                                                                    <li> <a href=" " target="_blank"><span>1.1.2 Academic Calender</span></a></li>
+                                                                                    <li> <a href="https://drive.google.com/uc?export=download&id=1XWu2S1Py-c1l3Y30cGv4YmSkPkmu9teP" target="_blank"><span>1.1.2 Internal Class test </span></a></li>
+                                                                            
 
                                                                                 </ul>
                                                                             </td>
