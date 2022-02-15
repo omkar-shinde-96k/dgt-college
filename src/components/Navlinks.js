@@ -94,11 +94,11 @@ const Navlinks = ({ toggle }) => {
                     <i className="fa fa-caret-down"></i>
                 </a>
                 <div className="dropdown-content">
+                    <NavLink onClick={toggle} to="/adacmiccal">Academic Calender</NavLink>
                     <NavLink onClick={toggle} to="/termwise-schedule">Termwise Schedule</NavLink>
                     <NavLink onClick={toggle} to="/daywise-schedule">Daywise Schedule</NavLink>
                     <NavLink onClick={toggle} to="/office-schedule"> OfficeWork Schedule</NavLink>
                     <NavLink onClick={toggle} to="/library-schedule">Library Schedule </NavLink>
-                    <NavLink onClick={toggle} to="/examination-schedule">Exam Schedule </NavLink>
                 </div>
             </li>
 

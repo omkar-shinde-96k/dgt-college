@@ -1,0 +1,28 @@
+import '../departments/Dept.css';
+function Adacal() {
+    return (
+        <>
+        <div>
+        <br/>
+        
+ <h1 className="event-heading" align="center"><a>Academic Calender</a> </h1> <br />
+                <br />
+
+
+                <div className="events" align="center">
+                    <div className="row events-imdg"> 
+                        <a width="25%" href="../documents/naac/ACDCAL1920.jpg"><img
+                            src="../documents/naac/ACDCAL1920.jpg" width="25%"/></a> 
+                    </div>
+                </div>
+               
+                </div>
+                
+
+
+               
+</>
+    );
+}
+
+export default Adacal;

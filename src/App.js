@@ -140,6 +140,10 @@ const CollegeAlumi = loadable({
   loader: () => import("./other-compo/CollegeAlumi"),
   loading: () => <> <Loadingtwo /> </>
 })
+const Adacal = loadable({
+  loader: () => import("./other-compo/Adacal"),
+  loading: () => <> <Loadingtwo /> </>
+})
 function App() {
   const [DrawerToggle, setDrawerToggle] = useState(false) 
 const ToggleHandler=()=>{
@@ -169,7 +173,7 @@ const ToggleHandler=()=>{
           <Route path='/daywise-schedule' component={TimeTable} />
           <Route path='/office-schedule' component={TimeTable} />
           <Route path='/library-schedule' component={TimeTable} />
-          <Route path='/examination-schedule' component={TimeTable} /> 
+          <Route path='/adacmiccal' component={Adacal} /> 
           <Route path='/naac' component={Naac} />
           <Route path='/ssr' component={ssr} />
           <Route path='/nss' component={Nss} />
