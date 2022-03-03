@@ -240,6 +240,12 @@ const Navlinks = ({ toggle }) => {
                     <li>
                         <NavLink onClick={toggle} to="/Notice"> Notice</NavLink>
                     </li> 
+                    <li>
+                        <NavLink onClick={toggle} to="/enotice"> Exam notice & result</NavLink>
+                    </li> 
+                    <li>
+                        <NavLink onClick={toggle} to="/feedback"> Feedback</NavLink>
+                    </li> 
                 </div>
             </li> 
 

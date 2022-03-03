@@ -14,37 +14,41 @@ function Naac() {
 
                             <a className="list-group-item list-group-item-action active .listclass" id="list-home-list"
                                 data-toggle="list" href="#list-home" role="tab" aria-controls="home">Introduction</a>
-
-                            <a className="list-group-item  list-group-item-action" id="list-profile-list" data-toggle="list"
-                                href="../documents/naac/pear-team.pdf" role="tab" aria-controls="profile">PEER TEAM REPORT </a>
-
-                            <a className="list-group-item active list-group-item-action" id="list-messages-list" data-toggle="list"
-                                href="../documents/naac/grade-sheet.jpg" role="tab" aria-controls="messages"> Grade Sheet</a>
-
-                            <a className="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list"
-                                href="../documents/naac/AQAR 2015-16.pdf" role="tab" aria-controls="settings"> AQAR 2015-16</a>
-
-                            <a className="list-group-item list-group-item-action active .listclass" id="list-home-list"
-                                data-toggle="list" href="../documents/naac/AQAR 2016-17.pdf" role="tab" aria-controls="home">AQAR
-                                2016-17</a>
-
-                            <a className="list-group-item list-group-item-action" id="list-profile-list" data-toggle="list"
-                                href="../documents/naac/AQAR 2017-18.pdf" role="tab" aria-controls="profile">AQAR 2017-18</a>
-
-                            <a className="list-group-item active list-group-item-action" id="list-messages-list" data-toggle="list"
-                                href="../documents/naac/AQAR 2018-19.pdf" role="tab" aria-controls="messages">AQAR 2018-19</a>
-
-                            <a className="list-group-item   list-group-item-action" id="list-messages-list" data-toggle="list"
-                                href="../documents/naac/AQAR 2018-19.pdf" role="tab" aria-controls="messages">AQAR 2019-20</a>
-
-                            <a className="list-group-item  active list-group-item-action" id="list-messages-list" data-toggle="list"
-                                href="../documents/naac/others.pdf" role="tab" aria-controls="messages">Other important links</a>
-
+                            
                             <a className="list-group-item   list-group-item-action" id="list-messages-list" data-toggle="list"
                                 href="../documents/naac/iqac.png" role="tab" aria-controls="messages">IQAC Committee</a>
 
-                            <a className="list-group-item  active  list-group-item-action" id="list-messages-list" data-toggle="list"
-                                href="../documents/naac/iqac.png" role="tab" aria-controls="messages">Meeting Minutes</a>
+                            <a className="list-group-item active list-group-item-action" id="list-profile-list" data-toggle="list"
+                                href="../documents/naac/pear-team.pdf" role="tab" aria-controls="profile">PEER TEAM REPORT </a>
+                            
+                            <a className="list-group-item    list-group-item-action" id="list-messages-list" data-toggle="list"
+                                href="../documents/naac/iqac.png" role="tab" aria-controls="messages">IQAC Meeting Minutes</a>
+
+                            <a className="list-group-item active list-group-item-action" id="list-messages-list" data-toggle="list"
+                                href="../aqar" role="tab" aria-controls="messages">AQAR</a>
+
+                            <a className="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list"
+                                href="#list" role="tab" aria-controls="settings">perspective plan </a>
+
+                            <a className="list-group-item list-group-item-action active .listclass" id="list-home-list"
+                                data-toggle="list" href="../documents/naac/2.7.1 – Student Satisfaction Survey (SSS) on overall institutional performance 2019-20" role="tab" aria-controls="home">Students satisfaction survey
+                                </a>
+
+                            <a className="list-group-item list-group-item-action" id="list-profile-list" data-toggle="list"
+                                href="#list" role="tab" aria-controls="profile">Best Practices</a>
+
+                            <a className="list-group-item active list-group-item-action" id="list-messages-list" data-toggle="list"
+                                href="../documents/naac/Program Outcomes.pdf" role="tab" aria-controls="messages">Program outcome & course outcome</a>
+
+                            <a className="list-group-item   list-group-item-action" id="list-messages-list" data-toggle="list"
+                                href="#list" role="tab" aria-controls="messages">Institutional Distinctiveness</a>
+
+                            <a className="list-group-item  active list-group-item-action" id="list-messages-list" data-toggle="list"
+                                href="#list" role="tab" aria-controls="messages">NIRF</a>
+
+                           
+
+                            
 
                             <a className="list-group-item   list-group-item-action" id="list-messages-list" data-toggle="list"
                                 href="../documents/naac/iqac.png" role="tab" aria-controls="messages">Events</a>

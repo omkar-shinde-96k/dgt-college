@@ -132,6 +132,14 @@ const Notice = loadable({
   loader: () => import("./other-compo/Notice"),
   loading: () => <> <Loadingtwo /> </>
 })
+const eNotice = loadable({
+  loader: () => import("./other-compo/eNotice"),
+  loading: () => <> <Loadingtwo /> </>
+})
+const aqar = loadable({
+  loader: () => import("./other-compo/AQAR"),
+  loading: () => <> <Loadingtwo /> </>
+})
 const addmissionSchedule = loadable({
   loader: () => import("./other-compo/addmissionSchedule"),
   loading: () => <> <Loadingtwo /> </>
@@ -193,6 +201,8 @@ const ToggleHandler=()=>{
           <Route path='/libraryEvent' component={libraryEvent} />
           <Route path='/anti-ragging' component={Antiragging} /> 
           <Route path='/Notice' component={Notice} /> 
+          <Route path='/eNotice' component={eNotice} /> 
+          <Route path='/aqar' component={aqar} />
           <Route path='/addmissionSchedule' component={addmissionSchedule} /> 
           <Route path='/CollegeAlumi' component={CollegeAlumi} /> 
           <Route component={Error} />
