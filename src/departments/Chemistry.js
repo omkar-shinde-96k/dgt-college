@@ -219,6 +219,23 @@ function Chemistry() {
         <h1 className="event-heading" align="center"><a>Events Of Chemistry Department</a> </h1> <br />
         <br />
         <div className="events" >
+                    <h3 className="events-title" align="center"> <span>Medicinal Plant Plantation   </span>- 28 OCT 2022 </h3> <br />
+                    <p className="events-details">.</p>                    <br />
+                    <div className="row md-2 events-img">
+                        <a className="col-sm-12 col-lg-6" href="../documents/chemistry/Event 2021-22/1.jpg"><img src="../documents/chemistry/Event 2021-22/1.jpg" /></a>
+                        <a className="col-sm-12 col-lg-6" href="../documents/chemistry/Event 2021-22/2.jpg"><img src="../documents/chemistry/Event 2021-22/2.jpg" /></a>
+                    </div>
+                </div>
+                <div className="events" >
+                    <h3 className="events-title" align="center"> <span>Science day celebration   </span>- 28 OCT 2022 </h3> <br />
+                    <p className="events-details">.</p>
+                    <br />
+                    <div className="row md-2 events-img">
+                        <a className="col-sm-12 col-lg-6" href="../documents/chemistry/Event 2021-22/3.jpg"><img src="../documents/chemistry/Event 2021-22/3.jpg" /></a>
+                        <a className="col-sm-12 col-lg-6" href="../documents/chemistry/Event 2021-22/4.jpg"><img src="../documents/chemistry/Event 2021-22/4.jpg" /></a>
+                    </div>
+                </div>       
+        <div className="events" >
                     <h3 className="events-title" align="center"> <span>National Level webinar   </span>- 17 OCT 2021 </h3> <br />
                     <p className="events-details">BSC IQAC Department we have successfully organized One Day National Level Webinar on IPR. All the participants will be receiving their certificates on their respective mail address which they have filled during feedback form submission.</p>
                     <br />
@@ -424,37 +441,7 @@ function Chemistry() {
           </div>
         </div>
 
-        <div className="events">
-          <h3 className="events-title" align="center"> <span>Farewell Party  </span>- 2015-16 </h3> <br />
-          <div className="row events-imdg">
-            <a width="100%" href="../documents/chemistry/Event 2015-16/Farewell Party.jpg"><img
-              src="../documents/chemistry/Event 2015-16/Farewell Party.jpg" width="100%" alt="img" /></a>
-          </div>
-        </div>
-
-        <div className="events">
-          <h3 className="events-title" align="center"> <span> Tour to Mahableshwar & Panjgani </span>- 2015-16 </h3> <br />
-          <div className="row events-imdg">
-            <a width="100%" href="../documents/chemistry/Event 2015-16/Tour to Mahableshwar & Panjgani.jpg"><img
-              src="../documents/chemistry/Event 2015-16/Tour to Mahableshwar & Panjgani.jpg" alt="img" width="100%" /></a>
-          </div>
-        </div>
-
-        <div className="events">
-          <h3 className="events-title" align="center"> <span> Terrerium activity by Botany students </span>- 2015-16 </h3> <br />
-          <div className="row events-imdg">
-            <a width="100%" href="../documents/chemistry/Event 2015-16/Terrerium activity by Botany students.jpg"><img
-              src="../documents/chemistry/Event 2015-16/Terrerium activity by Botany students.jpg" alt="img" width="100%" /></a>
-          </div>
-        </div>
-
-        <div className="events">
-          <h3 className="events-title" align="center"> <span> Best Students college </span>- 2015-16 </h3> <br />
-          <div className="row events-imdg">
-            <a width="100%" href="../documents/chemistry/Event 2015-16/Best Students college.jpg"><img
-              src="../documents/chemistry/Event 2015-16/Best Students college.jpg" width="100%" alt="img" /></a>
-          </div>
-        </div>
+       
 
 
 
