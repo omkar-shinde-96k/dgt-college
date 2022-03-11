@@ -140,6 +140,10 @@ const aqar = loadable({
   loader: () => import("./other-compo/AQAR"),
   loading: () => <> <Loadingtwo /> </>
 })
+const Feedback = loadable({
+  loader: () => import("./other-compo/Feedback"),
+  loading: () => <> <Loadingtwo /> </>
+})
 const addmissionSchedule = loadable({
   loader: () => import("./other-compo/addmissionSchedule"),
   loading: () => <> <Loadingtwo /> </>
@@ -185,6 +189,8 @@ const ToggleHandler=()=>{
           <Route path='/naac' component={Naac} />
           <Route path='/ssr' component={ssr} />
           <Route path='/nss' component={Nss} />
+          <Route path='/feedback' component={Feedback} />
+
 
           <Route path='/aboutsansta' component={AboutSansta} />
           <Route path='/founderofmnsp' component={MspmFounder} />

@@ -219,7 +219,7 @@ function Chemistry() {
         <h1 className="event-heading" align="center"><a>Events Of Chemistry Department</a> </h1> <br />
         <br />
         <div className="events" >
-                    <h3 className="events-title" align="center"> <span>Medicinal Plant Plantation   </span>- 28 OCT 2022 </h3> <br />
+                    <h3 className="events-title" align="center"> <span> Science day celebration </span>- 28 OCT 2022 </h3> <br />
                     <p className="events-details">.</p>                    <br />
                     <div className="row md-2 events-img">
                         <a className="col-sm-12 col-lg-6" href="../documents/chemistry/Event 2021-22/1.jpg"><img src="../documents/chemistry/Event 2021-22/1.jpg" /></a>
@@ -227,7 +227,7 @@ function Chemistry() {
                     </div>
                 </div>
                 <div className="events" >
-                    <h3 className="events-title" align="center"> <span>Science day celebration   </span>- 28 OCT 2022 </h3> <br />
+                    <h3 className="events-title" align="center"> <span>  Medicinal Plant Plantation   </span>- 28 OCT 2022 </h3> <br />
                     <p className="events-details">.</p>
                     <br />
                     <div className="row md-2 events-img">
