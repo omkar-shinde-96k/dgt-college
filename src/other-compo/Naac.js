@@ -31,7 +31,7 @@ function Naac() {
                                 href="#list" role="tab" aria-controls="settings">perspective plan </a>
 
                             <a className="list-group-item list-group-item-action active .listclass" id="list-home-list"
-                                data-toggle="list" href="../documents/naac/2.7.1 – Student Satisfaction Survey (SSS) on overall institutional performance 2019-20" role="tab" aria-controls="home">Students satisfaction survey
+                                data-toggle="list" href="../documents/naac/2.7.1 – Student Satisfaction Survey (SSS) on overall institutional performance 2019-20.pdf" role="tab" aria-controls="home">Students satisfaction survey
                                 </a>
 
                             <a className="list-group-item list-group-item-action" id="list-profile-list" data-toggle="list"
