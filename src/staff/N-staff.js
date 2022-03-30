@@ -82,12 +82,19 @@ function Marathi() {
                                 </div>
                             </div>
                         </div>
-                        
+                        <div className="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
+                            <div className="about_img"><img src="images/non-t-staff/Ashvinkumar.jpg" height="100%" alt="" />
+                                <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}> Ashvin kumar </span><span style={{ fontSize: "15px" }}>Naac clerk</span></h5>
+                                <div className="about_opa">
+                                    <p >Naac clerk</p>
+                                </div>
+                            </div>
+                        </div>
                         <div className="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
                             <div className="about_img"><img src="images/non-t-staff/Ankita Mhaske.jpg" height="100%" alt="" />
                                 <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}>Miss. Mhaske Ankita  </span><span style={{ fontSize: "15px" }}>Library Attendant</span></h5>
                                 <div className="about_opa">
-                                    <p > Library Attendant</p>
+                                    {/* <p > Library Attendant</p> */}
                                 </div>
                             </div>
                         </div>
@@ -106,8 +113,8 @@ function Marathi() {
                     <div className="team-w3l-grid grid-2-team">
                         
                         <div className="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                            <div className="about_img"><img src="images/non-t-staff/noimg.jpg" height="100%" alt="" />
-                                <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}> Mr. Pawar S. S. </span><span style={{ fontSize: "15px" }}>Peon</span></h5>
+                            <div className="about_img"><img src="images/non-t-staff/BHADAVKAR.jpg" height="100%" alt="" />
+                                <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}> Mr. BHADAVKAR </span><span style={{ fontSize: "15px" }}>Peon</span></h5>
                                 <div className="about_opa">
                                     <p > Peon</p>
                                 </div>
