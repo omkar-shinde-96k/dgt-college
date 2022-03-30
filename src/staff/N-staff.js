@@ -99,14 +99,7 @@ function Marathi() {
                             </div>
                         </div>
                         
-                        <div className="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                            <div className="about_img"><img src="images/non-t-staff/Dilip.jpg" height="100%" alt="" />
-                                <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}> Mr. Dilip Bhavadkar </span><span style={{ fontSize: "15px" }}>Peon</span></h5>
-                                <div className="about_opa">
-                                    <p > Peon</p>
-                                </div>
-                            </div>
-                        </div> 
+                        
                         <div className="clearfix"></div> <br/>
                     </div>
 
@@ -114,7 +107,7 @@ function Marathi() {
                         
                         <div className="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
                             <div className="about_img"><img src="images/non-t-staff/BHADAVKAR.jpg" height="100%" alt="" />
-                                <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}> Mr. BHADAVKAR </span><span style={{ fontSize: "15px" }}>Peon</span></h5>
+                            <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}> Mr. Dilip Bhavadkar </span><span style={{ fontSize: "15px" }}>Peon</span></h5>
                                 <div className="about_opa">
                                     <p > Peon</p>
                                 </div>
