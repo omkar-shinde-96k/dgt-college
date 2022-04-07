@@ -17,9 +17,9 @@ function Footer() {
                         <div className="col-md-3 col-xs-3  footer_grid_left1">
                             <h4>Navigation</h4>
                             <ul>
-                                <li><i className="fa fa-angle-double-right primary" aria-hidden="true"></i><a href="/"><NavLink to="/">Home</NavLink></a></li>
+                                <li><i className="fa fa-angle-double-right primary" aria-hidden="true"></i><a href="/"><NavLink to="/greencampus">Green audit</NavLink></a></li>
  
-                                <li><i className="fa fa-angle-double-right" aria-hidden="true"></i><a  href="/"> <NavLink to="/chemistry">Bsc Chemistry</NavLink></a></li>
+                                {/* <li><i className="fa fa-angle-double-right" aria-hidden="true"></i><a  href="/"> <NavLink to="/chemistry">Bsc Chemistry</NavLink></a></li>
                                 <li><i className="fa fa-angle-double-right" aria-hidden="true"></i><a href="/"><NavLink to="/bscit/temp">Bsc IT</NavLink></a></li>
                                 <li><i className="fa fa-angle-double-right" aria-hidden="true"></i><a href="/"><NavLink to="/BMS">B.M.S</NavLink></a></li>
                                 <li><i className="fa fa-angle-double-right" aria-hidden="true"></i><a href="/"><NavLink to="/Bcom">B.com</NavLink></a></li>
@@ -30,7 +30,7 @@ function Footer() {
 
                                 <li><i className="fa fa-angle-double-right" aria-hidden="true"></i><a href="/"><NavLink to="/hindi">Hindi</NavLink></a></li>
 
-                                <li><i className="fa fa-angle-double-right" aria-hidden="true"></i><a href="/" ><NavLink to="/Geography">Geography</NavLink></a></li>
+                                <li><i className="fa fa-angle-double-right" aria-hidden="true"></i><a href="/" ><NavLink to="/Geography">Geography</NavLink></a></li> */}
                             </ul>
                         </div>
                             <div className="col-md-3 col-xs-3  footer_grid_left1 a3">

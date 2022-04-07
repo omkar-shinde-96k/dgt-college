@@ -156,6 +156,10 @@ const Adacal = loadable({
   loader: () => import("./other-compo/Adacal"),
   loading: () => <> <Loadingtwo /> </>
 })
+const Greencampus = loadable({
+  loader: () => import("./other-compo/Greencampus"),
+  loading: () => <> <Loadingtwo /> </>
+})
 function App() {
   const [DrawerToggle, setDrawerToggle] = useState(false) 
 const ToggleHandler=()=>{
@@ -211,6 +215,7 @@ const ToggleHandler=()=>{
           <Route path='/aqar' component={aqar} />
           <Route path='/addmissionSchedule' component={addmissionSchedule} /> 
           <Route path='/CollegeAlumi' component={CollegeAlumi} /> 
+          <Route path='/Greencampus' component={Greencampus} /> 
           <Route component={Error} />
         </Switch>
         <Footer />
