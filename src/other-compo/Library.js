@@ -36,9 +36,7 @@ const Library = () => {
                         <br />
                     </ul>
                 </p>
-                <diV>
-                <h3 align="center"> Library Reports</h3>
-                </diV>
+                <h3 align="center">Library Data for SSR </h3>
                 <br />
 
                 <h3 align="center"> Library  Department Profile / Staff Report</h3>
