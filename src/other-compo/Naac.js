@@ -22,7 +22,7 @@ function Naac() {
                                 href="../documents/naac/pear-team.pdf" role="tab" aria-controls="profile">PEER TEAM REPORT </a>
                             
                             <a className="list-group-item    list-group-item-action" id="list-messages-list" data-toggle="list"
-                                href="../documents/naac/iqac.png" role="tab" aria-controls="messages">IQAC Meeting Minutes</a>
+                                href="../documents/naac/atr.pdf" role="tab" aria-controls="messages">IQAC Meeting Minutes</a>
 
                             <a className="list-group-item active list-group-item-action" id="list-messages-list" data-toggle="list"
                                 href="../aqar" role="tab" aria-controls="messages">AQAR</a>
