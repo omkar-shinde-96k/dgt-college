@@ -1,6 +1,5 @@
-import React from 'react'
-
-const Bestp = () => {
+import '../departments/Dept.css';
+function Bestp() {
     return (
         <>
           <div className="WordSection1">
@@ -111,7 +110,7 @@ const Bestp = () => {
         
         
         </>
-        )
+        );
     }
     
     export default Bestp
