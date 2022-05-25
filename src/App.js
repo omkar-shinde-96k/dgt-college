@@ -64,6 +64,10 @@ const Naac = loadable({
   loader: () => import("./other-compo/Naac"),
   loading: () => <> <Loadingtwo /> </>
 })
+const Bestp = loadable({
+  loader: () => import("./other-compo/Bestp"),
+  loading: () => <> <Loadingtwo /> </>
+})
 const Nss = loadable({
   loader: () => import("./other-compo/Nss"),
   loading: () => <> <Loadingtwo /> </>
@@ -191,6 +195,7 @@ const ToggleHandler=()=>{
           <Route path='/library-schedule' component={TimeTable} />
           <Route path='/adacmiccal' component={Adacal} /> 
           <Route path='/naac' component={Naac} />
+          <Route path='/bestpractice' component={Bestp} />
           <Route path='/ssr' component={ssr} />
           <Route path='/nss' component={Nss} />
           <Route path='/feedback' component={Feedback} />

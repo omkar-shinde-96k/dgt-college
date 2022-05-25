@@ -35,7 +35,7 @@ function Naac() {
                                 </a>
 
                             <a className="list-group-item list-group-item-action" id="list-profile-list" data-toggle="list"
-                                href="#list" role="tab" aria-controls="profile">Best Practices</a>
+                                href="../Bestpractice" role="tab" aria-controls="profile">Best Practices</a>
 
                             <a className="list-group-item active list-group-item-action" id="list-messages-list" data-toggle="list"
                                 href="../documents/naac/Program Outcomes.pdf" role="tab" aria-controls="messages">Program outcome & course outcome</a>
