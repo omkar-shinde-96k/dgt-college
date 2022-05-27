@@ -6,7 +6,7 @@ function welshe() {
                 <div className=" row text-center" >
                     <div className="col-4" style={{ height: "100%", minWidth: "90%!important" }}>
                         <div className="list-group" id="list-tab" role="tablist" style={{ height: "100%", width: "100%" }}>
-                            <h1 style={{ marginTop: "15px", color: "tomato", textShadow: "3px 3px 5px blue;" }} className="text-center">NAAC/IQAC
+                            <h1 style={{ marginTop: "15px", color: "tomato", textShadow: "3px 3px 5px blue;" }} className="text-center">welfare schemes
                             </h1>
                             <br />
 

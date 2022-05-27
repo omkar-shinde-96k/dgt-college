@@ -2,13 +2,7 @@ import '../departments/Dept.css';
 function Bestp() {
     return (
         <>
-          <div className="events">
-                    <h3 className="events-title" align="center"> Best Practices</h3> <br />
-                  
-                    <br />
-                    <div className="row md-2 events-img">
-
-                    <p
+   <p
     style={{
       marginTop: "0cm",
       marginRight: "0cm",
@@ -321,8 +315,6 @@ function Bestp() {
       textAlign: "center"
     }}
   >
-    
-
     <strong>Title of the Practice</strong>: "
     <strong>
       <u>Teaching with Updates</u>"
@@ -557,10 +549,7 @@ function Bestp() {
     additional effort for obtaining these notes and passing it in lecture format
     to the students.
   </p>
-                            
-                    </div>
-                </div>
-        
+                 
         </>
         );
     }
