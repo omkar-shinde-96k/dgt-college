@@ -26,6 +26,7 @@ function Bestp() {
       marginLeft: "0cm",
       lineHeight: "normal",
       fontSize: 16,
+      color:"black",
       fontFamily: '"Times New Roman",serif',
       textAlign: "justify"
     }}
@@ -41,7 +42,8 @@ function Bestp() {
       lineHeight: "normal",
       fontSize: 16,
       fontFamily: '"Times New Roman",serif',
-      textAlign: "justify"
+      textAlign: "justify",
+      color:"black"
     }}
   >
     <strong>Objectives of the Practice:</strong>
@@ -73,7 +75,8 @@ function Bestp() {
       lineHeight: "normal",
       fontSize: 16,
       fontFamily: '"Times New Roman",serif',
-      textAlign: "justify"
+      textAlign: "justify",
+      color:"black"
     }}
   >
     <strong>&nbsp;</strong>
@@ -86,6 +89,7 @@ function Bestp() {
       marginLeft: "0cm",
       lineHeight: "normal",
       fontSize: 16,
+      color:"black",
       fontFamily: '"Times New Roman",serif',
       textAlign: "justify"
     }}
@@ -100,6 +104,7 @@ function Bestp() {
       marginLeft: "0cm",
       lineHeight: "normal",
       fontSize: 16,
+      color:"black",
       fontFamily: '"Times New Roman",serif',
       textAlign: "justify"
     }}
@@ -117,6 +122,7 @@ function Bestp() {
       marginLeft: "0cm",
       lineHeight: "normal",
       fontSize: 16,
+      color:"black",
       fontFamily: '"Times New Roman",serif',
       textAlign: "justify"
     }}
@@ -131,6 +137,7 @@ function Bestp() {
       marginLeft: "0cm",
       lineHeight: "normal",
       fontSize: 16,
+      color:"black",
       fontFamily: '"Times New Roman",serif',
       textAlign: "justify"
     }}
@@ -145,6 +152,7 @@ function Bestp() {
       marginLeft: "0cm",
       lineHeight: "normal",
       fontSize: 16,
+      color:"black",
       fontFamily: '"Times New Roman",serif',
       textAlign: "justify"
     }}
@@ -167,6 +175,7 @@ function Bestp() {
       marginLeft: "0cm",
       lineHeight: "normal",
       fontSize: 16,
+      color:"black",
       fontFamily: '"Times New Roman",serif'
     }}
   >
@@ -180,6 +189,7 @@ function Bestp() {
       marginLeft: "0cm",
       lineHeight: "normal",
       fontSize: 16,
+      color:"black",
       fontFamily: '"Times New Roman",serif'
     }}
   >
@@ -193,6 +203,7 @@ function Bestp() {
       marginLeft: "0cm",
       lineHeight: "normal",
       fontSize: 16,
+      color:"black",
       fontFamily: '"Times New Roman",serif',
       textAlign: "justify"
     }}
@@ -213,6 +224,7 @@ function Bestp() {
       marginLeft: "0cm",
       lineHeight: "normal",
       fontSize: 16,
+      color:"black",
       fontFamily: '"Times New Roman",serif',
       textAlign: "justify"
     }}
@@ -225,6 +237,7 @@ function Bestp() {
       marginRight: "0cm",
       marginBottom: "0cm",
       marginLeft: "0cm",
+      color:"black",
       lineHeight: "normal",
       fontSize: 16,
       fontFamily: '"Times New Roman",serif',
@@ -241,6 +254,7 @@ function Bestp() {
       marginLeft: "0cm",
       lineHeight: "normal",
       fontSize: 16,
+      color:"black",
       fontFamily: '"Times New Roman",serif',
       textAlign: "justify"
     }}
@@ -259,6 +273,7 @@ function Bestp() {
       marginLeft: "0cm",
       lineHeight: "normal",
       fontSize: 16,
+      color:"black",
       fontFamily: '"Times New Roman",serif',
       textAlign: "justify"
     }}
@@ -273,6 +288,7 @@ function Bestp() {
       marginLeft: "0cm",
       lineHeight: "normal",
       fontSize: 16,
+      color:"black",
       fontFamily: '"Times New Roman",serif',
       textAlign: "justify"
     }}
@@ -299,6 +315,7 @@ function Bestp() {
       marginLeft: "0cm",
       lineHeight: "107%",
       fontSize: 16,
+      color:"black",
       fontFamily: '"Times New Roman",serif'
     }}
   >
@@ -312,6 +329,7 @@ function Bestp() {
       marginLeft: "0cm",
       lineHeight: "normal",
       fontSize: 16,
+      color:"black",
       fontFamily: '"Times New Roman",serif',
       textAlign: "center"
     }}
@@ -329,6 +347,7 @@ function Bestp() {
       marginLeft: "0cm",
       lineHeight: "normal",
       fontSize: 16,
+      color:"black",
       fontFamily: '"Times New Roman",serif',
       textAlign: "justify"
     }}
@@ -343,6 +362,7 @@ function Bestp() {
       marginLeft: "0cm",
       lineHeight: "normal",
       fontSize: 16,
+      color:"black",
       fontFamily: '"Times New Roman",serif',
       textAlign: "justify"
     }}
@@ -375,6 +395,7 @@ function Bestp() {
       marginLeft: "0cm",
       lineHeight: "normal",
       fontSize: 16,
+      color:"black",
       fontFamily: '"Times New Roman",serif',
       textAlign: "justify"
     }}
@@ -389,6 +410,7 @@ function Bestp() {
       marginLeft: "0cm",
       lineHeight: "normal",
       fontSize: 16,
+      color:"black",
       fontFamily: '"Times New Roman",serif',
       textAlign: "justify"
     }}
@@ -403,6 +425,7 @@ function Bestp() {
       marginLeft: "0cm",
       lineHeight: "normal",
       fontSize: 16,
+      color:"black",
       fontFamily: '"Times New Roman",serif',
       textAlign: "justify"
     }}
@@ -420,6 +443,7 @@ function Bestp() {
       marginLeft: "0cm",
       lineHeight: "normal",
       fontSize: 16,
+      color:"black",
       fontFamily: '"Times New Roman",serif',
       textAlign: "justify"
     }}
@@ -434,6 +458,7 @@ function Bestp() {
       marginLeft: "0cm",
       lineHeight: "normal",
       fontSize: 16,
+      color:"black",
       fontFamily: '"Times New Roman",serif',
       textAlign: "justify"
     }}
@@ -448,6 +473,7 @@ function Bestp() {
       marginLeft: "0cm",
       lineHeight: "normal",
       fontSize: 16,
+      color:"black",
       fontFamily: '"Times New Roman",serif',
       textAlign: "justify"
     }}
@@ -470,6 +496,7 @@ function Bestp() {
       marginLeft: "0cm",
       lineHeight: "normal",
       fontSize: 16,
+      color:"black",
       fontFamily: '"Times New Roman",serif'
     }}
   >
@@ -483,6 +510,7 @@ function Bestp() {
       marginLeft: "0cm",
       lineHeight: "normal",
       fontSize: 16,
+      color:"black",
       fontFamily: '"Times New Roman",serif'
     }}
   >
@@ -496,6 +524,7 @@ function Bestp() {
       marginLeft: "0cm",
       lineHeight: "normal",
       fontSize: 16,
+      color:"black",
       fontFamily: '"Times New Roman",serif',
       textAlign: "justify"
     }}
@@ -513,6 +542,7 @@ function Bestp() {
       marginLeft: "0cm",
       lineHeight: "normal",
       fontSize: 16,
+      color:"black",
       fontFamily: '"Times New Roman",serif',
       textAlign: "justify"
     }}
@@ -527,6 +557,7 @@ function Bestp() {
       marginLeft: "0cm",
       lineHeight: "normal",
       fontSize: 16,
+      color:"black",
       fontFamily: '"Times New Roman",serif',
       textAlign: "justify"
     }}
@@ -541,6 +572,7 @@ function Bestp() {
       marginLeft: "0cm",
       lineHeight: "normal",
       fontSize: 16,
+      color:"black",
       fontFamily: '"Times New Roman",serif',
       textAlign: "justify"
     }}
