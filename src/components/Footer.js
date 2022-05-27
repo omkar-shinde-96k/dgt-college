@@ -18,7 +18,7 @@ function Footer() {
                             <h4>Navigation</h4>
                             <ul>
                                 <li><i className="fa fa-angle-double-right primary" aria-hidden="true"></i><a href="/"><NavLink to="/greencampus">Green audit</NavLink></a></li>
-                                <li><i className="fa fa-angle-double-right primary" aria-hidden="true"></i><a href="../documents/naac/Insfrastruture.pdf"><NavLink to="../documents/naac/Insfrastruture.pdf">Infrastructure</NavLink></a></li>
+                                <li><i className="fa fa-angle-double-right primary" aria-hidden="true"></i><a href="../documents/naac/Insfrastructure.pdf"><NavLink to="../documents/naac/Insfrastructure.pdf">Infrastructure</NavLink></a></li>
                                 {/* <li><i className="fa fa-angle-double-right" aria-hidden="true"></i><a  href="/"> <NavLink to="/chemistry">Bsc Chemistry</NavLink></a></li>
                                 <li><i className="fa fa-angle-double-right" aria-hidden="true"></i><a href="/"><NavLink to="/bscit/temp">Bsc IT</NavLink></a></li>
                                 <li><i className="fa fa-angle-double-right" aria-hidden="true"></i><a href="/"><NavLink to="/BMS">B.M.S</NavLink></a></li>
