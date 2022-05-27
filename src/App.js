@@ -52,6 +52,10 @@ const Nstaff = loadable({
   loader: () => import("./staff/N-staff"),
   loading: () => <> <Loadingtwo /> </>
 }) 
+const welshe = loadable({
+  loader: () => import("./staff/welshe"),
+  loading: () => <> <Loadingtwo /> </>
+}) 
 const TimeTable = loadable({
   loader: () => import("./other-compo/TimeTables"),
   loading: () => <> <Loadingtwo /> </>
@@ -188,6 +192,7 @@ const ToggleHandler=()=>{
 
          <Route path='/teaching-staff' component={Tstaff} />
           <Route path='/non-teach-staff' component={Nstaff} />
+          <Route path='/welfareschemes' component={welshe} />
 
           <Route path='/termwise-schedule' component={TimeTable} />
           <Route path='/daywise-schedule' component={TimeTable} />
