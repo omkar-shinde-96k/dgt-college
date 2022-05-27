@@ -14,16 +14,16 @@ function welshe() {
                                 data-toggle="list" href="../documents/welfare scheme/2016-2017.pdf" role="tab" aria-controls="home">2016-17</a>
                             
                             <a className="list-group-item   list-group-item-action" id="list-messages-list" data-toggle="list"
-                                href="../documents/naac/iqac.png" role="tab" aria-controls="messages">2017-18</a>
+                                href="../documents/welfare scheme/2017-2018.pdf" role="tab" aria-controls="messages">2017-18</a>
 
                             <a className="list-group-item active list-group-item-action" id="list-profile-list" data-toggle="list"
-                                href="../documents/naac/pear-team.pdf" role="tab" aria-controls="profile">2018-19</a>
+                                href="../documents/welfare scheme/2018-2019.pdf" role="tab" aria-controls="profile">2018-19</a>
                             
                             <a className="list-group-item    list-group-item-action" id="list-messages-list" data-toggle="list"
-                                href="../documents/naac/atr.pdf" role="tab" aria-controls="messages">2019-20</a>
+                                href="../documents/welfare scheme/2019-2020.pdf" role="tab" aria-controls="messages">2019-20</a>
 
                             <a className="list-group-item active list-group-item-action" id="list-messages-list" data-toggle="list"
-                                href="../aqar" role="tab" aria-controls="messages">2020-21</a>
+                                href="../documents/welfare scheme/2020-2021.pdf" role="tab" aria-controls="messages">2020-21</a>
 
                             
                         </div>
