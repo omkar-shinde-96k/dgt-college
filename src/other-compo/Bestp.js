@@ -9,7 +9,7 @@ function Bestp() {
       marginBottom: "0cm",
       marginLeft: "0cm",
       lineHeight: "normal",
-      fontSize: 16,
+      fontSize: 24,
       fontFamily: '"Times New Roman",serif',
       textAlign: "center",
       color:"black"
@@ -328,7 +328,7 @@ function Bestp() {
       marginBottom: "0cm",
       marginLeft: "0cm",
       lineHeight: "normal",
-      fontSize: 16,
+      fontSize: 24,
       color:"black",
       fontFamily: '"Times New Roman",serif',
       textAlign: "center"
