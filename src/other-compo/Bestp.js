@@ -11,7 +11,8 @@ function Bestp() {
       lineHeight: "normal",
       fontSize: 16,
       fontFamily: '"Times New Roman",serif',
-      textAlign: "center"
+      textAlign: "center",
+      color:"black"
     }}
   >
     <strong>Title of the Practice</strong>: "
