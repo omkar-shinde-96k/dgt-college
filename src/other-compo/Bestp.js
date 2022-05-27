@@ -2,6 +2,14 @@ import '../departments/Dept.css';
 function Bestp() {
     return (
         <>
+        <div 
+        style={{
+            marginTop: "5cm",
+            marginRight: "5cm",
+            marginBottom: "5cm",
+            marginLeft: "5cm"
+        }}
+        >
    <p
     style={{
       marginTop: "0cm",
@@ -582,7 +590,7 @@ function Bestp() {
     additional effort for obtaining these notes and passing it in lecture format
     to the students.
   </p>
-                 
+  </div>     
         </>
         );
     }
