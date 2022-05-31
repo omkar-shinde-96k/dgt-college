@@ -12,16 +12,16 @@ function Feedback() {
                             </h1>
                             <br />
 
-                            {/* <a className="list-group-item list-group-item-action active .listclass" id="list-home-list"
-                                data-toggle="list" href="https://docs.google.com/forms/u/0/d/e/1FAIpQLSfhjhigFxjr6PopU4-5hwmJO42BM0hMZZRqTkoMyc7rFcH6og/closedform" role="tab" aria-controls="home">Students Feedback Forms</a>
+                            <a className="list-group-item list-group-item-action active .listclass" id="list-home-list"
+                                data-toggle="list" href="https://docs.google.com/forms/d/e/1FAIpQLSfYTN_IKX9p5F38S7pnLW2h55YkeDPOQBd2_qtA0kHeZ3_oqA/viewform" role="tab" aria-controls="home">Anti Ragging Application Form</a>
                             
                             <a className="list-group-item   list-group-item-action" id="list-messages-list" data-toggle="list"
-                                href="https://docs.google.com/forms/d/e/1FAIpQLSeY3smEjHDWtfDJ_nFWwCXOB6KHL4p5REuRosxTh_bSztGrcw/viewform?usp=sf_link" role="tab" aria-controls="messages">Alumni Feedback Forms</a>
+                                href="https://docs.google.com/forms/d/e/1FAIpQLScKLWcSB2KkH2Wi_2SdA6xieobzuTeyS40cCCso5Lv6ax03yg/viewform" role="tab" aria-controls="messages">INTERNAL COMPLIANCE (WDC) Application Form</a>
 
                             <a className="list-group-item active list-group-item-action" id="list-profile-list" data-toggle="list"
-                                href="https://docs.google.com/forms/d/e/1FAIpQLSfu1jCbhX5Llxfy0hCQYFzwVroeWsrPN4Hl9Jv9_XnRkJSoDg/viewform?usp=sf_link" role="tab" aria-controls="profile">Teachers Feedback Forms </a>
+                                href="https://docs.google.com/forms/d/e/1FAIpQLSeQ08csTX3eRglHMlPI0KByTmMkSM8C8GbNHJu40LgPxk0pwA/viewform" role="tab" aria-controls="profile">Students Grievance Application Form </a>
                             
-                          */}
+                         
    
                         </div>
 
