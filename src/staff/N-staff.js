@@ -92,6 +92,15 @@ function Marathi() {
                             </div>
                         </div>
                         <div className="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
+                            <div className="about_img"><img src="images/non-t-staff/gaurav.jpg" height="100%" alt="" />
+                                <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}>GAURAV GOPICHAND GAIKWAD
+ </span><span style={{ fontSize: "15px" }}>IT Lab Assistant</span></h5>
+                                <div className="about_opa">
+                                    <p >IT Lab Assistant</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
                             <div className="about_img"><img src="images/non-t-staff/Ankita Mhaske.jpg" height="100%" alt="" />
                                 <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}>Miss. Mhaske Ankita  </span><span style={{ fontSize: "15px" }}>Library Attendant</span></h5>
                                 <div className="about_opa">

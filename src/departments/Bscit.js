@@ -88,15 +88,12 @@ function Bscit() {
                                 </div>
                             </div>
                             <div className="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                                <div className="about_img"><img src="../images/t-staff/nadiya.jpg" alt="" />
-                                    <h5>Asst.Prof. Bandarkar Nadiya</h5>
-                                </div>
-                            </div>
-                            <div className="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
                                 <div className="about_img"><img src="../images/t-staff/snehal.jpg" alt="" />
                                     <h5> Asst.Prof. Ghone Snehal </h5>
                                 </div>
                             </div>
+                            
+                           
                             <div className="clearfix"></div>
                         </div>
                     </div>
