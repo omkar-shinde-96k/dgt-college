@@ -63,6 +63,18 @@ const Home = () => {
                         <br/>
                         <br/>
                         <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
   
                 <h1  >Welcome to our college</h1>
                 <p >
