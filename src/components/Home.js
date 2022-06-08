@@ -49,8 +49,20 @@ const Home = () => {
                         </a>
                     </div>
            
-            <div className="main" tyle={{ marginTop: "15rem" }}>
-
+            <div className="main" >
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
   
                 <h1  >Welcome to our college</h1>
                 <p >
