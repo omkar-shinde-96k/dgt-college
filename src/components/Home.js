@@ -50,32 +50,7 @@ const Home = () => {
                     </div>
            
             <div className="main" >
-                        <br/>
-                        <br/>
-                        <br/>
-                        <br/>
-                        <br/>
-                        <br/>
-                        <br/>
-                        <br/>
-                        <br/>
-                        <br/>
-                        <br/>
-                        <br/>
-                        <br/>
-                        <br/>
-                        <br/>
-                        <br/>
-                        <br/>
-                        <br/>
-                        <br/>
-                        <br/>
-                        <br/>
-                        <br/>
-                        <br/>
-                        <br/>
-                        <br/>
-  
+                  
                 <h1  >Welcome to our college</h1>
                 <p >
                 <span  style={{fontSize:"5rem",float:"left",textShadow:"none", margin: "1.2rem .2em 0.3rem 0",color:"orange"}}>M</span>angaon Shikshan Prasarak Mandal, Mangaon and its President Adv. Rajivji Sable laid the foundation stone of higher education in Mangaon on 1993. It was that time known as Arts’ Senior College. Later It was named as D.G.Tatkare College on 10th January 2010.
