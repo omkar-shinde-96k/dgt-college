@@ -3,7 +3,7 @@ import Navlinks from './Navlinks';
 function Navbar({toggle}) { 
     return (
         <>
-                        D.G. Tatkare Mahavidyalay Arts,Science,Commerce.
+             <img src="images/clg-front-view/banner.jpg" height="100%" alt="" />   
             <div className="main_section_agile" id="home" style={{ position: "sticky", top: "0px", zIndex: "100", background: "linear-gradient(150deg, blue , rgb(174, 0, 255))" }}>
                 <div className="agileits_w3layouts_banner_nav" id="top" style={{ margin:"0px", padding: "0px 5px 0 30px", width: "100%" }}>
                     <nav className="navbar navbar-default">
