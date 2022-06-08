@@ -15,7 +15,7 @@ function Navbar({toggle}) {
                                 <span className="icon-bar"></span>
                             </button>
                             <h1> 
-                           <NavLink  className="navbar-brand" to="/"><i className="fa fa-leanpub" aria-hidden="true"></i> DGTC</NavLink>  
+                           <NavLink  className="navbar-brand" to="/"><i className="fa fa-leanpub" aria-hidden="true"></i> D.G. Tatkare Mahavidyalay (Arts,Science,Commerce)</NavLink>  
                             </h1>
                         </div>
                         <div className="collapse navbar-collapse navbar-right">
