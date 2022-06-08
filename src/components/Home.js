@@ -115,11 +115,11 @@ const Home = () => {
  
                             src="images/clg-front-view/4.jpg" alt="" className="img-responsive"
  
-                            src="images/clg-front-view/dgt2.jpg" alt="" className="img-responsive" 
+                            // src="images/clg-front-view/dgt2.jpg" alt="" className="img-responsive" 
                             style={{ width: "100%", height: "100%" }} /> </div>
                     </div>
                 </div>
-                <div class="col-md-5 " style={{ padding: "35px 0px 0px 20px" }}>
+                <div class="col-md-5 " style={{ padding: "40px 0px 0px 20px" }}>
                     <h3 class="text-warning">Welcome to Our College</h3>
                     <p> <span  style={{fontSize:"5rem",float:"left", margin: "1.2rem .2em 0.3rem 0",color:"orange"}}>M</span>angaon Shikshan Prasarak Mandal, Mangaon and its President Adv. Rajivji Sable laid a
                         foundation stone of higher education in Mangaon on 1993. It was that time known as Arts’
