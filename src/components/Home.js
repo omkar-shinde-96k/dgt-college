@@ -49,7 +49,7 @@ const Home = () => {
                         </a>
                     </div>
            
-            <div className="main">
+            <div className="main" tyle={{ marginTop: "15rem" }}>
 
   
                 <h1  >Welcome to our college</h1>
