@@ -59,7 +59,7 @@ function Footer() {
                 </div>
                 <div className="copy_right">
                     <div className="container-fluid">
-                        <p>© 2021 DGTC. All rights reserved | Design by <a target="_blank"  rel="noreferrer" href="https://hanzalakathewadi.herokuapp.com/"><b style={{color:"blue"}}>Hanzala Kathewadi</b></a></p>
+                        <p>© 2022 DGTC. All rights reserved | Design by <a target="_blank"  rel="noreferrer" href="https://hanzalakathewadi.com/"><b style={{color:"blue"}}>Hanzala Kathewadi</b></a></p>
                     </div>
                 </div>
                 <a href="#" style={{position:"fixed",bottom:"30px",right:"30px",color:"blue",fontSize:"43px",textDecoration:"none"}} className="fa fa-arrow-up"></a>
