@@ -10,6 +10,23 @@ function Adacal() {
 
 
                 <div className="events" align="center">
+                <h3>Academic Calender 2022-23</h3>
+                <div className="row events-imdg"> 
+                        <a width="25%" href="../documents/naac/01.jpg"><img
+                            src="../documents/naac/01.jpg" width="25%"/></a> 
+                    </div>
+                    <div className="row events-imdg"> 
+                        <a width="25%" href="../documents/naac/02.jpg"><img
+                            src="../documents/naac/02.jpg" width="25%"/></a> 
+                    </div>
+                    <div className="row events-imdg"> 
+                        <a width="25%" href="../documents/naac/03.jpg"><img
+                            src="../documents/naac/03.jpg" width="25%"/></a> 
+                    </div>
+                    <div className="row events-imdg"> 
+                        <a width="25%" href="../documents/naac/04.jpg"><img
+                            src="../documents/naac/04.jpg" width="25%"/></a> 
+                    </div>
                     <h3>Academic Calender 2021-22</h3>
                 <div className="row events-imdg"> 
                         <a width="25%" href="../documents/naac/1.jpg"><img
