@@ -10,6 +10,19 @@ function Adacal() {
 
 
                 <div className="events" align="center">
+
+                <div className="row events-imdg"> 
+                        <a width="25%" href="../documents/naac/1.jpg"><img
+                            src="../documents/naac/1.jpg" width="25%"/></a> 
+                    </div>
+                    <div className="row events-imdg"> 
+                        <a width="25%" href="../documents/naac/2.jpg"><img
+                            src="../documents/naac/2.jpg" width="25%"/></a> 
+                    </div>
+                    <div className="row events-imdg"> 
+                        <a width="25%" href="../documents/naac/3.jpg"><img
+                            src="../documents/naac/3.jpg" width="25%"/></a> 
+                    </div>
                     <div className="row events-imdg"> 
                         <a width="25%" href="../documents/naac/ACDCAL1920.jpg"><img
                             src="../documents/naac/ACDCAL1920.jpg" width="25%"/></a> 
