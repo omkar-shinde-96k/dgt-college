@@ -13,11 +13,11 @@ function Feedback() {
                             <br />
                             <a className="list-group-item list-group-item-action active .listclass" id="list-home-list"
                                 data-toggle="list" href="https://forms.gle/oUvVNWanz5ErEdkc8" role="tab" aria-controls="home">Alumni Feedback 2021-2022</a>
-                            <a className="list-group-item list-group-item-action active .listclass" id="list-home-list"
+                            <a className="list-group-item list-group-item-action active .listclass" id="list-messages-list"
                                 data-toggle="list" href="https://forms.gle/p1LgWJSafE4m14XA7" role="tab" aria-controls="messages">Students Feedback 2021-2022</a>
                             <a className="list-group-item list-group-item-action active .listclass" id="list-home-list"
                                 data-toggle="list" href="https://forms.gle/R3ks1dSn1Es1r5Nh6" role="tab" aria-controls="home">Teachers Feedback 2021-2022</a>
-                                <a className="list-group-item list-group-item-action active .listclass" id="list-home-list"
+                                <a className="list-group-item list-group-item-action active .listclass" id="list-messages-list"
                                 data-toggle="list" href="https://forms.gle/HDEWHUyH9bgH4pFy5" role="tab" aria-controls="messages">Parents Feedback 2021-2022</a>    
                             <a className="list-group-item list-group-item-action active .listclass" id="list-home-list"
                                 data-toggle="list" href="https://docs.google.com/forms/d/e/1FAIpQLSfYTN_IKX9p5F38S7pnLW2h55YkeDPOQBd2_qtA0kHeZ3_oqA/viewform" role="tab" aria-controls="home">Anti Ragging Application Form</a>
