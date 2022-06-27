@@ -210,6 +210,19 @@ const Navlinks = ({ toggle }) => {
                 <div className="dropdown-content">
                     <NavLink onClick={toggle} to="/library">Library Profile</NavLink>
                     <NavLink onClick={toggle} to="/libraryEvent">Library Events</NavLink>
+                    <a>Research work &nbsp;
+                        <i className="fa fa-caret-down"></i>
+                        <ul className="subdrop">
+                            <li>
+                                <a onClick={toggle} href="../documents/"  >Research Project</a>
+                            </li>
+                            <li>
+                                <a onClick={toggle} href="/researchpaper">Research Paper Publication</a>
+                            </li> 
+                            <li>
+                                <a onClick={toggle} href="../documents/">Research Book Publication</a>
+                            </li> 
+                        </ul></a>
                 </div>
             </li>
  

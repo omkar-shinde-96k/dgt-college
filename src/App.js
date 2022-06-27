@@ -56,6 +56,7 @@ const welshe = loadable({
   loader: () => import("./staff/welshe"),
   loading: () => <> <Loadingtwo /> </>
 }) 
+
 const TimeTable = loadable({
   loader: () => import("./other-compo/TimeTables"),
   loading: () => <> <Loadingtwo /> </>
@@ -70,6 +71,10 @@ const Naac = loadable({
 })
 const Bestp = loadable({
   loader: () => import("./other-compo/Bestp"),
+  loading: () => <> <Loadingtwo /> </>
+})
+const Researchpaper = loadable({
+  loader: () => import("./other-compo/Researchpaper"),
   loading: () => <> <Loadingtwo /> </>
 })
 const Nss = loadable({
@@ -201,6 +206,8 @@ const ToggleHandler=()=>{
           <Route path='/adacmiccal' component={Adacal} /> 
           <Route path='/naac' component={Naac} />
           <Route path='/bestpractice' component={Bestp} />
+          <Route path='/researchpaper' component={Researchpaper} />
+          
           <Route path='/ssr' component={ssr} />
           <Route path='/nss' component={Nss} />
           <Route path='/feedback' component={Feedback} />
