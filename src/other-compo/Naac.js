@@ -16,7 +16,7 @@ function Naac() {
                                 data-toggle="list" href="#list-home" role="tab" aria-controls="home">Introduction</a>
                             
                             <a className="list-group-item   list-group-item-action" id="list-messages-list" data-toggle="list"
-                                href="../documents/naac/iqac.png" role="tab" aria-controls="messages">IQAC Committee</a>
+                                href="../documents/naac/iqac.pdf" role="tab" aria-controls="messages">IQAC Committee</a>
 
                             <a className="list-group-item active list-group-item-action" id="list-profile-list" data-toggle="list"
                                 href="../documents/naac/pear-team.pdf" role="tab" aria-controls="profile">PEER TEAM REPORT </a>
