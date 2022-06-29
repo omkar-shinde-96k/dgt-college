@@ -270,7 +270,7 @@ const Navlinks = ({ toggle }) => {
                 <div className="dropdown-content">
                     <NavLink onClick={toggle} to="/naac">IQAC</NavLink>
                     <NavLink onClick={toggle} to="/naacssr">SSR</NavLink>
-                    <NavLink onClick={toggle} to="../documents/naac/iiqa.pdf">IIQA</NavLink>
+                    <NavLink onClick={toggle} href="../documents/naac/iiqa.pdf">IIQA</NavLink>
                 </div>
             </li>
 
