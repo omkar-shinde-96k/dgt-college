@@ -214,7 +214,7 @@ const Navlinks = ({ toggle }) => {
                         <i className="fa fa-caret-down"></i>
                         <ul className="subdrop">
                             <li>
-                                <a onClick={toggle} href="../documents/Research Paper/Research Project.pdf"  >Research Project</a>
+                                <a onClick={toggle} href="../documents/Reasearch Paper/Research Project.pdf"  >Research Project</a>
                             </li>
                             <li>
                                 <a onClick={toggle} href="/researchpaper">Research Paper Publication</a>
