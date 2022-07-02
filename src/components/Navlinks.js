@@ -220,7 +220,7 @@ const Navlinks = ({ toggle }) => {
                                 <a onClick={toggle} href="/researchpaper">Research Paper Publication</a>
                             </li> 
                             <li>
-                                <a onClick={toggle} href="../documents/">Research Book Publication</a>
+                                <a onClick={toggle} href="../documents/Reasearch Paper/Research Books.pdf">Research Book Publication</a>
                             </li> 
                         </ul></a>
                 </div>
