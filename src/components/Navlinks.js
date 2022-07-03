@@ -86,6 +86,9 @@ const Navlinks = ({ toggle }) => {
                             </li> 
                         </ul>
                     </a> 
+                    <li>
+                                <a onClick={toggle} href="../documents/naac/support document/Add on Appoinments.pdf"  >Add On Courses </a> 
+                    </li>
                 </div>
             </li>
 
