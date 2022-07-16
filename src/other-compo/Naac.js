@@ -41,7 +41,7 @@ function Naac() {
                                 href="../documents/naac/Program Outcomes.pdf" role="tab" aria-controls="messages">Program outcome & course outcome</a>
 
                             <a className="list-group-item   list-group-item-action" id="list-messages-list" data-toggle="list"
-                                href="#list" role="tab" aria-controls="messages">Institutional Distinctiveness</a>
+                                href="../documents/naac/Institutional Distinctiveness.pdf" role="tab" aria-controls="messages">Institutional Distinctiveness</a>
 
                             <a className="list-group-item  active list-group-item-action" id="list-messages-list" data-toggle="list"
                                 href="#list" role="tab" aria-controls="messages">NIRF</a>
