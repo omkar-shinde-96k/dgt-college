@@ -43,8 +43,8 @@ function Tstaff() {
                     <div className="team-w3l-grid grid-2-team">
 
                         <div className="col-md-4 col-sm-4 col-xs-4 about-poleft t1">
-                            <div className="about_img"><img src="images/t-staff/TSLokhande.jpg" height="100%" alt="" />
-                                <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}> Dr. T.S. Lokhande </span><span style={{ fontSize: "15px" }}> M.A. (History), B.Ed., Ph.D.</span></h5>
+                            <div className="about_img"><img src="images/t-staff/Dkekane.jpg" height="100%" alt="" />
+                                <h5 style={{ lineHeight: "20px" }}> <span style={{ fontSize: "20px", marginTop: "10px" }}> Dipesh Kekane</span><span style={{ fontSize: "15px" }}> M.A. (History), B.Ed., Ph.D.</span></h5>
                                 <div className="about_opa">
                                     <p >M.A. (History), B.Ed., Ph.D.</p>
                                 </div>
